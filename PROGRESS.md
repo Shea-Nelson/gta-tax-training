@@ -51,3 +51,11 @@ Last updated: 2026-11-22 ~01:40 ET
 - CST guide: `content/cst/` (17 modules + 6 hubs), built by `build_tax('cst')`; harvest in `source/cst/`; checks in `tests/cst/` (`check-cst.mjs URL [sut]`, `facts_cst.py`), `tests/cstcalc.test.js`.
 - Main nav on every page now lists Home, Sales & Use Tax, Communications Services Tax, then the current guide's tools (home uses SUT tools). `python3 tests/nav_check.py` asserts tabs, aria-current and section-current on all built pages.
 - Vague titles in `content/sources.json` ("PDF", "Fillable PDF", "DOC", "memorandum", bare form numbers) replaced by `tools/fix_source_titles.py` (evidence: forms catalog, official forms-library table rows in harvested pages, CST sources, PDF Title metadata, `source/title-manual.json`). Audit trail: `source/title-fixes.json`.
+
+## Polish pass from the issues register (2026-11-22 ~07:45 ET)
+- Issues register: private repo https://github.com/Shea-Nelson/gta-tax-training-issues (`tools/issues_data.py` is the source; `python3 tools/build.py` regenerates SUT.md, CST.md, README.md, issues.csv, issues.json).
+- Fixed: CST interest for Jan-Jun 2027 (TIP 26ADM-06) in Module 16, quick reference, sources; wrong "Rule 12A-19.100 adopts an older DR-700016N" row removed; DR-700016N "cable service" note in CST Module 2; doubled "Worked example: Example:" box titles (CSS adds the prefix; 16 CST titles and 2 SUT titles); citation labels and titles cleaned in content/sources.json and content/cst/sources.json; DR-1 TEAM title typo; verify-taxcerts link restored (200 on Nov 22); SUT sources robots.txt wording; SUT<->CST cross-links (SUT 04, 08A, 16; CST 11, 12, 13, 16); 25 short quiz explanations rewritten; CST "Form finder" renamed "Form and publication finder"; narrow-screen nav and notice spacing (nav 5 rows -> 4 at 320 px).
+- tools/make_forms.py: ROOT was hard-coded to /workspace/gta/sut-training (stale clone); now relative to the repo.
+- New checks: tests/source_labels_check.py (fails on raw file-name labels, line breaks in titles, placeholder TIP titles, unhyphenated form numbers, duplicate labels); facts_cst.py +2 (TIP 26ADM-06).
+- tools/recheck_sources.py: polite one-off URL re-check (used Nov 22 for 2027 DR-15DSS, CST rate workbook, TIP index, 404 brochures, verify-taxcerts).
+- Before/after screenshots: tests/out/polish/ (shot script tests/shot-polish.mjs before|after).

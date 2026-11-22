@@ -134,6 +134,8 @@ ol.steps{counter-reset:s;list-style:none;padding:0}
 ol.steps>li{counter-increment:s;position:relative;padding-left:2.6rem;margin:.75rem 0}
 ol.steps>li::before{content:counter(s);position:absolute;left:0;top:0;width:1.9rem;height:1.9rem;border-radius:50%;background:var(--navy);color:#fff;font-weight:700;display:grid;place-items:center}
 kbd,code{font-family:Consolas,"Courier New",monospace;background:var(--grey-2);padding:0 .25rem;border-radius:3px}
+/* narrow screens: tighter nav and notice so the page title shows sooner; links keep 44px targets */
+@media (max-width:40rem){.primary a{padding:.6rem .7rem;font-size:.84rem;letter-spacing:0}.disclaimer{font-size:.86rem;padding:.5rem 1rem}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
 @media (forced-colors:active){.primary a[aria-current="page"]{border-bottom:4px solid CanvasText}.feedback{border:1px solid CanvasText}}

@@ -405,7 +405,7 @@
   "sutRelated": true
  },
  "dr-1%20team": {
-  "title": "DR-1 TEAM: Application for a Florida Farm Tax ExemptAgricultural Materials (TEAM) Card",
+  "title": "DR-1 TEAM: Application for a Florida Farm Tax Exempt Agricultural Materials (TEAM) Card",
   "url": "https://floridarevenue.com/Forms_library/current/DR-1%20TEAM.pdf",
   "short": "DR-1",
   "kind": "form",
@@ -614,7 +614,7 @@
  "dr15dss": {
   "title": "DR-15DSS: Discretionary Sales Surtax Information for Calendar Year 2025 (file at /current/ path)",
   "url": "https://floridarevenue.com/Forms_library/current/dr15dss.pdf",
-  "short": "DR-15DSS",
+  "short": "DR-15DSS (2025 edition)",
   "kind": "form",
   "date": "rev. 11/24",
   "path": "forms/dr15dss.pdf",
@@ -623,7 +623,7 @@
  "dr15dss_26": {
   "title": "DR-15DSS: Discretionary Sales Surtax Information for Calendar Year 2026",
   "url": "https://floridarevenue.com/Forms_library/current/dr15dss_26.pdf",
-  "short": "DR-15DSS",
+  "short": "DR-15DSS (2026)",
   "kind": "form",
   "date": "rev. 11/25",
   "path": "forms/dr15dss_26.pdf",
@@ -1602,7 +1602,7 @@
   "sutRelated": false
  },
  "dr654": {
-  "title": "DR-654: Request for Waiver from Electronic Filing This form is for Informational purposes only. Call 850-488-6800 to request a form.",
+  "title": "DR-654: Request for Waiver from Electronic Filing (informational copy; call 850-488-6800 to request the form)",
   "url": "https://floridarevenue.com/Forms_library/current/dr654.pdf",
   "short": "DR-654",
   "kind": "form",
@@ -1703,7 +1703,7 @@
  "dr700016n": {
   "title": "DR-700016N: Instructions for Communications Services Tax Returns",
   "url": "https://floridarevenue.com/Forms_library/current/dr700016n.pdf",
-  "short": "DR700016N",
+  "short": "DR-700016N",
   "kind": "form",
   "date": "rev. 01/26",
   "path": "forms/dr700016n.pdf",
@@ -1730,7 +1730,7 @@
  "dr700021": {
   "title": "DR-700021: Local Communications Services Tax Notification of Tax Rate Change",
   "url": "https://floridarevenue.com/Forms_library/current/dr700021.pdf",
-  "short": "DR700021",
+  "short": "DR-700021",
   "kind": "form",
   "date": "rev. 06/12",
   "path": "forms/dr700021.pdf",
@@ -1766,7 +1766,7 @@
  "dr700026": {
   "title": "DR-700026: Local Government Authorization For Address Changes Described on Form DR-700025",
   "url": "https://floridarevenue.com/Forms_library/current/dr700026.pdf",
-  "short": "DR700026",
+  "short": "DR-700026",
   "kind": "form",
   "date": "rev. 10/13",
   "path": "forms/dr700026.pdf",
@@ -1784,7 +1784,7 @@
  "dr700032": {
   "title": "DR-700032: Renewal Notice and Application for Self-Accrual Authority/Direct Pay Permit - Communications Services Tax",
   "url": "https://floridarevenue.com/Forms_library/current/dr700032.pdf",
-  "short": "DR700032",
+  "short": "DR-700032",
   "kind": "form",
   "date": "new 06/06",
   "path": "forms/dr700032.pdf",
@@ -1793,7 +1793,7 @@
  "dr700033": {
   "title": "DR-700033: Notification of Alternative-Period Basis Reporting for Communications Services Tax",
   "url": "https://floridarevenue.com/Forms_library/current/dr700033.pdf",
-  "short": "DR700033",
+  "short": "DR-700033",
   "kind": "form",
   "date": "",
   "path": "forms/dr700033.pdf",
@@ -1845,7 +1845,7 @@
   "sutRelated": false
  },
  "dr841": {
-  "title": "DR-841: Request for Copy of Tax Returns Requests can be emailed to: RecordsRequests@floridarevenue.com",
+  "title": "DR-841: Request for Copy of Tax Returns",
   "url": "https://floridarevenue.com/Forms_library/current/dr841.pdf",
   "short": "DR-841",
   "kind": "form",
@@ -3150,18 +3150,18 @@
   "sutRelated": null
  },
  "dr15-electronicfilepayguide": {
-  "title": "Guide to Sales and Use Tax Return (Form\n                                        DR-15)",
+  "title": "Guide to Sales and Use Tax Return (Form DR-15), eFile and Pay",
   "url": "https://floridarevenue.com/taxes/Documents/dr15-ElectronicFilePayGuide.pdf",
-  "short": "DR-15",
+  "short": "DR-15 eFile guide",
   "kind": "document",
-  "date": "",
+  "date": "Oct. 2026",
   "path": "documents/dr15-ElectronicFilePayGuide.pdf",
   "sutRelated": true
  },
  "dr15ez-electronicfilepayguide": {
-  "title": "Guide to Sales and Use Tax Return (Form\n                                        DR-15EZ)",
+  "title": "Guide to Sales and Use Tax Return (Form DR-15EZ), eFile and Pay",
   "url": "https://floridarevenue.com/taxes/Documents/dr15ez-ElectronicFilePayGuide.pdf",
-  "short": "DR-15EZ",
+  "short": "DR-15EZ eFile guide",
   "kind": "document",
   "date": "",
   "path": "documents/dr15ez-ElectronicFilePayGuide.pdf",
@@ -3186,9 +3186,9 @@
   "sutRelated": true
  },
  "dr7dr15con-electronicfilepayguide": {
-  "title": "Guide to Consolidated Sales and Use Tax\n                                        Return\n                                        (Forms\n                                        DR-7 and DR-15CON)",
+  "title": "Guide to Consolidated Sales and Use Tax Return (Forms DR-7 and DR-15CON), eFile and Pay",
   "url": "https://floridarevenue.com/taxes/Documents/dr7dr15con-ElectronicFilePayGuide.pdf",
-  "short": "DR-7",
+  "short": "DR-7/DR-15CON eFile guide",
   "kind": "document",
   "date": "",
   "path": "documents/dr7dr15con-ElectronicFilePayGuide.pdf",
@@ -3197,7 +3197,7 @@
  "efilepayguide-cancelpayment": {
   "title": "Guide to Canceling a Payment",
   "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-cancelPayment.pdf",
-  "short": "eFilePayGuide-cancelPayment",
+  "short": "Canceling a payment guide",
   "kind": "document",
   "date": "",
   "path": "documents/eFilePayGuide-cancelPayment.pdf",
@@ -3206,9 +3206,9 @@
  "efilepayguide-directfile": {
   "title": "Guide to Direct File",
   "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-directFile.pdf",
-  "short": "eFilePayGuide-directFile",
+  "short": "Direct File guide",
   "kind": "document",
-  "date": "",
+  "date": "Oct. 2026",
   "path": "documents/eFilePayGuide-directFile.pdf",
   "sutRelated": true
  },
@@ -3242,7 +3242,7 @@
  "efilepayguide-paymentonlywebsite": {
   "title": "Guide to Payment-Only Website",
   "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-PaymentOnlyWebsite.pdf",
-  "short": "eFilePayGuide-PaymentOnlyWebsite",
+  "short": "Payment-only website guide",
   "kind": "document",
   "date": "",
   "path": "documents/eFilePayGuide-PaymentOnlyWebsite.pdf",
@@ -3276,9 +3276,9 @@
   "sutRelated": false
  },
  "fl_efilevendor": {
-  "title": "software vendor",
+  "title": "Software Vendors for eFiling (list)",
   "url": "https://floridarevenue.com/taxes/Documents/Fl_eFileVendor.pdf",
-  "short": "Fl_eFileVendor",
+  "short": "eFile software vendors",
   "kind": "document",
   "date": "rev. 05/26",
   "path": "documents/Fl_eFileVendor.pdf",
@@ -3384,9 +3384,9 @@
   "sutRelated": null
  },
  "passwordretrievalguide": {
-  "title": "How To Obtain Certificate\n            Number, Confirmation Number, and User ID for Password Retrieval",
+  "title": "How to Obtain Certificate Number, Confirmation Number, and User ID for Password Retrieval",
   "url": "https://floridarevenue.com/taxes/Documents/passwordRetrievalGuide.pdf",
-  "short": "passwordRetrievalGuide",
+  "short": "Password retrieval guide",
   "kind": "document",
   "date": "",
   "path": "documents/passwordRetrievalGuide.pdf",
@@ -9207,11 +9207,11 @@
   "sutRelated": true
  },
  "tip-26a01-02": {
-  "title": "TIP 26A01-02: Tax Information Publication #26A01-02",
+  "title": "TIP 26A01-02: Indexed Tax on Asphalt Increases to $1.19 per Ton for July 1, 2026 Through June 30, 2027",
   "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-02.pdf",
   "short": "TIP 26A01-02",
   "kind": "tip",
-  "date": "",
+  "date": "issued 06/19/26",
   "path": "tips/TIP_26A01-02.pdf",
   "sutRelated": true
  },
@@ -9450,11 +9450,11 @@
   "sutRelated": false
  },
  "tip-26adm-02": {
-  "title": "TIP 26ADM-02: Tax Information Publication #26ADM-02",
+  "title": "TIP 26ADM-02: Floating Rate of Interest Is 11% for the Period July 1, 2026 Through December 31, 2026",
   "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_26ADM-02.pdf",
   "short": "TIP 26ADM-02",
   "kind": "tip",
-  "date": "",
+  "date": "issued 05/12/26",
   "path": "tips/TIP_26ADM-02.pdf",
   "sutRelated": true
  },
@@ -10352,7 +10352,7 @@
  "howtocompletedr15": {
   "title": "Transcript - How to Complete the Paper-Based Sales and Use Tax Return (Form DR-15) Tutorial",
   "url": "https://floridarevenue.com/taxes/tutorial/tutorial_docs/howToCompleteDR15.docx",
-  "short": "DR-15",
+  "short": "DR-15 tutorial",
   "kind": "tutorial-transcript",
   "date": "",
   "path": "tutorials/howToCompleteDR15.docx",
@@ -10424,10 +10424,16 @@
  "efilepayguide-securefiletransmission": {
   "title": "Guide to Secure File Transmission (Bulk Filer)",
   "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf",
-  "short": "eFilePayGuide-secureFileTransmission",
+  "short": "Secure File Transmission guide",
   "kind": "document",
-  "date": "",
+  "date": "Nov. 2025",
   "path": "documents/eFilePayGuide-secureFileTransmission.pdf",
   "sutRelated": true
+ },
+ "verify-taxcerts": {
+  "title": "Verify Annual Resale Certificates or Consumer's Certificates of Exemption (DOR verification application)",
+  "url": "https://verify-taxcerts.floridarevenue.com/",
+  "short": "Certificate verification",
+  "kind": "page"
  }
 }

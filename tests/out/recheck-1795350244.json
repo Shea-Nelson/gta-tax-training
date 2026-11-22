@@ -1,0 +1,32 @@
+{
+ "https://floridarevenue.com/Pages/forms_index.aspx": {
+  "status": 200,
+  "len": 335019,
+  "lm": "Sun, 22 Nov 2026 12:23:56 GMT"
+ },
+ "https://floridarevenue.com/taxes/tips/Pages/default.aspx": {
+  "status": 200,
+  "len": 93860,
+  "lm": "Sun, 22 Nov 2026 12:23:58 GMT"
+ },
+ "https://floridarevenue.com/taxes/tips/Pages/2026.aspx": {
+  "status": 404,
+  "len": 685,
+  "lm": null
+ },
+ "https://floridarevenue.com/taxes/taxesfees/Pages/discretionary.aspx": {
+  "status": 200,
+  "len": 63120,
+  "lm": "Sun, 22 Nov 2026 12:24:01 GMT"
+ },
+ "https://floridarevenue.com/taxes/Documents/cst_rate_table.xlsx": {
+  "status": 200,
+  "len": 264899,
+  "lm": "Mon, 08 Dec 2025 13:39:56 GMT"
+ },
+ "https://floridarevenue.com/taxes/taxesfees/Pages/tax_interest_rates.aspx": {
+  "status": 200,
+  "len": 85061,
+  "lm": "Sun, 22 Nov 2026 12:24:04 GMT"
+ }
+}

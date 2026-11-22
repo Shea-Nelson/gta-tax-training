@@ -479,8 +479,9 @@
  "cst-efile-guide": {
   "title": "Communications Services Tax Guide to Communications Services Tax Return (Form DR-700016)",
   "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-cst.pdf",
-  "short": "DR-700016",
-  "kind": "document"
+  "short": "CST eFile guide",
+  "kind": "document",
+  "date": "Sept. 2026"
  },
  "grt-efile-guide": {
   "title": "Gross Receipts Tax Guide to Enrolled Gross Receipts",
@@ -1405,61 +1406,61 @@
  "faq-1270": {
   "title": "DOR Questions and Answers: “Should a mobile home park collect communications services tax if the park receives satellite services but resells the service to customers as cable service?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1270",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1270",
   "kind": "faq"
  },
  "faq-1271": {
   "title": "DOR Questions and Answers: “Are charges to callers for end-user 900 number services (e.g., charges for information provided over the phone such as horoscope or card readings) a taxable communications service, regardless of whether the number is an 800 or 900 number?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1271",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1271",
   "kind": "faq"
  },
  "faq-1276": {
   "title": "DOR Questions and Answers: “Are charges for pay-per-view movies by a hotel or motel subject to communications services tax?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1276",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1276",
   "kind": "faq"
  },
  "faq-1281": {
   "title": "DOR Questions and Answers: “I am a pay telephone operator. Am I required to register for communications services tax?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1281",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1281",
   "kind": "faq"
  },
  "faq-1316": {
   "title": "DOR Questions and Answers: “Are fax services taxable?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1316",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1316",
   "kind": "faq"
  },
  "faq-1319": {
   "title": "DOR Questions and Answers: “How do I register to collect and report tax, and which application do I use?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1319",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1319",
   "kind": "faq"
  },
  "faq-1356": {
   "title": "DOR Questions and Answers: “If my yearly tax liability for an individual tax or fee is less than $5,000, what steps should I take if I want to stop eFiling and/or ePaying that tax or fee?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1356",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1356",
   "kind": "faq"
  },
  "faq-1284": {
   "title": "DOR Questions and Answers: “Are information services subject to communications services tax?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1284",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1284",
   "kind": "faq"
  },
  "faq-1294": {
   "title": "DOR Questions and Answers: “Should a condominium or timeshare association collect communications services tax if the cable service provided to residents is included in the maintenance fee and not separately itemized?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1294",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1294",
   "kind": "faq"
  },
  "faq-1369": {
   "title": "DOR Questions and Answers: “Should an RV and/or mobile home park collect communications services tax if the park provides cable service to customers as part of a space or lot rental fee or maintenance fee and does not separately state the charge for cable service?”",
   "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1369",
-  "short": "DOR FAQ",
+  "short": "DOR FAQ 1369",
   "kind": "faq"
  },
  "cst-distributions": {

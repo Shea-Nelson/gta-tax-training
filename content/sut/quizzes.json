@@ -556,7 +556,7 @@
     "Only for commercial buyers"
    ],
    "answer": 1,
-   "why": "TIP 26A01-06 lists tents at a sales price of $200 or less."
+   "why": "No. TIP 26A01-06 exempts tents only when the sales price is $200 or less. A $220 tent is over the cap, so the whole price is taxable; the cap is not a deduction from the price."
   },
   {
    "q": "Can a dealer opt out of the annual Back-to-School holiday?",
@@ -598,7 +598,7 @@
     "A DR-1215"
    ],
    "answer": 1,
-   "why": "GT-800022: the DR-840 starts the 60-day notice period."
+   "why": "The Notice of Intent to Audit Books and Records (DR-840) starts an audit and its 60-day waiting period (GT-800022). The DR-1215 and the Notice of Proposed Assessment come later, at the end of the audit."
   },
   {
    "q": "How long does a taxpayer have to file a formal protest after a Notice of Proposed Assessment?",
@@ -620,7 +620,7 @@
     "$10"
    ],
    "answer": 1,
-   "why": "The penalty is 10% of the amount due, with a $50 minimum."
+   "why": "10% of $200 is $20, but the penalty has a $50 minimum, so the larger amount applies: $50."
   },
   {
    "q": "$2,000 of tax is paid 21 days late at a daily factor of 0.000301370. What is the interest?",
@@ -672,7 +672,7 @@
     "Because it has a café"
    ],
    "answer": 0,
-   "why": "2.5% × $1,200 = $30, the maximum."
+   "why": "The allowance is 2.5% of only the first $1,200 of tax due. 2.5% × $1,200 = $30, so $30 is the most any return can take, whatever the tax due."
   },
   {
    "q": "Which capstone items go on Line B?",

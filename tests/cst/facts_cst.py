@@ -53,6 +53,8 @@ C = [  # (claim, source text fn, source regex, built page slug, page regex)
  ('Stuart total local rate 5.220% from January 1, 2026', lambda: txt('tips/TIP_25A19-02.pdf.txt'), r'STUART 5\.220%', '15-rate-changes', r'5\.220%'),
  ('Hillsborough 2021: Tampa 6.020%', lambda: txt('tips/TIP_21A19-01.pdf.txt'), r'TAMPA 6\.020%', '15-rate-changes', r'6\.020%'),
  ('Interest Jul-Dec 2026 11%, factor 0.000301370', lambda: norm(open('/workspace/gta/sut-training/source/tips/TIP_26ADM-02.pdf.txt').read()) if glob.glob('/workspace/gta/sut-training/source/tips/TIP_26ADM-02.pdf.txt') else __import__('subprocess').run(['pdftotext','/workspace/gta/sut-training/source/tips/TIP_26ADM-02.pdf','-'],capture_output=True,text=True).stdout.replace('\n',' '), r'July 1, 2026, through December 31, 2026, is 11%\. The daily interest rate factor to be used for this period is 0\.000301370', '16-refunds-audits-penalties', r'0\.000301370'),
+ ('Interest Jan-Jun 2027 11%, factor 0.000301370 (TIP 26ADM-06)', lambda: norm(open('/workspace/gta/sut-training/source/text/tips/TIP_26ADM-06.pdf.txt').read()), r'January 1, 2027, through June 30, 2027, is 11%\. The daily interest rate factor to be used for this period is 0\.000301370', '16-refunds-audits-penalties', r'January 1 through June 30, 2027'),
+ ('CST quick reference interest through June 30, 2027', lambda: norm(open('/workspace/gta/sut-training/source/text/tips/TIP_26ADM-06.pdf.txt').read()), r'Communications services tax', 'quick-reference', r'July 1, 2026 through June 30, 2027: 11%'),
  ('Certified vendors include Avalara, CoreLogic, Precisely, Vertex', lambda: page(CST), r'Avalara.*?CoreLogic.*?Precisely.*?Vertex', '08-address-database', r'certified'),
 ]
 ok = 0

@@ -55,7 +55,7 @@
     "9.17%"
    ],
    "answer": 2,
-   "why": "4.92% + 0.15% + 2.37% = 7.44%."
+   "why": "Add the state parts: 4.92% state tax + 0.15% gross receipts + 2.37% gross receipts = 7.44%. 5.07% leaves out the 2.37%, and 9.17% is an old pre-2015 combined rate."
   },
   {
    "q": "What is the rate on direct-to-home satellite service?",
@@ -134,7 +134,7 @@
     "It can be increased any time"
    ],
    "answer": 2,
-   "why": "Section 202.19(2)(d) bars increases before January 1, 2031."
+   "why": "Section 202.19(2)(d) freezes local rates in effect on January 1, 2023: they may not go up before January 1, 2031. Decreases are still allowed."
   }
  ],
  "04-registration": [
@@ -169,7 +169,7 @@
     "Nothing else"
    ],
    "answer": 1,
-   "why": "New dealers receive DR-700014 and DR-700015."
+   "why": "A new dealer receives its Certificate of Registration (DR-700014) together with a CST Annual Resale Certificate (DR-700015). The CST certificate is separate from the sales tax resale certificate."
   },
   {
    "q": "A dealer changes from a sole proprietorship to a corporation. What is required?",
@@ -261,7 +261,7 @@
     "When the customer asks"
    ],
    "answer": 2,
-   "why": "That is the books-and-records rule in s. 202.11(13)(b)8."
+   "why": "Under s. 202.11(13)(b)8., the nontaxable part of a bundle (here, Internet access) can be excluded only if the dealer can reasonably identify it from books and records kept in the regular course of business. Otherwise the whole bundled price is taxable."
   },
   {
    "q": "Which is not part of the CST sales price?",
@@ -307,7 +307,7 @@
     "The called number"
    ],
    "answer": 1,
-   "why": "That is the rule in s. 202.11(14)(a)2."
+   "why": "Under s. 202.11(14)(a)2., card and third-number calls are sourced to the central office identified by the area code and first three digits of the originating number, not to the caller's home or the card issuer."
   },
   {
    "q": "A private line circuit has 3 termination points in Florida and 1 out of state, $1,000 a month, not billed by segment. What is the Florida taxable amount?",
@@ -318,7 +318,7 @@
     "$250"
    ],
    "answer": 1,
-   "why": "$1,000 × 3/4 = $750."
+   "why": "When a private line is not billed by segment, Florida taxes the share of termination points in Florida: 3 of 4 points, so $1,000 × 3/4 = $750."
   }
  ],
  "08-address-database": [
@@ -364,7 +364,7 @@
     "None"
    ],
    "answer": 1,
-   "why": "Section 202.28 imposes $5,000 per return."
+   "why": "Section 202.28 sets a flat $5,000 penalty for each return that fails to report local tax on Schedule I. It is separate from the late-filing penalty, which is a percentage of tax."
   }
  ],
  "09-exemptions": [
@@ -388,7 +388,7 @@
     "A signed letter from the employee"
    ],
    "answer": 1,
-   "why": "Rule 12A-19.042 allows either."
+   "why": "Rule 12A-19.042 lets the dealer keep either a copy of the card's face or the tax-exempt number, account number and cardholder name taken from the card."
   },
   {
    "q": "What does a 501(c)(3) religious institution give the dealer?",
@@ -423,7 +423,7 @@
     "Never"
    ],
    "answer": 1,
-   "why": "It expires every December 31."
+   "why": "The CST Annual Resale Certificate (DR-700015) expires every December 31, and each active registered dealer gets a new one each calendar year."
   },
   {
    "q": "A Transaction Resale Authorization Number is valid for:",
@@ -434,7 +434,7 @@
     "All of the buyer's purchases"
    ],
    "answer": 1,
-   "why": "It covers the single transaction."
+   "why": "A Transaction Resale Authorization Number covers only the one transaction it was issued for. For ongoing purchases, use the buyer's Annual Resale Certificate instead."
   },
   {
    "q": "May a buyer use its sales and use tax resale certificate to buy communications services tax-free for resale?",
@@ -480,7 +480,7 @@
     "Nowhere"
    ],
    "answer": 1,
-   "why": "That is the rule in s. 212.05(1)(e)."
+   "why": "Under s. 212.05(1)(e), a prepaid sale with nothing shipped is sourced to the customer's address or the location associated with the mobile number, not to the seller."
   },
   {
    "q": "Is more tax due when the buyer uses the prepaid units to make calls?",
@@ -491,7 +491,7 @@
     "Only local CST"
    ],
    "answer": 2,
-   "why": "No additional sales tax or CST is due on use of the units."
+   "why": "Tax is due once, at 6% sales tax plus any surtax, when the prepaid arrangement is sold or recharged. Using the units later to make calls adds no sales tax or CST."
   },
   {
    "q": "What is the status of TIP 12ADM-02 on prepaid communications services?",
@@ -502,7 +502,7 @@
     "Expired in 2030"
    ],
    "answer": 1,
-   "why": "It was retracted on July 29, 2013."
+   "why": "TIP 12ADM-02 was retracted on July 29, 2013, so it should not be relied on. The guide uses ss. 202.11 and 212.05 instead."
   }
  ],
  "12-use-tax-direct-pay": [
@@ -526,7 +526,7 @@
     "After December 31"
    ],
    "answer": 1,
-   "why": "It is due July 1 and late after July 20."
+   "why": "The DR-700019 for the period ending June 30 is due July 1 and late after July 20 (moved to the next business day if the 20th is a weekend or holiday)."
   },
   {
    "q": "Which situation can qualify for a CST direct pay permit?",
@@ -537,7 +537,7 @@
     "Any reseller"
    ],
    "answer": 1,
-   "why": "The other basis is when taxability is known only on use."
+   "why": "A direct pay permit is for buyers whose purchases mostly originate outside Florida and terminate in Florida, or whose taxability is known only when the service is used. The other choices are not grounds the law lists."
   },
   {
    "q": "How long does a direct pay permit last?",
@@ -629,7 +629,7 @@
     "Line 3"
    ],
    "answer": 1,
-   "why": "Schedule II, with the total in Column C going to Line 4."
+   "why": "Direct-to-home satellite has its own schedule because it has its own rate (11.44%) and no local tax. It goes on Schedule II, and Column C's total carries to Line 4."
   },
   {
    "q": "Can Line 12 be negative?",
@@ -640,7 +640,7 @@
     "Only for satellite"
    ],
    "answer": 1,
-   "why": "The instructions say Line 12 cannot be a negative number."
+   "why": "No. The DR-700016N instructions say Line 12, the total due with the return, cannot be a negative number."
   }
  ],
  "15-rate-changes": [
@@ -675,7 +675,7 @@
     "One year"
    ],
    "answer": 2,
-   "why": "Section 202.21 requires at least 90 days."
+   "why": "Section 202.21 requires the Department to notify affected dealers at least 90 days before a local rate change takes effect. Normal changes then apply to bills dated on or after January 1."
   },
   {
    "q": "Service was provided in December 2025 but billed on January 5, 2026. Which rate applies under the January 2026 TIP?",
@@ -745,7 +745,7 @@
     "It is prepaid"
    ],
    "answer": 1,
-   "why": "Mobile service is fully taxable, including the 5.07%."
+   "why": "Mobile communications service is never eligible for the residential exemption, so all of it carries the full 5.07% state rate and is reported in Column B, not Column C."
   },
   {
    "q": "Why are the prepaid refill cards left off the CST return?",
@@ -767,7 +767,7 @@
     "$0"
    ],
    "answer": 1,
-   "why": "0.0075 × $8,716.80 = $65.376, rounded to $65.38."
+   "why": "A dealer using a qualifying address method takes 0.75% of Line 5 if filed and paid on time: 0.0075 × $8,716.80 = $65.376, rounded to $65.38."
   },
   {
    "q": "Mangrove reported $552.00 of local tax to Orlando (5.52%) that belonged elsewhere. What is the decrease in Orlando's taxable sales on Schedule IV?",
@@ -778,7 +778,7 @@
     "$5,520.00"
    ],
    "answer": 1,
-   "why": "$552.00 ÷ 0.0552 = $10,000.00, shown in parentheses."
+   "why": "Schedule IV reports the taxable sales behind the misreported tax: $552.00 ÷ 0.0552 = $10,000.00, shown as a decrease in parentheses for Orlando."
   }
  ]
 }

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Generate content/sut/forms.html (filterable form finder) from source/forms-catalog.json."""
-import json, html, re
-ROOT = '/workspace/gta/sut-training'
+import json, html, os, re
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 cat = json.load(open(f'{ROOT}/source/forms-catalog.json'))
 label = {p['slug']: str(p['module']) for p in json.load(open(f'{ROOT}/content/sut/site.json'))['pages'] if p.get('module')}
 mods = {  # form number -> module slug where it is taught
@@ -18,7 +18,8 @@ mods = {  # form number -> module slug where it is taught
 }
 skip_sub = {'Specific Fuel Tax Forms', 'All Taxes, Except Sales and Use Tax'}
 skip_num = re.compile(r'^(RTS?-|F-\d|GT-400401$|DR-156T$|DR-7000(12|20)$|DR-26N?$)')
-BROKEN = {'https://verify-taxcerts.floridarevenue.com'}  # 404 when checked Nov 2026; reported, not linked
+BROKEN = set()  # links to leave out; verify-taxcerts was 404 on Nov 21, 2026 and 200 again on Nov 22 (issue SUT-B05)
+TITLE_FIX = {'ExemptAgricultural': 'Exempt Agricultural'}  # typos copied from the DOR forms index
 def fix(h):
     h = h.strip().rstrip('/') if 'verify-taxcerts' in h else h.strip()
     if h.startswith('https://mailto:'): return 'mailto:' + h[len('https://mailto:'):].replace('%20', '').strip().strip('/')
@@ -41,6 +42,7 @@ for i, (sec, rows) in enumerate(groups.items()):
     out.append(f'<h2 id="{hid}">{html.escape(sec)}</h2>\n<div class="table-wrap" role="region" aria-labelledby="{hid}" tabindex="0"><table><thead><tr><th scope="col">Number</th><th scope="col">Title</th><th scope="col">Official links</th><th scope="col">In this guide</th></tr></thead><tbody>')
     for r in rows:
         title = ' '.join(r['title'].replace('\ufffd', '–').split())
+        for a, b in TITLE_FIX.items(): title = title.replace(a, b)
         links = ' · '.join(f'<a href="{html.escape(l["href"])}">{html.escape(l["label"] or "Link")}<span class="visually-hidden"> for {html.escape(r["number"])}</span></a>' for l in [dict(x, href=fix(x['href'])) for x in r.get('links', []) if x.get('href')] if l['href'] not in BROKEN)
         m = mods.get(r['number'])
         mod = f'<a href="{m}.html">Module {label[m]}</a>' if m else ''
