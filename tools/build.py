@@ -75,16 +75,10 @@ def check_headings(name, doc):
 
 def page_shell(*, title, desc, depth, crumbs, nav_current, sidebar, body, pager, tax_title=None, tax='sut'):
     up = '../' * depth
-    if tax == 'sut':
-        navitems = [('Home', f'{up}index.html', 'home'), ('Sales &amp; Use Tax', f'{up}sut/index.html', 'sut'),
-                    ('Learning path', f'{up}sut/learning-path.html', 'learning-path'), ('Glossary', f'{up}sut/glossary.html', 'glossary'),
-                    ('Forms', f'{up}sut/forms.html', 'forms'), ('Quick reference', f'{up}sut/quick-reference.html', 'quick-reference'),
-                    ('Sources', f'{up}sut/sources.html', 'sources')]
-    else:
-        navitems = [('Home', f'{up}index.html', 'home'), ('Sales &amp; Use Tax', f'{up}sut/index.html', 'other-sut'), (TAXES[tax]['nav'], f'{up}{tax}/index.html', tax),
-                    ('Learning path', f'{up}{tax}/learning-path.html', 'learning-path'), ('Glossary', f'{up}{tax}/glossary.html', 'glossary'),
-                    ('Forms', f'{up}{tax}/forms.html', 'forms'), ('Quick reference', f'{up}{tax}/quick-reference.html', 'quick-reference'),
-                    ('Sources', f'{up}{tax}/sources.html', 'sources')]
+    # Every page lists every guide, then the current guide's tools. Home uses the SUT tools, as before.
+    navitems = [('Home', f'{up}index.html', 'home')] + [(TAXES[t]['nav'], f'{up}{t}/index.html', t) for t in TAXES] + \
+               [(label, f'{up}{tax}/{slug}.html', slug) for label, slug in (('Learning path', 'learning-path'), ('Glossary', 'glossary'),
+                ('Forms', 'forms'), ('Quick reference', 'quick-reference'), ('Sources', 'sources'))]
     nav = ''.join(f'<li><a href="{h}"' + (' aria-current="page"' if k == nav_current else (' class="section-current"' if k == tax and nav_current == f'{tax}-module' else '')) + f'>{t}</a></li>' for t, h, k in navitems)
     bc = ''
     if crumbs:

@@ -1,0 +1,745 @@
+{
+ "fixes": {
+  "hurricane%20isaias%20-%20memorandum%20re%20cit%20suspension%20of%20due%20dates%20and%20extension%20periods%2010.14.2026": {
+   "old": "memorandum",
+   "new": "Hurricane Isaias: Memorandum re CIT Suspension of Due Dates and Extension Periods, 10.14.2026",
+   "how": "reviewed by hand"
+  },
+  "gt800011": {
+   "old": "PDF",
+   "new": "GT-800011: Florida's Communications Services Tax (Brochure)",
+   "how": "official forms page"
+  },
+  "gt800032": {
+   "old": "PDF",
+   "new": "GT-800032: Pollutants Tax (Brochure)",
+   "how": "official forms page"
+  },
+  "dr-1%20team": {
+   "old": "PDF",
+   "new": "DR-1 TEAM: Application for a Florida Farm Tax ExemptAgricultural Materials (TEAM) Card",
+   "how": "forms catalog"
+  },
+  "dr116000": {
+   "old": "PDF",
+   "new": "DR-116000: Application for Tax Credit Allocation for Contributions to Nonprofit Scholarship Funding Organizations (SFOs)",
+   "how": "official forms page"
+  },
+  "dr116100": {
+   "old": "PDF",
+   "new": "DR-116100: Application for Rescindment of Tax Credit Allocation for Contributions to Nonprofit Scholarship Funding Organizations (SFOs)",
+   "how": "official forms page"
+  },
+  "dr116200": {
+   "old": "PDF",
+   "new": "DR-116200: Florida Tax Credit Scholarship Program Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr116200_fillable": {
+   "old": "Fillable PDF",
+   "new": "DR-116200: Florida Tax Credit Scholarship Program Notice of Intent to Transfer a Tax Credit (fillable)",
+   "how": "official forms page"
+  },
+  "dr142_142es": {
+   "old": "PDF",
+   "new": "DR-142: Solid Mineral Severance Tax Return",
+   "how": "reviewed by hand"
+  },
+  "dr144_144es": {
+   "old": "PDF",
+   "new": "DR-144: Gas and Sulfur Production Quarterly Tax Return",
+   "how": "reviewed by hand"
+  },
+  "dr145x": {
+   "old": "PDF",
+   "new": "DR-145X: Oil Production Monthly Amended Tax Return",
+   "how": "official forms page"
+  },
+  "dr156r": {
+   "old": "PDF",
+   "new": "DR-156R: Renewal Application for Florida Fuel/Pollutants License",
+   "how": "official forms page"
+  },
+  "dr15sw": {
+   "old": "PDF",
+   "new": "DR-15SW: Solid Waste and Surcharge Return",
+   "how": "official forms page"
+  },
+  "dr15swn": {
+   "old": "PDF",
+   "new": "DR-15SWN: Instructions for Solid Waste and Surcharge Returns",
+   "how": "official forms page"
+  },
+  "dr15sws": {
+   "old": "PDF",
+   "new": "DR-15SWS: Schedule of Rental Car Surcharge by County",
+   "how": "official forms page"
+  },
+  "dr225": {
+   "old": "PDF",
+   "new": "DR-225: Documentary Stamp Tax Return for Registered Taxpayers' Unrecorded Documents",
+   "how": "official forms page"
+  },
+  "dr226000": {
+   "old": "PDF",
+   "new": "DR-226000: Strong Families Tax Credit Application for Tax Credit Allocation for Contributions to Eligible Charitable Organizations",
+   "how": "official forms page"
+  },
+  "dr226100": {
+   "old": "PDF",
+   "new": "DR-226100: Strong Families Tax Credit Application for Rescindment of Previous Allocation of Tax Credit",
+   "how": "official forms page"
+  },
+  "dr226200": {
+   "old": "PDF",
+   "new": "DR-226200: Strong Families Tax Credit Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr228": {
+   "old": "PDF",
+   "new": "DR-228: Documentary Stamp Tax Return For Nonregistered Taxpayers' Unrecorded Documents",
+   "how": "official forms page"
+  },
+  "dr229": {
+   "old": "PDF",
+   "new": "DR-229: Documentary Stamp Tax Return Subsection 201.02(6), Florida Statutes, Exemption",
+   "how": "official forms page"
+  },
+  "dr288062": {
+   "old": "PDF",
+   "new": "DR-288062: Rural Community Investment Program Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr309631": {
+   "old": "PDF",
+   "new": "DR-309631: Terminal Supplier Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309632": {
+   "old": "PDF",
+   "new": "DR-309632: Wholesaler/Importer Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309633": {
+   "old": "PDF",
+   "new": "DR-309633: Mass Transit System Provider Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309634": {
+   "old": "PDF",
+   "new": "DR-309634: Local Government User of Diesel Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309635": {
+   "old": "PDF",
+   "new": "DR-309635: Blender Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309636": {
+   "old": "PDF",
+   "new": "DR-309636: Terminal Operator Information Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309637": {
+   "old": "PDF",
+   "new": "DR-309637: Petroleum Carrier Information Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309638": {
+   "old": "PDF",
+   "new": "DR-309638: Exporter Fuel Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr309652": {
+   "old": "PDF",
+   "new": "DR-309652: Motor Fuel Taxes XML User Guide for eFile Developers and Transmitters",
+   "how": "official forms page"
+  },
+  "dr336000": {
+   "old": "PDF",
+   "new": "DR-336000: The New Worlds Reading Initiative Application for Tax Credit Allocation for Contributions to the Administrator",
+   "how": "official forms page"
+  },
+  "dr336100": {
+   "old": "PDF",
+   "new": "DR-336100: The New Worlds Reading Initiative Application for Rescindment of Previous Allocation of Tax Credit",
+   "how": "official forms page"
+  },
+  "dr336200": {
+   "old": "PDF",
+   "new": "DR-336200: The New Worlds Reading Initiative Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr350900": {
+   "old": "PDF",
+   "new": "DR-350900: Insurance Premium Tax Information for Schedules XII and XIII, Form DR-908",
+   "how": "official forms page"
+  },
+  "dr350907": {
+   "old": "PDF",
+   "new": "DR-350907: Local Insurance Premium Tax Special Fire Control Districts Notification of Jurisdiction Change",
+   "how": "official forms page"
+  },
+  "dr446000": {
+   "old": "PDF",
+   "new": "DR-446000: Live Local Program Application for Tax Credit Allocation for Contributions to the Florida Housing Finance Corporation",
+   "how": "official forms page"
+  },
+  "dr446100": {
+   "old": "PDF",
+   "new": "DR-446100: Live Local Program Application for Rescindment of Previous Allocation of Tax Credit",
+   "how": "official forms page"
+  },
+  "dr446200": {
+   "old": "PDF",
+   "new": "DR-446200: Live Local Program Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr55": {
+   "old": "PDF",
+   "new": "DR-55: Application for Compensation for Tax Information",
+   "how": "official forms page"
+  },
+  "dr556000": {
+   "old": "PDF",
+   "new": "DR-556000: Child Care Tax Credits Program Application for Tax Credit Allocation",
+   "how": "official forms page"
+  },
+  "dr556000a": {
+   "old": "PDF",
+   "new": "DR-556000A: Child Care Tax Credits Program Application for Tax Credit Allocation Eligible Child Care Facility Statement",
+   "how": "official forms page"
+  },
+  "dr556100": {
+   "old": "PDF",
+   "new": "DR-556100: Child Care Tax Credits Program Application for Rescindment of Previous Allocation of Tax Credit",
+   "how": "official forms page"
+  },
+  "dr556200": {
+   "old": "PDF",
+   "new": "DR-556200: Child Care Tax Credits Program Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr601g": {
+   "old": "PDF",
+   "new": "DR-601G: Governmental Leasehold Intangible Personal Property Tax Return for 2026 Tax Year",
+   "how": "official forms page"
+  },
+  "dr601g_2019": {
+   "old": "DR-601G",
+   "new": "DR-601G: Governmental Leasehold Intangible Personal Property Tax Return (2019)",
+   "how": "reviewed by hand"
+  },
+  "dr602g": {
+   "old": "PDF",
+   "new": "DR-602G: Governmental Leasehold Intangible Personal Property Tax Application for Extension of Time to File Return",
+   "how": "official forms page"
+  },
+  "dr665000": {
+   "old": "PDF",
+   "new": "DR-665000: Home Away From Home Tax Credit Application for Tax Credit Allocation for Contributions to Eligible Charitable Organizations",
+   "how": "official forms page"
+  },
+  "dr665100": {
+   "old": "PDF",
+   "new": "DR-665100: Home Away From Home Tax Credit Application for Rescindment of Previous Allocation of Tax Credit",
+   "how": "official forms page"
+  },
+  "dr665200": {
+   "old": "PDF",
+   "new": "DR-665200: Home Away From Home Tax Credit Notice of Intent to Transfer a Tax Credit",
+   "how": "official forms page"
+  },
+  "dr7-dr15con-dr7n": {
+   "old": "PDF",
+   "new": "DR-7: Consolidated Sales and Use Tax Return with Consolidated Summary Tax Return and Instructions for Electronic Filers",
+   "how": "forms catalog"
+  },
+  "dr700001": {
+   "old": "PDF",
+   "new": "DR-700001: Municipal Public Service Tax Database Report",
+   "how": "official forms page"
+  },
+  "dr700016": {
+   "old": "PDF",
+   "new": "DR-700016: Communications Services Tax Returns",
+   "how": "official forms page"
+  },
+  "dr700016n": {
+   "old": "PDF",
+   "new": "DR-700016N: Instructions for Communications Services Tax Returns",
+   "how": "official forms page"
+  },
+  "dr700019": {
+   "old": "PDF",
+   "new": "DR-700019: Communications Services Use Tax Return (Effective January 1, 2018)",
+   "how": "official forms page"
+  },
+  "dr700021": {
+   "old": "PDF",
+   "new": "DR-700021: Local Communications Services Tax Notification of Tax Rate Change",
+   "how": "official forms page"
+  },
+  "dr700026": {
+   "old": "PDF",
+   "new": "DR-700026: Local Government Authorization For Address Changes Described on Form DR-700025",
+   "how": "official forms page"
+  },
+  "dr700032": {
+   "old": "PDF",
+   "new": "DR-700032: Renewal Notice and Application for Self-Accrual Authority/Direct Pay Permit - Communications Services Tax",
+   "how": "official forms page"
+  },
+  "dr700033": {
+   "old": "Fillable PDF",
+   "new": "DR-700033: Notification of Alternative-Period Basis Reporting for Communications Services Tax",
+   "how": "official forms page"
+  },
+  "dr700033static": {
+   "old": "PDF",
+   "new": "DR-700033: Notification of Alternative-Period Basis Reporting for Communications Services Tax",
+   "how": "official forms page"
+  },
+  "dr872": {
+   "old": "PDF",
+   "new": "DR-872: Consent to Extend the Time to Issue an Assessment or to File a Claim for Refund",
+   "how": "official forms page"
+  },
+  "dr904": {
+   "old": "PDF",
+   "new": "DR-904: Pollutants Tax Return and instructions",
+   "how": "official forms page"
+  },
+  "dr907_dr907n": {
+   "old": "PDF",
+   "new": "DR-907: Insurance Premium Installment Payment and Instructions",
+   "how": "official forms page"
+  },
+  "dr908": {
+   "old": "PDF",
+   "new": "DR-908: Insurance Premium Taxes and Fees Return",
+   "how": "official forms page"
+  },
+  "dr908n": {
+   "old": "PDF",
+   "new": "DR-908N: Instructions For Preparing Form DR-908",
+   "how": "official forms page"
+  },
+  "drhs1": {
+   "old": "PDF",
+   "new": "DR-HS1: Florida Tax Credit Scholarship Program Motor Vehicle Sales Tax Credit Contribution Election",
+   "how": "official forms page"
+  },
+  "drhs2": {
+   "old": "PDF",
+   "new": "DR-HS2: Florida Tax Credit Scholarship Program Motor Vehicle Sales Tax Credit Dealer Contribution Collection Report",
+   "how": "official forms page"
+  },
+  "drhs3": {
+   "old": "PDF",
+   "new": "DR-HS3: Florida Tax Credit Scholarship Program Motor Vehicle Sales Tax Credit Contributions Received by an Eligible Nonprofit Scholarship-Funding Organization",
+   "how": "official forms page"
+  },
+  "f1065": {
+   "old": "PDF",
+   "new": "F-1065: Florida Partnership Information Return with Instructions",
+   "how": "official forms page"
+  },
+  "f1120a": {
+   "old": "PDF",
+   "new": "F-1120A: Florida Corporate Short Form Income Tax Return",
+   "how": "official forms page"
+  },
+  "f1120es": {
+   "old": "PDF",
+   "new": "F-1120ES: Declaration/Installment of Florida Estimated Income/Franchise Tax",
+   "how": "official forms page"
+  },
+  "f1120n": {
+   "old": "PDF",
+   "new": "F-1120N: Instructions for Preparing Form F-1120 for the 2025 tax year",
+   "how": "official forms page"
+  },
+  "f1120x": {
+   "old": "PDF",
+   "new": "F-1120X: Amended Florida Corporate Income/Franchise Tax Return with Instructions",
+   "how": "official forms page"
+  },
+  "f11915": {
+   "old": "PDF",
+   "new": "F-11915: Florida Credit for Qualified Railroad Reconstruction or Replacement Expenditures Application for Credit",
+   "how": "official forms page"
+  },
+  "f11915t": {
+   "old": "PDF",
+   "new": "F-11915T: Florida Credit for Qualified Railroad Reconstruction or Replacement Expenditures Notice of Intent to Transfer a Credit",
+   "how": "official forms page"
+  },
+  "f1193t_fillable": {
+   "old": "Fillable PDF",
+   "new": "F-1193T: Notice of Intent to Transfer A Florida Tax Credit",
+   "how": "official forms page"
+  },
+  "f1193t_static": {
+   "old": "PDF",
+   "new": "F-1193T: Notice of Intent to Transfer A Florida Tax Credit",
+   "how": "official forms page"
+  },
+  "f1196": {
+   "old": "PDF",
+   "new": "F-1196: Allocation for Research and Development Tax Credit for Florida Corporate Income/Franchise Tax",
+   "how": "official forms page"
+  },
+  "f1198": {
+   "old": "PDF",
+   "new": "F-1198: Florida Experiential Learning Tax Credit Program Application for Tax Credit",
+   "how": "official forms page"
+  },
+  "f11992": {
+   "old": "PDF",
+   "new": "F-11992: Florida Individuals with Unique Abilities Tax Credit Program",
+   "how": "official forms page"
+  },
+  "f2220": {
+   "old": "PDF",
+   "new": "F-2220: Underpayment of Estimated Tax on Florida Corporate Income/Franchise Tax",
+   "how": "official forms page"
+  },
+  "f7004": {
+   "old": "PDF",
+   "new": "F-7004: Tentative Income/Franchise Tax Return and Application for Extension of Time to File Return",
+   "how": "official forms page"
+  },
+  "gt400210": {
+   "old": "PDF",
+   "new": "GT-400210: State of Florida Registration Information Sharing and Exchange (RISE) Program Level-one Agreement",
+   "how": "official forms page"
+  },
+  "gt400211": {
+   "old": "PDF",
+   "new": "GT-400211: State of Florida Registration Information Sharing and Exchange (RISE) Program Level-two Agreement",
+   "how": "official forms page"
+  },
+  "gt800002": {
+   "old": "GT-800002",
+   "new": "GT-800002: Taxes, Fees, Remittances, and Reports with Electronic File and Pay Requirements",
+   "how": "PDF metadata"
+  },
+  "ppw": {
+   "old": "PDF",
+   "new": "DR-PPW: Florida Prepaid Wireless Fee Return",
+   "how": "official forms page"
+  },
+  "ppwn": {
+   "old": "PDF",
+   "new": "DR-PPWN: Instructions for Prepaid Wireless Fee Returns",
+   "how": "official forms page"
+  },
+  "ppws": {
+   "old": "PDF",
+   "new": "DR-PPWS: Schedule of Florida Prepaid Wireless Fee By County",
+   "how": "official forms page"
+  },
+  "rt6ew": {
+   "old": "PDF",
+   "new": "RT-6EW: Employer's Quarterly Report for Employees Contracted to Governmental or Nonprofit Educational Institutions",
+   "how": "official forms page"
+  },
+  "rt6nf": {
+   "old": "PDF",
+   "new": "RT-6NF: Quarterly Report for Out-of-State Wages",
+   "how": "official forms page"
+  },
+  "rt83": {
+   "old": "PDF",
+   "new": "RT-83: To Employees (notice of Reemployment Assistance coverage)",
+   "how": "reviewed by hand"
+  },
+  "rt83sp": {
+   "old": "PDF",
+   "new": "RT-83SP: To Employees, in Spanish (notice of Reemployment Assistance coverage)",
+   "how": "reviewed by hand"
+  },
+  "rt89": {
+   "old": "PDF",
+   "new": "RT-89: Reemployment Tax Instructions for Excess Wage Computation",
+   "how": "official forms page"
+  },
+  "rt8a": {
+   "old": "PDF",
+   "new": "RT-8A: Correction to Employer's Quarterly or Annual Domestic Report",
+   "how": "official forms page"
+  },
+  "rt8i": {
+   "old": "PDF",
+   "new": "RT-8i: RT-8A Information Sheet",
+   "how": "official forms page"
+  },
+  "rteverify": {
+   "old": "Fillable PDF",
+   "new": "RT-E Verify: Employer E-Verify Certification",
+   "how": "official forms page"
+  },
+  "rts1saf": {
+   "old": "Fillable PDF",
+   "new": "RTS-1SA: List of Employees to be Transferred",
+   "how": "forms catalog"
+  },
+  "rts3f": {
+   "old": "Fillable PDF",
+   "new": "RTS-3: Employer Account Change Form",
+   "how": "forms catalog"
+  },
+  "rts6061": {
+   "old": "PDF",
+   "new": "RTS-6061: Independent Contractor Analysis",
+   "how": "official forms page"
+  },
+  "rts71": {
+   "old": "PDF",
+   "new": "RTS-71: Quarterly Concurrent Employment Report",
+   "how": "official forms page"
+  },
+  "rts72": {
+   "old": "PDF",
+   "new": "RTS-72: Affidavit of Concurrent Employment",
+   "how": "official forms page"
+  },
+  "rts72f": {
+   "old": "Fillable PDF",
+   "new": "RTS-72: Affidavit of Concurrent Employment",
+   "how": "official forms page"
+  },
+  "sample_employer": {
+   "old": "DOC",
+   "new": "Sample First Responder's Employer Certification of Injury (for Form DR-501)",
+   "how": "reviewed by hand"
+  },
+  "sample_physician": {
+   "old": "DOC",
+   "new": "Sample First Responder's Physician Certificate of Total and Permanent Disability (for Form DR-501)",
+   "how": "reviewed by hand"
+  },
+  "dr401": {
+   "old": "PDF",
+   "new": "DR-401: Private Car and Freight Line Equipment Companies Annual Report and Return to State of Florida",
+   "how": "official forms page"
+  },
+  "dr402": {
+   "old": "PDF",
+   "new": "DR-402: Declaration of Mobile Home as Real Property",
+   "how": "official forms page"
+  },
+  "dr405": {
+   "old": "PDF",
+   "new": "DR-405: Tangible Personal Property Tax Return",
+   "how": "official forms page"
+  },
+  "dr416": {
+   "old": "PDF",
+   "new": "DR-416: Physician's Certification of Total and Permanent Disability",
+   "how": "official forms page"
+  },
+  "dr416b": {
+   "old": "PDF",
+   "new": "DR-416B: Optometrist's Certification of Total and Permanent Disability",
+   "how": "official forms page"
+  },
+  "dr418": {
+   "old": "PDF",
+   "new": "DR-418: Economic Development Ad Valorem Property Tax Exemption",
+   "how": "official forms page"
+  },
+  "dr418c": {
+   "old": "PDF",
+   "new": "DR-418C: Real Property Dedicated in Perpetuity for Conservation, Exemption Application",
+   "how": "official forms page"
+  },
+  "dr430": {
+   "old": "PDF",
+   "new": "DR-430: Change of Ownership or Control Non-Homestead Property",
+   "how": "official forms page"
+  },
+  "dr430m": {
+   "old": "PDF",
+   "new": "DR-430M: Change of Ownership or Control, Multiple Parcels",
+   "how": "official forms page"
+  },
+  "dr431": {
+   "old": "PDF",
+   "new": "DR-431: Voluntary Disclosure of Property",
+   "how": "official forms page"
+  },
+  "dr452": {
+   "old": "PDF",
+   "new": "DR-452: Return of Real Property in Attempt to Establish Adverse Possession without Color of Title",
+   "how": "official forms page"
+  },
+  "dr462": {
+   "old": "PDF",
+   "new": "DR-462: Application for Refund of Ad Valorem Taxes",
+   "how": "official forms page"
+  },
+  "dr465": {
+   "old": "PDF",
+   "new": "DR-465: Application for Catastrophic Event Tax Refund",
+   "how": "official forms page"
+  },
+  "dr470a": {
+   "old": "PDF",
+   "new": "DR-470A: Railroad Company Annual Report and Return to the State of Florida",
+   "how": "official forms page"
+  },
+  "dr482": {
+   "old": "PDF",
+   "new": "DR-482: Application and Return for Agricultural Classification of Lands",
+   "how": "official forms page"
+  },
+  "dr482c": {
+   "old": "PDF",
+   "new": "DR-482C: Land Used for Conservation, Assessment Application",
+   "how": "official forms page"
+  },
+  "dr482hp": {
+   "old": "PDF",
+   "new": "DR-482HP: Application and Return for Classification/Exemption of Property as Historic Property Used for Commercial or Certain Nonprofit Purposes",
+   "how": "official forms page"
+  },
+  "dr482hw": {
+   "old": "PDF",
+   "new": "DR-482HW: Application and Return for High - Water Recharge Classification of Lands",
+   "how": "official forms page"
+  },
+  "dr485wi": {
+   "old": "PDF",
+   "new": "DR-485WI: Value Adjustment Board - Withdrawal of Petition",
+   "how": "official forms page"
+  },
+  "dr486": {
+   "old": "PDF",
+   "new": "DR-486: Petition to Value Adjustment Board - Request for Hearing",
+   "how": "official forms page"
+  },
+  "dr486a": {
+   "old": "PDF",
+   "new": "DR-486A: Written Authorization for Representation Before the Value Adjustment Board",
+   "how": "official forms page"
+  },
+  "dr486dp": {
+   "old": "PDF",
+   "new": "DR-486DP: Petition to the Value Adjustment Board - Tax Deferral or Penalties - Request for Hearing",
+   "how": "official forms page"
+  },
+  "dr486mu": {
+   "old": "PDF",
+   "new": "DR-486MU: Attachment to a Value Adjustment Board Petition for Multiple Parcels and Accounts",
+   "how": "official forms page"
+  },
+  "dr486poa": {
+   "old": "PDF",
+   "new": "DR-486POA: Power of Attorney for Representation Before the Value Adjustment Board",
+   "how": "official forms page"
+  },
+  "dr486port": {
+   "old": "PDF",
+   "new": "DR-486PORT: Petition to the Value Adjustment Board - Transfer of Homestead Assessment Difference - Request for Hearing Form",
+   "how": "official forms page"
+  },
+  "dr486rmt": {
+   "old": "PDF",
+   "new": "DR-486RMT: Request for Hearing Using Electronic or Other Communication Equipment",
+   "how": "official forms page"
+  },
+  "dr501a": {
+   "old": "PDF",
+   "new": "DR-501A: Statement of Gross Income",
+   "how": "official forms page"
+  },
+  "dr501cc": {
+   "old": "PDF",
+   "new": "DR-501CC: Ad Valorem Tax Exemption Application Proprietary Continuing Care Facility",
+   "how": "official forms page"
+  },
+  "dr501dv": {
+   "old": "PDF",
+   "new": "DR-501DV: Application for Homestead Tax Discount, Veterans Age 65 and Older with a Combat-Related Disability",
+   "how": "official forms page"
+  },
+  "dr501m26": {
+   "old": "PDF",
+   "new": "DR-501M26: Deployed Military Exemption Application for 2026, Provisional",
+   "how": "official forms page"
+  },
+  "dr501pgp": {
+   "old": "PDF",
+   "new": "DR-501PGP: Application for Assessment Reduction for Living Quarters of Parents or Grandparents, Provisional, R. 01/25",
+   "how": "official forms page"
+  },
+  "dr501rvsh": {
+   "old": "PDF",
+   "new": "DR-501RVSH: Certificate for Transfer of Homestead Assessment Difference",
+   "how": "official forms page"
+  },
+  "dr501sc": {
+   "old": "PDF",
+   "new": "DR-501SC: Household Income Sworn Statement and Return",
+   "how": "official forms page"
+  },
+  "dr501t": {
+   "old": "PDF",
+   "new": "DR-501T: Transfer of Homestead Assessment Difference, Attachment to Original Application for Homestead Tax Exemption",
+   "how": "official forms page"
+  },
+  "dr501ts": {
+   "old": "PDF",
+   "new": "DR-501TS: Designation of Ownership Shares of Abandoned Homestead",
+   "how": "official forms page"
+  },
+  "dr504afh": {
+   "old": "PDF",
+   "new": "DR-504AFH: Ad Valorem Tax Exemption Application and Return for Multifamily Project and Affordable Housing Property",
+   "how": "official forms page"
+  },
+  "dr504cs": {
+   "old": "PDF",
+   "new": "DR-504CS: Ad Valorem Tax Exemption Application Charter School Facilities",
+   "how": "official forms page"
+  },
+  "dr504ed": {
+   "old": "PDF",
+   "new": "DR-504ED: Ad Valorem Tax Exemption and Return for Educational Property",
+   "how": "official forms page"
+  },
+  "dr504ha": {
+   "old": "PDF",
+   "new": "DR-504HA: Ad Valorem Tax Exemption Application and Return - Homes for the Aged",
+   "how": "official forms page"
+  },
+  "dr504s": {
+   "old": "PDF",
+   "new": "DR-504S: Individual Affidavit for Ad Valorem Tax Exemption - Homes for the Aged",
+   "how": "official forms page"
+  },
+  "dr504w": {
+   "old": "PDF",
+   "new": "DR-504W: Ad Valorem Tax Exemption Application and Return Not-for-Profit Sewer and Water Company and Not-for-Profit Water and Wastewater Systems",
+   "how": "official forms page"
+  },
+  "dr570ah": {
+   "old": "PDF",
+   "new": "DR-570AH: Application for Affordable Housing Property Tax Deferral",
+   "how": "official forms page"
+  },
+  "dr570wf": {
+   "old": "PDF",
+   "new": "DR-570WF: Application for Recreational and Commercial Working Waterfronts Property Tax Deferral",
+   "how": "official forms page"
+  },
+  "pt103": {
+   "old": "PDF",
+   "new": "PT-103: How to Apply for a Refund (flyer)",
+   "how": "official forms page"
+  }
+ },
+ "unresolved": []
+}

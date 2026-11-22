@@ -46,3 +46,8 @@ Last updated: 2026-11-22 ~01:40 ET
   - taxcalc: 9/9.
   - check.mjs: 26 pages, axe 0/0, no 320 px overflow, focus visible, 0 internal broken links, 0 console errors.
 - Screenshots: tests/out/module08a-efile-flow-desktop.png, module08a-top-desktop.png, module08a-mobile-320.png
+
+## Communications Services Tax guide and shared polish (2026-11-22 ~03:10 ET)
+- CST guide: `content/cst/` (17 modules + 6 hubs), built by `build_tax('cst')`; harvest in `source/cst/`; checks in `tests/cst/` (`check-cst.mjs URL [sut]`, `facts_cst.py`), `tests/cstcalc.test.js`.
+- Main nav on every page now lists Home, Sales & Use Tax, Communications Services Tax, then the current guide's tools (home uses SUT tools). `python3 tests/nav_check.py` asserts tabs, aria-current and section-current on all built pages.
+- Vague titles in `content/sources.json` ("PDF", "Fillable PDF", "DOC", "memorandum", bare form numbers) replaced by `tools/fix_source_titles.py` (evidence: forms catalog, official forms-library table rows in harvested pages, CST sources, PDF Title metadata, `source/title-manual.json`). Audit trail: `source/title-fixes.json`.

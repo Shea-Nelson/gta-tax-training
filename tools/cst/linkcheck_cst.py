@@ -3,7 +3,7 @@
 import json, sys, time
 sys.path.insert(0, '/workspace/gta/cst-training/tools')
 import harvest_cst as H
-R = '/workspace/gta/cst-training/repo/tests/out/cst'
+R = '/workspace/gta/cst-training/repo/tests/out/' + (sys.argv[1] if len(sys.argv) > 1 else 'cst')  # or sut-recheck
 links = sorted(set(json.load(open(f'{R}/report.json'))['links']))
 res = {}
 for u in links:
