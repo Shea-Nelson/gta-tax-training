@@ -42,7 +42,7 @@ for (const p of pages) {
 }
 for (const l of report.links) {
   if (!l.startsWith(BASE)) continue;
-  const u = new URL(l); let f = path.join(SITE, decodeURIComponent(u.pathname)); if (f.endsWith('/')) f += 'index.html';
+  const u = new URL(l); const basePath = new URL(BASE + '/').pathname; let f = path.join(SITE, decodeURIComponent(u.pathname).slice(basePath.length - 1)); if (f.endsWith('/')) f += 'index.html';
   if (!fs.existsSync(f)) { report.internalBroken.push(l); continue; }
   if (u.hash && u.hash.length > 1) { const h = fs.readFileSync(f, 'utf8'); if (!h.includes(`id="${decodeURIComponent(u.hash.slice(1))}"`)) report.internalBroken.push(l); }
 }
