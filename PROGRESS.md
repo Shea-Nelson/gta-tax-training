@@ -18,3 +18,9 @@ Last updated: 2026-11-22 ~01:40 ET
 2. Create the repo `Shea-Nelson/gta-tax-training`: commit, push, then enable Pages from main:/docs (private first; public if Pages refuses a private repo). Do NOT touch gta-sharepoint-apps.
 3. Verify that the live URL loads every page.
 4. Write the final report.
+
+## Published (2026-11-22 ~01:50 ET)
+- Repo: https://github.com/Shea-Nelson/gta-tax-training. It was public because GitHub Pages refused the private repo on the current plan (HTTP 422). gta-sharepoint-apps was left untouched and is still private.
+- Pages: https://shea-nelson.github.io/gta-tax-training/ (main:/docs). Status: built. All 26 pages and 3 assets returned 200.
+- Live re-run of `check.mjs`: 0 axe violations and no 320 px overflow on all 25 pages checked. Its 51 "internal broken" entries are a checker artifact: it maps the /gta-tax-training/ URL prefix onto local paths.
+- Remaining: a manual screen reader pass and SME review (Module 12 and capstone Line 15(c)).
