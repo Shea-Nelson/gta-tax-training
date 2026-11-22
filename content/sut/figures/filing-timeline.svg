@@ -1,0 +1,23 @@
+<svg class="svg-text" role="img" aria-labelledby="ftl-t ftl-d" viewBox="0 0 760 300" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="ftl-t">Filing timeline for a monthly filer's January return</title>
+<desc id="ftl-d">A timeline. January is the reporting period. The return and payment are due February 1. An electronic payment must be initiated, with a confirmation number, by 5 p.m. Eastern time on the business day before February 20. February 20 is the last day to file and pay on time. From February 21 the return is late, and penalty and interest apply. If February 20 falls on a weekend or holiday, the deadline moves to the next business day.</desc>
+<g font-size="15" fill="#1f1f1f">
+<rect x="20" y="70" width="250" height="44" fill="#e6e6e6" stroke="#4a4a4a"/>
+<text x="145" y="98" text-anchor="middle" font-weight="700">Reporting period: January</text>
+<rect x="270" y="70" width="380" height="44" fill="#e8f4f3" stroke="#00695f"/>
+<text x="460" y="98" text-anchor="middle" font-weight="700" fill="#051a54">February 1 to 20: file and pay</text>
+<rect x="650" y="70" width="95" height="44" fill="#fde8eb" stroke="#a1001b"/>
+<text x="697" y="98" text-anchor="middle" font-weight="700" fill="#a1001b">Late</text>
+<line x1="270" y1="60" x2="270" y2="120" stroke="#051a54" stroke-width="3"/>
+<text x="270" y="50" text-anchor="middle" font-weight="700" fill="#051a54">Feb 1: due</text>
+<line x1="590" y1="114" x2="590" y2="140" stroke="#051a54" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="590" y="158" text-anchor="middle" font-size="14">5 p.m. ET, business day</text>
+<text x="590" y="176" text-anchor="middle" font-size="14">before the 20th: start</text>
+<text x="590" y="194" text-anchor="middle" font-size="14">e-payment, get confirmation</text>
+<line x1="650" y1="60" x2="650" y2="120" stroke="#a1001b" stroke-width="3"/>
+<text x="650" y="50" text-anchor="middle" font-weight="700" fill="#a1001b">Late after Feb 20</text>
+<text x="20" y="236" font-size="14">Quarterly filers: the January to March period is due April 1 and late after April 20.</text>
+<text x="20" y="256" font-size="14">Weekend or holiday on the 20th: the next business day.</text>
+<text x="20" y="290" font-size="13" fill="#4a4a4a">Sources: Florida Sales and Use Tax webpage; DR-15N (R. 10/25).</text>
+</g>
+</svg>

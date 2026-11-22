@@ -1,0 +1,24 @@
+<svg class="svg-text" role="img" aria-labelledby="taxflow-t taxflow-d" viewBox="0 0 760 300" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="taxflow-t">How sales tax flows from a customer to the state and counties</title>
+<desc id="taxflow-d">Four boxes connected by arrows. 1: the customer pays the price plus tax. 2: the registered dealer collects the tax and holds it as state funds. 3: the dealer files a return and pays the Florida Department of Revenue by the 20th of the following month. 4: the Department keeps state tax for the state and distributes discretionary sales surtax to the county that imposes it.</desc>
+<defs><marker id="arr1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#051a54"/></marker></defs>
+<g font-size="15" fill="#1f1f1f">
+<rect x="10" y="40" width="160" height="150" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="90" y="70" text-anchor="middle" font-weight="700" fill="#051a54">1. Customer</text>
+<text x="90" y="100" text-anchor="middle">Pays price</text><text x="90" y="120" text-anchor="middle">+ sales tax</text><text x="90" y="140" text-anchor="middle">+ county surtax</text>
+<rect x="205" y="40" width="160" height="150" rx="6" fill="#ffffff" stroke="#051a54" stroke-width="2"/>
+<text x="285" y="70" text-anchor="middle" font-weight="700" fill="#051a54">2. Dealer</text>
+<text x="285" y="100" text-anchor="middle">Collects the tax</text><text x="285" y="120" text-anchor="middle">as agent of the</text><text x="285" y="140" text-anchor="middle">state; it is now</text><text x="285" y="160" text-anchor="middle">state money</text>
+<rect x="400" y="40" width="160" height="150" rx="6" fill="#ffffff" stroke="#051a54" stroke-width="2"/>
+<text x="480" y="70" text-anchor="middle" font-weight="700" fill="#051a54">3. Return</text>
+<text x="480" y="100" text-anchor="middle">Dealer files the</text><text x="480" y="120" text-anchor="middle">return and pays</text><text x="480" y="140" text-anchor="middle">by the 20th of the</text><text x="480" y="160" text-anchor="middle">following month</text>
+<rect x="595" y="40" width="155" height="150" rx="6" fill="#051a54" stroke="#051a54" stroke-width="2"/>
+<text x="672" y="70" text-anchor="middle" font-weight="700" fill="#ffffff">4. Department</text>
+<text x="672" y="100" text-anchor="middle" fill="#ffffff">State tax to the</text><text x="672" y="120" text-anchor="middle" fill="#ffffff">state; surtax</text><text x="672" y="140" text-anchor="middle" fill="#ffffff">distributed to the</text><text x="672" y="160" text-anchor="middle" fill="#ffffff">county that levies it</text>
+<line x1="170" y1="115" x2="203" y2="115" stroke="#051a54" stroke-width="3" marker-end="url(#arr1)"/>
+<line x1="365" y1="115" x2="398" y2="115" stroke="#051a54" stroke-width="3" marker-end="url(#arr1)"/>
+<line x1="560" y1="115" x2="593" y2="115" stroke="#051a54" stroke-width="3" marker-end="url(#arr1)"/>
+<text x="380" y="235" text-anchor="middle" font-size="14" fill="#4a4a4a">Use tax works the same way, except the buyer reports and pays it directly</text>
+<text x="380" y="255" text-anchor="middle" font-size="14" fill="#4a4a4a">because no seller collected Florida tax.</text>
+</g>
+</svg>

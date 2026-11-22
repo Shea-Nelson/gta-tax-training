@@ -1,0 +1,21 @@
+<svg class="svg-text" role="img" aria-labelledby="surw-t surw-d" viewBox="0 0 760 330" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="surw-t">Surtax walk-through for a $7,000 dining room set delivered to a county with a 1% surtax</title>
+<desc id="surw-d">A bar representing the $7,000 price is split into a $5,000 segment and a $2,000 segment. State tax of 6% applies to the whole $7,000, which is $420. The 1% county surtax applies only to the first $5,000, which is $50. The $2,000 above the limit has no surtax. Total tax is $470.</desc>
+<g font-size="15" fill="#1f1f1f">
+<text x="20" y="30" font-weight="700" fill="#051a54" font-size="17">Price of one item: $7,000</text>
+<text x="20" y="70" font-weight="700">State tax 6%</text>
+<rect x="160" y="50" width="580" height="34" fill="#051a54"/>
+<text x="450" y="73" text-anchor="middle" fill="#fff" font-weight="700">$7,000 × 6% = $420</text>
+<text x="20" y="130" font-weight="700">Surtax 1%</text>
+<rect x="160" y="110" width="414" height="34" fill="#00695f"/>
+<text x="367" y="133" text-anchor="middle" fill="#fff" font-weight="700">First $5,000 × 1% = $50</text>
+<rect x="574" y="110" width="166" height="34" fill="#ffffff" stroke="#4a4a4a" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="657" y="133" text-anchor="middle">$2,000: no surtax</text>
+<line x1="574" y1="100" x2="574" y2="160" stroke="#a1001b" stroke-width="3"/>
+<text x="574" y="180" text-anchor="middle" fill="#a1001b" font-weight="700">$5,000 limit</text>
+<rect x="160" y="210" width="580" height="60" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="450" y="236" text-anchor="middle" font-weight="700" fill="#051a54">Total tax = $420 + $50 = $470</text>
+<text x="450" y="258" text-anchor="middle" font-size="13">The limit is per item of tangible personal property; it does not apply to services or admissions.</text>
+<text x="20" y="310" font-size="13" fill="#4a4a4a">Numbers from the example in the Business Owner's Guide (GT-300015, R. 11/25).</text>
+</g>
+</svg>

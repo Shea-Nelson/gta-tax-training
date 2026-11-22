@@ -1,0 +1,48 @@
+<p>This page explains how the guide was researched, what was collected, and what could not be collected. Every factual statement in the modules links to the official Department page or document it comes from.</p>
+<h2>Method</h2>
+<ol>
+<li><strong>Polite harvest (November 2026).</strong> A script crawled public floridarevenue.com pages related to sales and use tax and downloaded the linked forms, brochures, TIPs, tutorial transcripts and guides. It identified itself in its user agent, waited 1.2 seconds between requests, used no sign-in, and obeyed robots.txt. Each file is recorded in a manifest with its URL, type, title, form or TIP number, revision date, fetch time and SHA-256 hash.</li>
+<li><strong>Reading.</strong> PDFs and Word files were converted to text. The modules were written from the Department's own guides (GT-300015 Business Owner's Guide, DR-15N and DR-15EZN instructions, GT-800054 New Dealer Guide, the industry brochures) and the TIPs. Department webpages were used to confirm current rules.</li>
+<li><strong>Citation rules.</strong> No rate, threshold or date appears without a link to its source. Statutes and rules are linked only, never paraphrased as law. Where two sources disagree, the guide uses the newer one and flags the conflict.</li>
+<li><strong>Examples.</strong> All businesses in examples are fictional. No taxpayer or confidential data was used. Examples marked “Department example” are reproduced from Department publications.</li>
+</ol>
+<h2>What was collected</h2>
+<div class="table-wrap" role="region" aria-labelledby="src-cap" tabindex="0">
+<table><caption id="src-cap">Harvest totals, retrieved November 2026</caption>
+<thead><tr><th scope="col">Type</th><th scope="col">Downloaded</th><th scope="col">Of those, mention sales tax in their text</th></tr></thead>
+<tbody>
+<tr><td>Department webpages (text and HTML saved)</td><td>86</td><td>—</td></tr>
+<tr><td>Tax Information Publications (TIPs)</td><td>742</td><td>699</td></tr>
+<tr><td>Forms and instructions</td><td>241</td><td>103</td></tr>
+<tr><td>Brochures and guides</td><td>20</td><td>16</td></tr>
+<tr><td>eServices guides and other documents</td><td>121</td><td>25</td></tr>
+<tr><td>Tutorial transcripts</td><td>12</td><td>12</td></tr>
+<tr><th scope="row">Total files</th><td>1,136 (about 413 MB)</td><td>855</td></tr>
+</tbody></table></div>
+<p class="small">The harvest was deliberately broad: it followed every link on the sales and use tax pages and in the forms index. Some files, such as property tax and reemployment tax forms, are not about sales and use tax. They are flagged in the manifest and not used in the guide. The source files total more than 200 MB, so the repository holds the manifest (JSON and CSV) and the harvest scripts, not the files. Every file can be downloaded again from its recorded URL.</p>
+<h2>What could not be collected</h2>
+<ul>
+<li><strong>Excluded by robots.txt:</strong> prior-year forms (paths under /Forms_library/20…), the sales tax holiday landing pages (back-to-school, Freedom Month, hunting season, disaster preparedness, tool time), and /dor/ pages, including /dor/training. 210 requests were skipped for this reason. The guide relies on the TIPs for holidays.</li>
+<li><strong>Not found (404):</strong> brochures GT-800001, GT-800036, GT-800037 and GT-800053, which other documents still reference; the DR-1215 insert; and one property tax document. One archived fuel-tax specification required sign-in (401) and was skipped. No request was refused with a 403.</li>
+<li><strong>Referenced but not in the current forms index:</strong> GT-800030 (motor vehicles) and GT-800060 (resale certificates).</li>
+<li><strong>Questions and answers:</strong> the Department's FAQ pages load their answers dynamically, so their text was not captured. Use the FAQ search on floridarevenue.com directly. {{cite:faq-page}}</li>
+<li><strong>2027 surtax table:</strong> TIPs issued November 20, 2026 announce surtax changes for January 1, 2027, but the 2027 DR-15DSS was not available when the harvest ran. {{cite:tip-26a01-14}}</li>
+</ul>
+<h2>Conflicts and outdated sources</h2>
+<div class="table-wrap" role="region" aria-labelledby="conf-cap" tabindex="0">
+<table><caption id="conf-cap">Where sources disagree</caption>
+<thead><tr><th scope="col">Topic</th><th scope="col">Older source</th><th scope="col">Newer source (followed)</th></tr></thead>
+<tbody>
+<tr><td>Adding a location or moving to another county</td><td>GT-800054 (rev. 07/21) says file a new DR-1 {{cite:gt800054}}</td><td>DR-15N (rev. 10/25) and the Sales and Use Tax webpage say DR-1A {{cite:dr15n}} {{cite:sut-page}}</td></tr>
+<tr><td>Surtax rates</td><td>The file at Forms_library/current/dr15dss.pdf is the 2025 edition (rev. 11/24) {{cite:dr15dss}}</td><td>dr15dss_26.pdf is the 2026 edition (rev. 11/25) {{cite:dr15dss_26}}</td></tr>
+<tr><td>Salon booth rentals</td><td>TIP 24A01-16R (2024) says license fees are taxed at 2% {{cite:tip-24a01-16}}</td><td>TIP 25A01-04 repealed the commercial rent tax for periods on or after October 1, 2025 {{cite:tip-25a01-04}}</td></tr>
+<tr><td>How tax is computed</td><td>The bracket system used before July 1, 2021</td><td>The rounding rule in TIP 21A01-02 {{cite:tip-21a01-02}}</td></tr>
+</tbody></table></div>
+<h2>Still to do before official use</h2>
+<ul>
+<li>Review by a sales and use tax subject-matter expert, especially Module 12 (contractors) and the Line 15(c) answer in the capstone.</li>
+<li>A manual screen reader pass (NVDA or JAWS on Windows, VoiceOver on macOS or iOS). Automated checks can't replace it.</li>
+<li>A content refresh after the 2027 DR-15DSS and any TIPs issued after November 2026.</li>
+</ul>
+<h2>Statutes and rules</h2>
+<p>The law controls over this guide and over Department publications. {{cite:ch212}} {{cite:r12a1}}</p>

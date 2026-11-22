@@ -1,0 +1,186 @@
+{
+ "tax": "sut",
+ "title": "Florida Sales and Use Tax",
+ "short": "Sales and Use Tax",
+ "pages": [
+  {
+   "slug": "index",
+   "title": "Florida Sales and Use Tax training guide",
+   "summary": "Start here: what this guide covers, how it is organized, and how to use it."
+  },
+  {
+   "slug": "learning-path",
+   "title": "Learning path",
+   "tool": true,
+   "summary": "The recommended order through the modules, from beginner to master, with checkpoints."
+  },
+  {
+   "slug": "01-basics",
+   "module": 1,
+   "level": "Beginner",
+   "minutes": 20,
+   "title": "What sales and use tax is and who owes it",
+   "summary": "The taxable events, the 6% state rate and its exceptions, dealers as agents of the state, and how the tax flows."
+  },
+  {
+   "slug": "02-registration",
+   "module": 2,
+   "level": "Beginner",
+   "minutes": 20,
+   "title": "Registering a business",
+   "summary": "Who must register, Form DR-1 and the online application, what a new dealer receives, and when to update or re-register."
+  },
+  {
+   "slug": "03-taxable-exempt",
+   "module": 3,
+   "level": "Beginner",
+   "minutes": 30,
+   "title": "Taxable and exempt sales",
+   "summary": "Tangible personal property, groceries and medicine, exempt buyers, and a decision flowchart for any sale."
+  },
+  {
+   "slug": "04-services",
+   "module": 4,
+   "level": "Intermediate",
+   "minutes": 20,
+   "title": "Taxable services",
+   "summary": "Which services are taxable in Florida, why most are not, and how repairs, cleaning and service warranties are treated."
+  },
+  {
+   "slug": "05-use-tax",
+   "module": 5,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Use tax",
+   "summary": "When use tax is owed, the credit for tax paid to another state, and how to report it on Line B."
+  },
+  {
+   "slug": "06-rates-surtax",
+   "module": 6,
+   "level": "Intermediate",
+   "minutes": 35,
+   "title": "Rates, discretionary sales surtax and rounding",
+   "summary": "State rates, county surtax, the $5,000 limit, where surtax is sourced, the rounding rule that replaced brackets, and a calculator."
+  },
+  {
+   "slug": "07-certificates",
+   "module": 7,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Resale and exemption certificates",
+   "summary": "The Annual Resale Certificate (DR-13), the Consumer's Certificate of Exemption (DR-14), and the three ways to document a sale for resale."
+  },
+  {
+   "slug": "08-filing-paying",
+   "module": 8,
+   "level": "Intermediate",
+   "minutes": 40,
+   "title": "Filing and paying",
+   "summary": "Forms DR-15 and DR-15EZ line by line, filing frequency, due dates, electronic deadlines, the collection allowance and estimated tax."
+  },
+  {
+   "slug": "09-rentals",
+   "module": 9,
+   "level": "Advanced",
+   "minutes": 25,
+   "title": "Transient rentals and real property rentals",
+   "summary": "Short-term accommodations, local tourist development taxes, the repeal of the commercial rent tax, and parking and docking."
+  },
+  {
+   "slug": "10-vehicles-boats-aircraft",
+   "module": 10,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Motor vehicles, boats and aircraft",
+   "summary": "Where surtax is sourced, sales to nonresidents, and the special rules dealers must know."
+  },
+  {
+   "slug": "11-food-restaurants",
+   "module": 11,
+   "level": "Advanced",
+   "minutes": 25,
+   "title": "Food, beverages, restaurants and vending",
+   "summary": "Grocery versus prepared food, bakery rules, and backing tax out of concession, vending and alcoholic beverage receipts with the published divisors."
+  },
+  {
+   "slug": "12-contractors-manufacturing",
+   "module": 12,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Construction, manufacturing and agriculture",
+   "summary": "Materials that go into real property and public works, contractor-made asphalt, agricultural exemptions, and the Florida Farm TEAM Card."
+  },
+  {
+   "slug": "13-admissions",
+   "module": 13,
+   "level": "Advanced",
+   "minutes": 15,
+   "title": "Admissions and amusements",
+   "summary": "When admissions are taxable, where surtax applies, resold tickets, recent admission exemptions, and coin-operated amusement machines."
+  },
+  {
+   "slug": "14-remote-marketplace",
+   "module": 14,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Remote sellers, marketplace providers and delivery networks",
+   "summary": "The $100,000 remote sales threshold, marketplace provider duties, and who remits on third-party delivery platforms."
+  },
+  {
+   "slug": "15-holidays-exemption-periods",
+   "module": 15,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Sales tax holidays and exemption periods",
+   "summary": "How holidays work, the annual back-to-school and hunting, fishing and camping holidays, and how to read a holiday TIP."
+  },
+  {
+   "slug": "16-records-audits",
+   "module": 16,
+   "level": "Master",
+   "minutes": 25,
+   "title": "Records and audits",
+   "summary": "What records to keep and for how long, what to expect in an audit, and taxpayer rights."
+  },
+  {
+   "slug": "17-penalties-interest-refunds",
+   "module": 17,
+   "level": "Master",
+   "minutes": 30,
+   "title": "Penalties, interest, refunds and voluntary disclosure",
+   "summary": "Late penalties, the floating interest rate, amended returns, refunds on Form DR-26S, and coming forward voluntarily."
+  },
+  {
+   "slug": "18-capstone",
+   "module": 18,
+   "level": "Master",
+   "minutes": 45,
+   "title": "Capstone: a full month for a fictional business",
+   "summary": "Put every module together: classify sales, compute tax and surtax, accrue use tax, and complete a DR-15."
+  },
+  {
+   "slug": "glossary",
+   "title": "Glossary",
+   "tool": true,
+   "summary": "Plain-language definitions of sales and use tax terms, with sources."
+  },
+  {
+   "slug": "forms",
+   "title": "Form and publication finder",
+   "tool": true,
+   "summary": "Every sales and use tax form, instruction and brochure, linked to the official floridarevenue.com copy."
+  },
+  {
+   "slug": "quick-reference",
+   "title": "Quick reference",
+   "tool": true,
+   "summary": "The numbers, dates and rules most often needed, on one printable page."
+  },
+  {
+   "slug": "sources",
+   "title": "Sources and method",
+   "tool": true,
+   "summary": "How this guide was researched: what was downloaded, when, and what could not be retrieved."
+  }
+ ]
+}

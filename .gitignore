@@ -1,0 +1,15 @@
+# Harvested source files are ~420 MB (> 200 MB budget): commit the manifest only. Re-fetch from the URLs in source/manifest.json.
+source/*
+!source/manifest.json
+!source/manifest.csv
+!source/tip-titles.json
+!source/forms-catalog.json
+!source/forms-index-sut-section.json
+!source/robots.txt
+!source/pages.json
+!source/harvest-log.jsonl
+tests/node_modules/
+tests/out/shots/
+tests/out/*.pdf
+__pycache__/
+*.pyc

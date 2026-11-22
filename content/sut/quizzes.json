@@ -1,0 +1,688 @@
+{
+ "01-basics": [
+  {
+   "q": "A Florida shop sells a taxable item and does not know of any exemption for it. What should it do?",
+   "options": [
+    "Charge no tax until the Department confirms the item is taxable",
+    "Charge tax, because sales are taxable unless specifically exempt",
+    "Ask the customer whether they want to pay tax"
+   ],
+   "answer": 1,
+   "why": "Each sale, admission, storage or rental is taxable unless the transaction is exempt, so a dealer charges tax unless a specific exemption applies."
+  },
+  {
+   "q": "What is the state sales tax rate on electricity?",
+   "options": [
+    "6%",
+    "4%",
+    "6.95%"
+   ],
+   "answer": 2,
+   "why": "Electricity is taxed at 6.95% (2.6% under Chapter 203 plus 4.35% under Chapter 212), plus surtax."
+  },
+  {
+   "q": "A business buys office chairs from an out-of-state website that charges no Florida tax. Which tax applies?",
+   "options": [
+    "Use tax, reported by the buyer",
+    "No tax, because the seller is out of state",
+    "Sales tax, collected by the Department from the seller"
+   ],
+   "answer": 0,
+   "why": "Use tax is due on taxable items used in Florida when sales tax was not paid at purchase."
+  },
+  {
+   "q": "When does sales tax a dealer collects become state money?",
+   "options": [
+    "When the return is filed",
+    "At the moment it is collected",
+    "When the Department deposits the payment"
+   ],
+   "answer": 1,
+   "why": "Collected tax becomes state funds at the time of collection; the dealer holds it as custodian."
+  }
+ ],
+ "02-registration": [
+  {
+   "q": "A registered business opens a second location in another Florida county. Which form fits?",
+   "options": [
+    "Form DR-1A, Application for Registered Businesses to Add a New Florida Location",
+    "A new Form DR-1 is always required",
+    "No registration; just update the address online"
+   ],
+   "answer": 0,
+   "why": "A business with an active certificate uses DR-1A for an additional location or a move to another county (DR-15N R. 10/25 and the Sales and Use Tax webpage)."
+  },
+  {
+   "q": "A sole proprietor incorporates the business. What must happen?",
+   "options": [
+    "Nothing, the certificate transfers automatically",
+    "Notify the Department of a name change",
+    "Submit a new registration, because the legal entity changed"
+   ],
+   "answer": 2,
+   "why": "A change of legal entity or ownership requires a new registration (online or DR-1)."
+  },
+  {
+   "q": "Which document must be displayed in a visible place at the business location?",
+   "options": [
+    "The Certificate of Registration (DR-11)",
+    "The Annual Resale Certificate (DR-13)",
+    "The DR-15DSS"
+   ],
+   "answer": 0,
+   "why": "The DR-11 authorizes business at the address shown and must be displayed visibly."
+  },
+  {
+   "q": "A business closes on June 10. When is its final return due?",
+   "options": [
+    "With the next regular return",
+    "Within 15 days after closing",
+    "Within 60 days after closing"
+   ],
+   "answer": 1,
+   "why": "A final return and all tax due must be filed within 15 days after closing or selling the business."
+  }
+ ],
+ "03-taxable-exempt": [
+  {
+   "q": "Which grocery-store item is taxable under DR-46NT?",
+   "options": [
+    "A box of cereal",
+    "A ready-to-eat sandwich",
+    "A jar of mayonnaise"
+   ],
+   "answer": 1,
+   "why": "Sandwiches sold ready for immediate consumption are taxable; cereal and condiments are exempt groceries."
+  },
+  {
+   "q": "A church treasurer buys supplies for the church with a personal credit card and is reimbursed. The church holds a DR-14. Is the sale exempt?",
+   "options": [
+    "Yes, the church holds a certificate",
+    "No, payment must come from the organization's own funds",
+    "Yes, if the treasurer shows the certificate"
+   ],
+   "answer": 1,
+   "why": "Payment must be made with the organization's funds; personal payment later reimbursed is taxable."
+  },
+  {
+   "q": "A thermometer for human use is sold at a pharmacy. How is it treated?",
+   "options": [
+    "Exempt, with or without a prescription",
+    "Taxable unless prescribed",
+    "Taxable"
+   ],
+   "answer": 0,
+   "why": "DR-46NT lists thermometers for human use among exempt chemical compounds and test kits."
+  },
+  {
+   "q": "Where do exempt sales go on the DR-15?",
+   "options": [
+    "They are left off the return",
+    "Column 2, Exempt Sales",
+    "Line 6, Lawful Deductions"
+   ],
+   "answer": 1,
+   "why": "Exempt sales, such as sales for resale and sales to DR-14 holders, are reported in Column 2."
+  }
+ ],
+ "04-services": [
+  {
+   "q": "Which of these services is taxable in Florida?",
+   "options": [
+    "Nonresidential interior janitorial service",
+    "Residential lawn mowing",
+    "Accounting services"
+   ],
+   "answer": 0,
+   "why": "Nonresidential interior janitorial and cleaning services are among the taxable services reported on Line A; most other services are not taxed unless the law names them."
+  },
+  {
+   "q": "Does the $5,000 surtax limit apply to a $9,000 taxable security service contract?",
+   "options": [
+    "Yes, surtax stops at $5,000",
+    "No, the limit does not apply to taxable services",
+    "Only if the customer is out of state"
+   ],
+   "answer": 1,
+   "why": "The $5,000 limit applies to items of tangible personal property, not to taxable services."
+  },
+  {
+   "q": "Where is surtax sourced for a taxable service?",
+   "options": [
+    "Where the service is provided",
+    "Where the seller is located",
+    "Where the customer's headquarters is located"
+   ],
+   "answer": 0,
+   "why": "Surtax on taxable services is collected at the rate of the county where the service is provided."
+  }
+ ],
+ "05-use-tax": [
+  {
+   "q": "A dealer bought paper towels tax free for resale, then used them in its own restroom. What is owed?",
+   "options": [
+    "Nothing",
+    "Use tax on their cost",
+    "Sales tax at retail price"
+   ],
+   "answer": 1,
+   "why": "Items bought tax exempt for resale but used by the business owe use tax."
+  },
+  {
+   "q": "A dealer in a 1% surtax county buys $5,000 of equipment in a state that charged 4%. How much more is owed to Florida?",
+   "options": [
+    "$350",
+    "$150",
+    "$100"
+   ],
+   "answer": 1,
+   "why": "Florida tax and surtax at 7% is $350; less the $200 legally paid to the other state leaves $150."
+  },
+  {
+   "q": "Where does a registered dealer report use tax?",
+   "options": [
+    "Line A",
+    "Line B, Taxable Purchases",
+    "Line 6"
+   ],
+   "answer": 1,
+   "why": "Use tax goes on Line B of the DR-15; the surtax part is also reported on Line 15(d)."
+  }
+ ],
+ "06-rates-surtax": [
+  {
+   "q": "A Florida dealer in a 1% surtax county delivers a taxable item to a customer in a county with a 1.5% surtax. Which surtax rate applies?",
+   "options": [
+    "1%",
+    "1.5%",
+    "No surtax"
+   ],
+   "answer": 1,
+   "why": "For goods, surtax is collected at the rate of the county where delivery is made."
+  },
+  {
+   "q": "A single $12,000 item of tangible personal property is delivered into a 1% surtax county. What is the surtax?",
+   "options": [
+    "$120",
+    "$50",
+    "$0"
+   ],
+   "answer": 1,
+   "why": "Surtax applies only to the first $5,000 of a single item: $5,000 × 1% = $50."
+  },
+  {
+   "q": "Tax on a sale computes to $0.074. What is charged?",
+   "options": [
+    "$0.07",
+    "$0.08",
+    "$0.074"
+   ],
+   "answer": 0,
+   "why": "Carry to the third decimal place; round up only when the third decimal is greater than 4. Here it is 4, so the tax is $0.07."
+  },
+  {
+   "q": "A motor vehicle is sold to a buyer whose registration address is in another county. Where is surtax sourced?",
+   "options": [
+    "The dealer's county",
+    "The county of the owner's residence address in the registration or title",
+    "No surtax applies to vehicles"
+   ],
+   "answer": 1,
+   "why": "For motor vehicles and mobile homes, surtax follows the owner's residence address listed in the registration or title."
+  }
+ ],
+ "07-certificates": [
+  {
+   "q": "A retailer wants to use its Annual Resale Certificate to buy a laptop for its office. Is that allowed?",
+   "options": [
+    "Yes, any business purchase qualifies",
+    "No, it is only for items that will be resold or re-rented",
+    "Yes, if the laptop costs less than $5,000"
+   ],
+   "answer": 1,
+   "why": "The certificate is not for items the business will use, such as furniture, office equipment, computers or supplies."
+  },
+  {
+   "q": "How long must a seller keep a copy of a customer's resale certificate under Method 1?",
+   "options": [
+    "One year",
+    "Three years",
+    "Until the certificate expires"
+   ],
+   "answer": 1,
+   "why": "Method 1 requires keeping paper or electronic copies of the certificates for three years."
+  },
+  {
+   "q": "A transaction authorization number was issued for a customer's purchase on Monday. Can the seller use it for the same customer's purchase on Friday?",
+   "options": [
+    "Yes, it covers the customer for the calendar year",
+    "No, it is valid only for that one purchase",
+    "Yes, for 30 days"
+   ],
+   "answer": 1,
+   "why": "A transaction authorization number is valid for that purchase only. An annual vendor authorization number (Method 3) covers a customer for the calendar year."
+  },
+  {
+   "q": "When do Annual Resale Certificates expire?",
+   "options": [
+    "December 31 each year",
+    "Five years after issue",
+    "June 30 each year"
+   ],
+   "answer": 0,
+   "why": "Annual Resale Certificates expire on December 31 of each year."
+  }
+ ],
+ "08-filing-paying": [
+  {
+   "q": "A quarterly filer's January to March return is due when, and late after when?",
+   "options": [
+    "Due April 1, late after April 20",
+    "Due March 31, late after April 1",
+    "Due April 20, late after May 1"
+   ],
+   "answer": 0,
+   "why": "Returns are due on the 1st and late after the 20th of the month following the reporting period."
+  },
+  {
+   "q": "A dealer files and pays electronically and on time with an amount due of $600. What is the collection allowance?",
+   "options": [
+    "$30.00",
+    "$15.00",
+    "$0, because the allowance needs at least $1,200 due"
+   ],
+   "answer": 1,
+   "why": "2.5% of the first $1,200 of the amount due: 2.5% × $600 = $15.00."
+  },
+  {
+   "q": "Which business must use the DR-15 rather than the DR-15EZ?",
+   "options": [
+    "A gift shop that sells only in its own county",
+    "A hotel that rents rooms to tourists",
+    "A bakery with one location"
+   ],
+   "answer": 1,
+   "why": "Businesses that lease or rent transient accommodations are not eligible for the DR-15EZ."
+  },
+  {
+   "q": "A business paid $6,200 in sales and use tax in the state fiscal year ending June 30. What changes?",
+   "options": [
+    "It must make estimated payments",
+    "It must file and pay electronically starting with the January return",
+    "Nothing"
+   ],
+   "answer": 1,
+   "why": "Paying $5,000 or more in the prior state fiscal year requires electronic filing and payment for the next calendar year."
+  },
+  {
+   "q": "Electronic payments must be initiated, with a confirmation number, by when?",
+   "options": [
+    "Midnight on the 20th",
+    "5 p.m. ET on the business day before the 20th",
+    "The 1st of the month"
+   ],
+   "answer": 1,
+   "why": "To avoid penalty and interest, start the e-payment and get a confirmation number by 5 p.m. ET on the business day before the 20th."
+  }
+ ],
+ "09-rentals": [
+  {
+   "q": "A tenant pays August 2025 office rent in November 2025. Is sales tax due?",
+   "options": [
+    "No, the commercial rent tax was repealed October 1, 2025",
+    "Yes, 2% plus any surtax, because the rental period was before October 1, 2025",
+    "Yes, at 6%"
+   ],
+   "answer": 1,
+   "why": "Rent for periods through September 2025 stays taxable at 2% plus surtax even if paid on or after October 1, 2025 (TIP 25A01-04)."
+  },
+  {
+   "q": "A marina rents boat slips by the month. After October 1, 2025, how is that treated?",
+   "options": [
+    "Exempt under the commercial rent repeal",
+    "Taxable at 6% plus surtax and reported on Line A",
+    "Taxable at 2% on Line C"
+   ],
+   "answer": 1,
+   "why": "Docking and storage are taxed under a different section and were not affected by the repeal. Report them on Line A (TIP 25A01-11)."
+  },
+  {
+   "q": "A condo is rented for a seven-month stay. Is it a transient rental?",
+   "options": [
+    "Yes",
+    "No, transient rentals are six months or less",
+    "Only if the owner lives in Florida"
+   ],
+   "answer": 1,
+   "why": "Transient rentals are rentals of accommodations for six months or less."
+  },
+  {
+   "q": "Where does state sales tax on transient rentals get reported?",
+   "options": [
+    "Always to the Department",
+    "To the county tax collector",
+    "To whichever agency collects the tourist development tax"
+   ],
+   "answer": 0,
+   "why": "Many counties collect their local transient rental taxes directly, but state tax and surtax on transient rentals always go to the Department."
+  }
+ ],
+ "10-vehicles-boats-aircraft": [
+  {
+   "q": "A dealer in a 1% surtax county sells a car to a buyer whose registration address is in a 1.5% county. Which surtax rate applies?",
+   "options": [
+    "1%",
+    "1.5%",
+    "None"
+   ],
+   "answer": 1,
+   "why": "For motor vehicles, surtax follows the owner's residence address on the registration or title."
+  },
+  {
+   "q": "A boat and trailer sold together on one invoice for $55,000 to a buyer in a 1.5% county. What is the surtax?",
+   "options": [
+    "$825",
+    "$75",
+    "$50"
+   ],
+   "answer": 1,
+   "why": "Since July 1, 2024 they count as one item, so surtax applies to the first $5,000: $5,000 × 1.5% = $75 (TIP 24A01-11)."
+  },
+  {
+   "q": "What is the state rate on a new mobile home?",
+   "options": [
+    "6%",
+    "4%",
+    "3%"
+   ],
+   "answer": 2,
+   "why": "Since July 1, 2022, retail sales of new mobile homes are taxed at 3%. Used mobile homes are taxed at 6%."
+  },
+  {
+   "q": "A resident of a state with a 4% rate buys a car in Florida and files a DR-123. How much Florida tax is collected?",
+   "options": [
+    "6%",
+    "4%, paid to Florida",
+    "Nothing; they pay their home state"
+   ],
+   "answer": 1,
+   "why": "Under the partial exemption, Florida collects tax equal to the home state's rate, and the tax collected is Florida sales tax."
+  }
+ ],
+ "11-food-restaurants": [
+  {
+   "q": "A bakery with tables sells three muffins on a tray. Taxable?",
+   "options": [
+    "No, bakery goods are groceries",
+    "Yes, five or fewer items are presumed eaten on the premises",
+    "Only if they are warm"
+   ],
+   "answer": 1,
+   "why": "TIP 10A01-22: bakery products sold in quantities of five or fewer are presumed sold for consumption on the premises."
+  },
+  {
+   "q": "Concession receipts in a 7% county are $100, all taxable. What is the tax due?",
+   "options": [
+    "$7.00",
+    "$6.99",
+    "$6.54"
+   ],
+   "answer": 1,
+   "why": "$100 ÷ 1.0751 = $93.01 gross sales; $100 − $93.01 = $6.99 (GT-800003)."
+  },
+  {
+   "q": "A bar posts signs saying tax is included in drink prices. Which method does it use?",
+   "options": [
+    "Multiply receipts by the effective rate",
+    "Divide receipts by the divisor",
+    "Charge tax again on top"
+   ],
+   "answer": 1,
+   "why": "Method 2, used when customers are told tax is included, divides receipts by the divisor (GT-800046)."
+  },
+  {
+   "q": "Is candy exempt as a grocery?",
+   "options": [
+    "Yes",
+    "No, items advertised as candy are taxable",
+    "Only chocolate"
+   ],
+   "answer": 1,
+   "why": "DR-46NT: candy and similar items regarded and advertised as candy are taxable."
+  }
+ ],
+ "12-contractors-manufacturing": [
+  {
+   "q": "What is the indexed tax per ton on contractor-made asphalt for July 2026 to June 2027?",
+   "options": [
+    "$1.16",
+    "$1.19",
+    "$1.00"
+   ],
+   "answer": 1,
+   "why": "TIP 26A01-02 sets $1.19 per ton for July 1, 2026 through June 30, 2027, up from $1.16."
+  },
+  {
+   "q": "A farmer shows a Florida Farm TEAM Card. How does the seller document the exempt sale?",
+   "options": [
+    "Keep a copy of the card, or get an authorization number",
+    "No documentation is needed",
+    "Have the farmer sign a DR-13"
+   ],
+   "answer": 0,
+   "why": "TIP 24A01-01: keep a copy of the TEAM Card, or get a transaction or vendor authorization number."
+  },
+  {
+   "q": "How does a homeowner get the 2026 home-hardening exemption?",
+   "options": [
+    "At the register by showing a homestead card",
+    "Only through a refund, up to $500",
+    "Through the contractor's resale certificate"
+   ],
+   "answer": 1,
+   "why": "TIP 26A01-09: the exemption is refund-only, capped at $500 for one eligible property."
+  }
+ ],
+ "13-admissions": [
+  {
+   "q": "A concert ticket bought for $100 (with $6 tax) is resold for $150. What tax does the reseller remit, assuming no surtax?",
+   "options": [
+    "$9",
+    "$3, after crediting the $6 already paid",
+    "$0"
+   ],
+   "answer": 1,
+   "why": "TIP 17A01-13: collect tax on the higher price ($9) and credit the tax previously paid ($6)."
+  },
+  {
+   "q": "What is the tax rate on coin-operated amusement machine receipts?",
+   "options": [
+    "6%",
+    "4% plus surtax",
+    "Exempt"
+   ],
+   "answer": 1,
+   "why": "GT-800020: amusement machine charges are taxed at 4% plus any surtax."
+  },
+  {
+   "q": "Are Florida State Parks admissions taxable after July 1, 2025?",
+   "options": [
+    "Yes",
+    "No, they are exempt",
+    "Only annual passes"
+   ],
+   "answer": 1,
+   "why": "TIP 25A01-07: State Parks admissions, including annual passes, are exempt from July 1, 2025."
+  }
+ ],
+ "14-remote-marketplace": [
+  {
+   "q": "An out-of-state seller had $90,000 of taxable remote sales into Florida last year. Must it register?",
+   "options": [
+    "Yes",
+    "No, the threshold is more than $100,000",
+    "Only if it has a website"
+   ],
+   "answer": 1,
+   "why": "A substantial number of remote sales means more than $100,000 in the previous calendar year (TIP 21A01-03)."
+  },
+  {
+   "q": "A marketplace provider certifies it will collect on a seller's sales. What does the seller do with those sales?",
+   "options": [
+    "Collect tax too",
+    "Leave them off its return and not collect",
+    "Report them as exempt sales"
+   ],
+   "answer": 1,
+   "why": "When the provider certifies, the seller may not collect and excludes those sales from its return."
+  },
+  {
+   "q": "A restaurant's delivery app returns the tax it collects to the restaurant. Who remits it?",
+   "options": [
+    "The app",
+    "The restaurant",
+    "Nobody"
+   ],
+   "answer": 1,
+   "why": "Unless the delivery network elects to collect and remit, the merchant is responsible (TIP 23A01-24)."
+  }
+ ],
+ "15-holidays-exemption-periods": [
+  {
+   "q": "During the 2026 Hunting, Fishing, and Camping holiday, is a $220 tent exempt?",
+   "options": [
+    "Yes",
+    "No, tents are limited to $200 or less",
+    "Only for commercial buyers"
+   ],
+   "answer": 1,
+   "why": "TIP 26A01-06 lists tents at a sales price of $200 or less."
+  },
+  {
+   "q": "Can a dealer opt out of the annual Back-to-School holiday?",
+   "options": [
+    "Yes, by notifying the Department",
+    "No",
+    "Only theme parks"
+   ],
+   "answer": 1,
+   "why": "TIP 26A01-11: dealers cannot opt out of the Back-to-School holiday."
+  },
+  {
+   "q": "Is a portable generator rated at 8,000 running watts taxable today?",
+   "options": [
+    "Yes, except during a holiday",
+    "No, it has been always exempt since August 1, 2025",
+    "Only in hurricane season"
+   ],
+   "answer": 1,
+   "why": "TIP 25A01-05 made portable generators of 10,000 running watts or less always exempt from August 1, 2025."
+  }
+ ],
+ "16-records-audits": [
+  {
+   "q": "How long must records be kept?",
+   "options": [
+    "One year",
+    "At least three years from when the return was filed or due, whichever is later",
+    "Seven years"
+   ],
+   "answer": 1,
+   "why": "Records must be kept at least three years from the date the return was filed or required to be filed, whichever is later."
+  },
+  {
+   "q": "What starts an audit?",
+   "options": [
+    "A Notice of Proposed Assessment",
+    "A Notice of Intent to Audit Books and Records (DR-840)",
+    "A DR-1215"
+   ],
+   "answer": 1,
+   "why": "GT-800022: the DR-840 starts the 60-day notice period."
+  },
+  {
+   "q": "How long does a taxpayer have to file a formal protest after a Notice of Proposed Assessment?",
+   "options": [
+    "30 days",
+    "60 days",
+    "120 days"
+   ],
+   "answer": 2,
+   "why": "60 days for an informal protest; 120 days for a formal protest (GT-800022)."
+  }
+ ],
+ "17-penalties-interest-refunds": [
+  {
+   "q": "A return with $200 of tax due is filed late. What is the penalty?",
+   "options": [
+    "$20",
+    "$50",
+    "$10"
+   ],
+   "answer": 1,
+   "why": "The penalty is 10% of the amount due, with a $50 minimum."
+  },
+  {
+   "q": "$2,000 of tax is paid 21 days late at a daily factor of 0.000301370. What is the interest?",
+   "options": [
+    "$12.66",
+    "$1.27",
+    "$126.58"
+   ],
+   "answer": 0,
+   "why": "$2,000 × 21 × 0.000301370 = $12.66 (the example in TIP 26ADM-06)."
+  },
+  {
+   "q": "How long does a dealer have to claim a sales tax refund?",
+   "options": [
+    "One year",
+    "Three years from the date the tax was paid",
+    "No limit"
+   ],
+   "answer": 1,
+   "why": "The claim must be received within three years of the date the tax was paid (refunds page)."
+  },
+  {
+   "q": "Who can use voluntary disclosure?",
+   "options": [
+    "Anyone, including during an audit",
+    "Taxpayers the Department has not contacted about the liability",
+    "Only corporations"
+   ],
+   "answer": 1,
+   "why": "Eligibility requires that the Department has not previously contacted the taxpayer about the liability."
+  }
+ ],
+ "18-capstone": [
+  {
+   "q": "In the capstone, why is only $5,000 of the $8,000 sculpture subject to surtax?",
+   "options": [
+    "Art is partly exempt",
+    "The $5,000 single-item surtax limit",
+    "The buyer is out of state"
+   ],
+   "answer": 1,
+   "why": "Surtax applies only to the first $5,000 of a single item of tangible personal property."
+  },
+  {
+   "q": "Why is Harbor Light's collection allowance $30 and not 2.5% of $2,991?",
+   "options": [
+    "The allowance is 2.5% of only the first $1,200, so it can't exceed $30",
+    "Allowances are always $30",
+    "Because it has a café"
+   ],
+   "answer": 0,
+   "why": "2.5% × $1,200 = $30, the maximum."
+  },
+  {
+   "q": "Which capstone items go on Line B?",
+   "options": [
+    "The sealed cookies",
+    "The out-of-state shelving and the inventory used in the office",
+    "The church sale"
+   ],
+   "answer": 1,
+   "why": "Untaxed out-of-state purchases and resale inventory used by the business owe use tax, reported on Line B."
+  }
+ ]
+}

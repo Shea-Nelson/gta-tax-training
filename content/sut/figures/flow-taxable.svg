@@ -1,0 +1,47 @@
+<svg class="svg-text" role="img" aria-labelledby="flowtax-t flowtax-d" viewBox="0 0 760 600" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="flowtax-t">Flowchart: Is this sale taxable?</title>
+<desc id="flowtax-d">Three questions in order. Question 1: is the transaction a sale, rental, admission or storage of tangible personal property, a rental of transient accommodations, or a service the law names as taxable? If no, it is not subject to sales tax, though use tax or another tax may apply. If yes, go to question 2: is the item or service specifically exempt, such as most groceries or medicines? If yes, it is an exempt sale; report it as exempt. If no, go to question 3: is the buyer exempt or buying for resale, and do you hold the proper documentation, such as a copy of the Annual Resale Certificate, an authorization number, or the Consumer's Certificate of Exemption? If yes, it is an exempt sale; keep the documentation. If no, the sale is taxable: charge the state rate plus any county surtax.</desc>
+<defs><marker id="arr2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#051a54"/></marker></defs>
+<g font-size="15" fill="#1f1f1f">
+<rect x="230" y="10" width="300" height="40" rx="20" fill="#051a54"/>
+<text x="380" y="36" text-anchor="middle" fill="#fff" font-weight="700">A transaction in Florida</text>
+<line x1="380" y1="50" x2="380" y2="78" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<rect x="150" y="80" width="460" height="92" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="104" text-anchor="middle" font-weight="700" fill="#051a54">Question 1</text>
+<text x="380" y="126" text-anchor="middle">Is it a sale, rental, admission or storage of goods, a</text>
+<text x="380" y="146" text-anchor="middle">transient rental, or a service the law names as taxable?</text>
+<text x="380" y="164" text-anchor="middle" font-size="13" fill="#4a4a4a">(Modules 1, 4 and 9)</text>
+<line x1="610" y1="126" x2="640" y2="126" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="626" y="110" text-anchor="middle" font-size="12" font-weight="700">No</text>
+<rect x="642" y="90" width="112" height="76" rx="6" fill="#f3f4f6" stroke="#4a4a4a" stroke-width="2"/>
+<text x="698" y="114" text-anchor="middle" font-size="13">Not subject to</text><text x="698" y="132" text-anchor="middle" font-size="13">sales tax. Check</text><text x="698" y="150" text-anchor="middle" font-size="13">other taxes.</text>
+<line x1="380" y1="172" x2="380" y2="208" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="398" y="196" font-weight="700">Yes</text>
+<rect x="150" y="210" width="460" height="80" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="234" text-anchor="middle" font-weight="700" fill="#051a54">Question 2</text>
+<text x="380" y="256" text-anchor="middle">Is the item or service specifically exempt,</text>
+<text x="380" y="276" text-anchor="middle">such as most groceries or medicines? (Module 3)</text>
+<line x1="610" y1="250" x2="640" y2="250" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="626" y="234" text-anchor="middle" font-size="12" font-weight="700">Yes</text>
+<rect x="642" y="214" width="112" height="76" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="698" y="238" text-anchor="middle" font-size="13">Exempt sale.</text><text x="698" y="256" text-anchor="middle" font-size="13">Report it in</text><text x="698" y="274" text-anchor="middle" font-size="13">exempt sales.</text>
+<line x1="380" y1="290" x2="380" y2="326" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="398" y="314" font-weight="700">No</text>
+<rect x="150" y="328" width="460" height="100" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="352" text-anchor="middle" font-weight="700" fill="#051a54">Question 3</text>
+<text x="380" y="374" text-anchor="middle">Is the buyer exempt or buying for resale, and do you</text>
+<text x="380" y="394" text-anchor="middle">hold the documentation (resale certificate copy or</text>
+<text x="380" y="414" text-anchor="middle">authorization number, or DR-14)? (Module 7)</text>
+<line x1="610" y1="378" x2="640" y2="378" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="626" y="362" text-anchor="middle" font-size="12" font-weight="700">Yes</text>
+<rect x="642" y="340" width="112" height="76" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="698" y="364" text-anchor="middle" font-size="13">Exempt sale.</text><text x="698" y="382" text-anchor="middle" font-size="13">Keep the</text><text x="698" y="400" text-anchor="middle" font-size="13">documentation.</text>
+<line x1="380" y1="428" x2="380" y2="464" stroke="#051a54" stroke-width="3" marker-end="url(#arr2)"/>
+<text x="398" y="452" font-weight="700">No</text>
+<rect x="150" y="466" width="460" height="84" rx="6" fill="#051a54"/>
+<text x="380" y="494" text-anchor="middle" font-weight="700" fill="#fff">Taxable</text>
+<text x="380" y="516" text-anchor="middle" fill="#fff">Charge the state rate (usually 6%) plus any</text>
+<text x="380" y="536" text-anchor="middle" fill="#fff">county surtax, and state the tax on the receipt.</text>
+<text x="380" y="585" text-anchor="middle" font-size="13" fill="#4a4a4a">A simplification for training. Special rules in Modules 9 to 15 can change the answer.</text>
+</g>
+</svg>
