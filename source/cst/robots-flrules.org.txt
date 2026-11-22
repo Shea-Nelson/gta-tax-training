@@ -1,0 +1,11 @@
+ï»¿User-agent: *
+Disallow:/Gateway/View_notice.asp?id=14606665 
+Disallow:/gateway/readFile.asp?sid=12&tid=14606665&type=1&file=64B9.doc
+Disallow:/gateway/readFile.asp?sid=12&tid=17577969&type=1&file=64.doc
+Disallow:/gateway/notice_Files.asp?ID=14606665
+Disallow:/Gateway/View_notice.asp?id=17577969
+Disallow:/gateway/notice_Files.asp?ID=17577969
+Disallow:/gateway/notice_Files.asp?ID=4421180
+Disallow:/Faw/FAWDocuments/FAWVOLUMEFOLDERS2007/3331/3331doc.pdf
+Disallow:/gateway/readFile.asp?sid=12&tid=4421180&type=2&file=64B16.htm
+Disallow:/Faw/FAWDocuments/FAWVOLUMEFOLDERS2007/3331/SECTXII.pdf

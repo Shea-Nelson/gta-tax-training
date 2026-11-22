@@ -1,0 +1,864 @@
+{
+ "pages": {
+  "index.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 38,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/01-basics.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/02-registration.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/03-taxable-exempt.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/04-services.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/05-use-tax.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/06-rates-surtax.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/07-certificates.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/08-filing-paying.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/08a-efile-pay.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/09-rentals.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/10-vehicles-boats-aircraft.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/11-food-restaurants.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/12-contractors-manufacturing.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/13-admissions.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/14-remote-marketplace.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/15-holidays-exemption-periods.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/16-records-audits.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/17-penalties-interest-refunds.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/18-capstone.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/forms.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/glossary.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/index.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/learning-path.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/quick-reference.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  },
+  "sut/sources.html": {
+   "desktopStatus": 200,
+   "desktopAxe": [],
+   "desktopOverflow": {
+    "scrollW": 1280,
+    "docW": 1280,
+    "offenders": []
+   },
+   "keyboard": {
+    "stops": 40,
+    "noVisibleFocus": []
+   },
+   "firstTab": {
+    "tag": "A",
+    "txt": "Skip to main content",
+    "outline": true
+   },
+   "mobileStatus": 200,
+   "mobileAxe": [],
+   "mobileOverflow": {
+    "scrollW": 320,
+    "docW": 320,
+    "offenders": []
+   }
+  }
+ },
+ "links": [
+  "https://floridarevenue.com/taxes/Pages/default.aspx",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/default.aspx",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx",
+  "https://floridarevenue.com/Forms_library/current/guides/gt300015.pdf",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/discretionary.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr15n.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800054.pdf",
+  "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0212/0212ContentsIndex.html",
+  "https://www.flrules.org/gateway/ChapterHome.asp?Chapter=12A-1",
+  "https://floridarevenue.com/taxes/tips/Pages/default.aspx",
+  "https://floridarevenue.com/Pages/forms_index.aspx",
+  "https://floridarevenue.com/taxes/Pages/education.aspx",
+  "https://floridarevenue.com/taxes/eservices/Pages/registration.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr1n.pdf",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/annual_resale_certificate_sut.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr46nt.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr5.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-09.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-10.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-13.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-14.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-05.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-05.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-08.pdf",
+  "https://floridarevenue.com/taxes/tips/documents/TIP_12A01-13.pdf",
+  "https://floridarevenue.com/taxes/tips/documents/TIP_03A01-17.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr15mo.pdf",
+  "https://floridarevenue.com/Forms_library/current/guides/dr700002.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-14.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr15dss_26.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr15dss.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_21A01-02.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-18.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-03.pdf",
+  "https://floridarevenue.com/taxes/eservices/Pages/print_resale.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr15ezn.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-16.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-19.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-04.pdf",
+  "https://floridarevenue.com/taxes/Documents/dr15-ElectronicFilePayGuide.pdf",
+  "https://floridarevenue.com/taxes/filepayinfo/Pages/resources.aspx",
+  "https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx",
+  "https://floridarevenue.com/taxes/filepayinfo/Pages/dash.aspx",
+  "https://floridarevenue.com/taxes/eservices/Pages/sutlogin.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr841.pdf",
+  "https://floridarevenue.com/taxes/tutorial/tutorial_docs/howToCompleteDR15.docx",
+  "https://floridarevenue.com/Forms_library/current/gt800002.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr654.pdf",
+  "https://floridarevenue.com/taxes/eservices/Pages/enrollment.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr600.pdf",
+  "https://floridarevenue.com/taxes/Documents/passwordRetrievalGuide.pdf",
+  "https://floridarevenue.com/taxes/Documents/companyIdentifiers.pdf",
+  "https://floridarevenue.com/taxes/Documents/dr15ez-ElectronicFilePayGuide.pdf",
+  "https://floridarevenue.com/taxes/Documents/eFilePayGuide-PaymentOnlyWebsite.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr600tp.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr655.pdf",
+  "https://floridarevenue.com/taxes/eservices/Pages/paymentonly.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr659.pdf",
+  "https://floridarevenue.com/taxes/Documents/eFilePayGuide-cancelPayment.pdf",
+  "https://floridarevenue.com/taxes/Documents/dr7dr15con-ElectronicFilePayGuide.pdf",
+  "https://floridarevenue.com/taxes/Documents/Fl_eFileVendor.pdf",
+  "https://floridarevenue.com/taxes/Documents/eFilePayGuide-directFile.pdf",
+  "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf",
+  "https://floridarevenue.com/taxes/eservices/Pages/vendor.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr15tdt.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1c.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-16.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-11.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800003.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-08.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-11.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_22A01-12.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-01.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr123.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr99a.pdf",
+  "https://floridarevenue.com/taxes/Pages/consumer.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr15air.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-10.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-12.pdf",
+  "https://floridarevenue.com/taxes/tips/documents/TIP_10A01-22.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800041.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800046.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-02.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-10.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-10.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26pw.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-09.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800057.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-25.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_24A01-01.pdf",
+  "https://floridarevenue.com/taxes/tips/documents/TIP_17A01-13.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_22A01-13.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-06.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-07.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-04.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800020.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_21A01-03.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_23A01-24.pdf",
+  "https://floridarevenue.com/taxes/compliance/Pages/voluntary_disclosure.aspx",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-11.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-06.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-08.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25A01-09.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800022.pdf",
+  "https://floridarevenue.com/taxes/Documents/gt800023.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800042.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800059.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800065.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800039.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800061.pdf",
+  "https://floridarevenue.com/taxes/compliance/Pages/idr.aspx",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/tax_interest_rates.aspx",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_25ADM-03.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26ADM-02.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_26ADM-06.pdf",
+  "https://floridarevenue.com/taxes/compliance/Pages/refunds.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr26s.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26sn.pdf",
+  "https://floridarevenue.com/taxes/compliance/Pages/tax_collection_process.aspx",
+  "https://ispportal.floridarevenue.com/ExternalFormsOrdering",
+  "https://floridarevenue.com/Forms_library/current/dr1.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1a.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1c_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1ccn_static.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1ccn_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1con.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1con_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1fa.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1s.pdf",
+  "https://taxapps.floridarevenue.com/FloridaFarmTeamCard",
+  "https://floridarevenue.com/Forms_library/current/DR-1%20TEAM.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr5_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr16a.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr17a.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr17b.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr17c.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr18.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr18cin.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr29.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr722.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr722_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr151.pdf",
+  "https://floridarevenue.com/taxes/taxesfees/Pages/film_in_florida.aspx",
+  "https://taxapps.floridarevenue.com/EEnrollment/",
+  "mailto:RecordsRequests@floridarevenue.com",
+  "https://floridarevenue.com/Forms_library/current/dr841_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr700030.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr842.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr843.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr342000.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr344000.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800004.pdf",
+  "https://floridarevenue.com/Forms_library/current/gt800023.pdf",
+  "https://floridarevenue.com/Forms_library/current/brochure/gt800050.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr600a.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr659c.pdf",
+  "https://floridarevenue.com/taxes/tips/Documents/TIP_22ADM-07.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr835.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr835_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26ah.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26ah_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26hh.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26hh_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26pw_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26rp.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26rp_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26s_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr26a.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr370060.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr370061.pdf",
+  "https://floridarevenue.com/Forms_library/current/Form_rao.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr370026.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr5dcp.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr7-dr15con-dr7n.pdf",
+  "https://portal.fl.revenuepremier.com/rptp/portal/annual-resale-alt/",
+  "https://floridarevenue.com/taxes/eservices/Pages/filepay.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr15.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr15ez.pdf",
+  "https://floridarevenue.com/taxes/eservices/Pages/ooslogin.aspx",
+  "https://floridarevenue.com/Forms_library/current/dr35.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr42.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr42e.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr95b.pdf",
+  "https://www.flrules.org/",
+  "https://floridarevenue.com/Forms_library/current/dr123_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1214.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr1214dcp.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr300400.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr300400_fillable.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr600013.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr700022.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr700023.pdf",
+  "https://floridarevenue.com/Forms_library/current/dr700025.pdf",
+  "https://floridarevenue.com/faq/Pages/faqsearch.aspx"
+ ],
+ "internalBroken": [],
+ "consoleErrors": [],
+ "quiz": {
+  "questions": 4,
+  "feedback": [
+   "✔ Correct.Each sale, admission, storage or rental is taxable unless the transact",
+   "",
+   "",
+   "",
+   ""
+  ]
+ },
+ "glossFilter": "5 of 31 shown",
+ "formsFilter": "0 of 115 shown"
+}

@@ -1,0 +1,18 @@
+✔ TIP 11A19-01: $5.045 rounds to $5.05 (0.638742ms)
+✔ TIP 11A19-01: $3.213 rounds to $3.21 (0.102587ms)
+✔ third decimal 4 does not round up: $2.534 -> $2.53 (0.078632ms)
+✔ $100 business line, no local: 5.07 + 2.37 = $7.44 (the 7.44% Florida CST) (11.7928ms)
+✔ $100 satellite: 11.44% = $11.44 and local ignored (0.970433ms)
+✔ $100 residential line: no 5.07%, only 2.37% + local 5.22% = $7.59 (0.174902ms)
+✔ mobile gets no residential exemption: $100 at local 5.22% = $12.66 (0.110937ms)
+✔ Module 3 worked example: $49.99 business line, local 5.22% -> $2.53 + $1.18 + $2.61 = $6.32 (0.143459ms)
+✔ local rate with three decimals (Tallahassee 6.90% in the Jan 2026 workbook): $80 video -> $4.06 + $1.90 + $5.52 (0.131609ms)
+✔ input parsing rejects bad values (0.156599ms)
+ℹ tests 10
+ℹ suites 0
+ℹ pass 10
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 59.619282

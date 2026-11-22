@@ -1,0 +1,41 @@
+PASS [source ok | page ok] Florida CST 7.44%; state 4.92%
+PASS [source ok | page ok] 4.92% + 0.15% may be billed as 5.07% state tax
+PASS [source ok | page ok] Satellite 9.07% + 2.37% = 11.44%, no local
+PASS [source ok | page ok] Residential exempt from 4.92% and 0.15% only
+PASS [source ok | page ok] No residential exemption for mobile, video, satellite
+PASS [source ok | page ok] Rounding: $5.045 -> $5.05, $3.213 -> $3.21
+PASS [source ok | page ok] Municipal max 5.1% / 4.98% with permit fees; noncharter 1.6%
+PASS [source ok | page ok] Freeze: no increase before January 1, 2031
+PASS [source ok | page ok] Rate change: notify by September 1; dealers 90 days; bills on/after January 1
+PASS [source ok | page ok] Failure to register: $100 initial fee
+PASS [source ok | page ok] One registration per legal entity
+PASS [source ok | page ok] Allowance 0.75% qualifying, 0.25% otherwise, satellite 0.75%
+PASS [source ok | page ok] Late payment disallows only late percentage since Oct 1, 2015
+PASS [source ok | page ok] $5,000 penalty per return for local tax not on schedule
+PASS [source ok | page ok] Misassignment penalty 10%, max $10,000 per return
+PASS [source ok | page ok] Database updated every six months
+PASS [source ok | page ok] Database changes posted 120 days before Jan 1 / Jul 1
+PASS [source ok | page ok] Resale batch up to 50,000 accounts
+PASS [source ok | page ok] Resale certificates expire December 31; paper filers mailed mid-November
+PASS [source ok | page ok] Due 1st, late after 20th; file even if no tax due
+PASS [source ok | page ok] E-file if $5,000+ paid in prior state fiscal year
+PASS [source ok | page ok] EFT by 5 p.m. ET business day prior to the 20th
+PASS [source ok | page ok] New eFile system June 1, 2026; history to Sept 30, 2026; DR-841
+PASS [source ok | page ok] Alternative period example: Dec 21, 2015; EFT Dec 18
+PASS [source ok | page ok] Penalty 10% per 30 days, max 50%
+PASS [source ok | page ok] Refund request within 3 years; dealer 30 days, refund 45 days
+PASS [source ok | page ok] Suit within 180 days after the dealer written response
+PASS [source ok | page ok] Audit: 60-day notice; 305 days; 60/120 protest
+PASS [source ok | page ok] Bad debt credit within 12 months after the year charged off
+PASS [source ok | page ok] Direct pay caps $100,000 state, $25,000 local
+PASS [source ok | page ok] Direct pay permit expires five years
+PASS [source ok | page ok] DR-700019 semiannual, late after July 20 / January 20
+PASS [source ok | page ok] Prepaid calling taxed at 6% under s. 212.05
+PASS [source ok | page ok] Private line: 50% of separately billed interstate segment
+PASS [source ok | page ok] Mobile provider must use correct address within 120 days
+PASS [source ok | page ok] Schedule IV example: 1,113.09/0.0110 = 101,190.00; /0.0210 = 53,004.29
+PASS [source ok | page ok] Stuart total local rate 5.220% from January 1, 2026
+PASS [source ok | page ok] Hillsborough 2021: Tampa 6.020%
+PASS [source ok | page ok] Interest Jul-Dec 2026 11%, factor 0.000301370
+PASS [source ok | page ok] Certified vendors include Avalara, CoreLogic, Precisely, Vertex
+40/40 facts verified

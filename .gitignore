@@ -13,3 +13,8 @@ tests/out/shots/
 tests/out/*.pdf
 __pycache__/
 *.pyc
+# Communications Services Tax section (additive)
+!source/cst/
+tests/node_modules
+tests/out/cst/shots/
+tests/out/sut-recheck/shots/

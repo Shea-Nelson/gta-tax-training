@@ -1,0 +1,7 @@
+# robots.txt for Online Sunshine
+User-agent: Drifter
+Disallow: /
+User-agent: *
+Disallow: /employees/
+User-agent: SemrushBot
+Disallow: /
