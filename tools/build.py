@@ -143,7 +143,7 @@ def build_tax(tax):
             body += f'\n<section aria-labelledby="sources-h"><h2 id="sources-h">Sources for this page</h2><p class="meta">Official Florida Department of Revenue pages and documents cited above, with the revision date shown on the document where it has one. Retrieved November 2026.</p><ol class="sources">{items}</ol></section>'
         head = f'<h1>{("Module " + str(p["module"]) + ": ") if p.get("module") else ""}{esc(p["title"])}</h1>'
         if p.get('module'):
-            head += f'<p class="meta"><span class="level">Level: {p["level"]}</span> · About {p["minutes"]} minutes · Module {p["module"]} of {len(modules)}</p>'
+            head += f'<p class="meta"><span class="level">Level: {p["level"]}</span> · About {p["minutes"]} minutes · {("Module " + str(p["module"]) + " of " + str(sum(1 for q in modules if isinstance(q["module"], int)))) if isinstance(p["module"], int) else ("Companion to Module " + str(p["module"]).rstrip("ABCDEFGH"))}</p>'
         body = head + '\n' + body
         crumbs = [('Home', '../index.html'), (reg['short'], 'index.html')] + ([(p['title'], f'{slug}.html')] if slug != 'index' else [])
         pager = ''

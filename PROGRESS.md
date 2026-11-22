@@ -24,3 +24,25 @@ Last updated: 2026-11-22 ~01:40 ET
 - Pages: https://shea-nelson.github.io/gta-tax-training/ (main:/docs). Status: built. All 26 pages and 3 assets returned 200.
 - Live re-run of `check.mjs`: 0 axe violations and no 320 px overflow on all 25 pages checked. Its 51 "internal broken" entries are a checker artifact: it maps the /gta-tax-training/ URL prefix onto local paths.
 - Remaining: a manual screen reader pass and SME review (Module 12 and capstone Line 15(c)).
+
+## Module 8A: eFile and Pay, step by step (2026-11-22, 2–3 a.m. ET)
+- Request: Shea [pt136u] asked for a dedicated eFile and Pay page right after Module 8.
+- Label: "8A", slug `08a-efile-pay`, placed after 08 in site.json. Modules 9–18 keep their numbers.
+  - build.py: a non-integer module shows "Companion to Module 8", and "of N" counts integer modules only.
+  - make_forms.py takes its module labels from site.json.
+- Sources:
+  - Re-read the harvested TIPs 25A01-16 and 25A01-19; the filepayinfo dash, FAQ and resources pages; the sutlogin, enrollment, paymentonly and vendor pages; the DR-15, DR-15EZ and DR-7/DR-15CON guides; the payment-only, cancel and Direct File guides; the password retrieval guide; GT-800012; GT-800002; DR-600, DR-600TP, DR-654 and DR-659; DR-15N; and the DR-15 tutorial transcript.
+  - New fetch (harvest.py get(), robots allowed): eFilePayGuide-secureFileTransmission.pdf (200). /taxes/developerinfo/Pages/default.aspx returned 404. No 403s. Nothing was signed into.
+  - New source keys: filepayinfo-dash, filepayinfo-resources, sutlogin-page, paymentonly-page, importinfo-page, eservices-page, vendor-page, efilepayguide-securefiletransmission (1,171 keys in total).
+- Added:
+  - content/sut/08a-efile-pay.html
+  - figures/efile-flow.svg
+  - 6 quiz questions
+  - cross-links from Module 8 (body and takeaways), the learning path (nested under Module 8; Level 2 is now about 3 h and the total about 8 h 15 min), the SUT index, the home card, the quick reference, and the forms finder (DR-600, DR-600TP, DR-654, DR-655, DR-659, DR-7 and DR-841 now point to Module 8A)
+  - 4 new rows in the sources.html conflicts table
+- CSS: added `overflow-wrap:anywhere` on main text, which fixes 320 px overflow from long URLs and emails on 8A and the quick reference.
+- Tests:
+  - facts.py: 47/47, including 15 new 8A checks.
+  - taxcalc: 9/9.
+  - check.mjs: 26 pages, axe 0/0, no 320 px overflow, focus visible, 0 internal broken links, 0 console errors.
+- Screenshots: tests/out/module08a-efile-flow-desktop.png, module08a-top-desktop.png, module08a-mobile-320.png

@@ -20675,5 +20675,20 @@
   "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
   "finalUrl": "https://floridarevenue.com/taxes/tutorial/tutorial_docs/voluntaryDisclosure.docx",
   "lastModified": "Mon, 09 Nov 2026 23:46:15 GMT"
+ },
+ "https://floridarevenue.com/taxes/documents/efilepayguide-securefiletransmission.pdf": {
+  "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf",
+  "kind": "document",
+  "title": "Guide to Secure File Transmission (Bulk Filer)",
+  "formNumber": "",
+  "referrers": [],
+  "status": 200,
+  "fetched": "2026-11-22T02:02:17",
+  "path": "documents/eFilePayGuide-secureFileTransmission.pdf",
+  "bytes": 2069505,
+  "sha256": "54cb84eefbd9412ae81e4c7ccfe2b77111448d8b49f8efca5d8d1234ac4cff8a",
+  "contentType": "application/pdf",
+  "finalUrl": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf",
+  "lastModified": "Mon, 15 Dec 2025 19:46:02 GMT"
  }
 }

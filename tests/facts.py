@@ -46,6 +46,22 @@ checks = [
  ('DR-14 personal reimbursed payment not accepted', lambda: txt('brochures/gt800054.pdf'), r"personal payment that will be reimbursed"),
  ('Transient rentals six months or less', lambda: page(SUT), r"timeshare resorts for a term of six months or less"),
  ('Home hardening refund max $500', lambda: txt('tips/TIP_26A01-09.pdf'), r"may not exceed \$500"),
+ # --- Module 8A: eFile and Pay
+ ('8A: old site closed 5:00 p.m. ET Nov 26, 2025; new site 8:00 a.m. Dec 1', lambda: txt('tips/TIP_25A01-16.pdf'), r"5:00 p\.m\..{0,200}November 26, 2025|November 26, 2025.{0,200}5:00 p\.m\."),
+ ('8A: Guest user, no leading zeros', lambda: txt('tips/TIP_25A01-19.pdf'), r"do not include leading zeros"),
+ ('8A: MLK Jan 19, 2026 -> due Fri Jan 16 5 p.m. ET', lambda: txt('tips/TIP_25A01-19.pdf'), r"5 p\.m\. ET on Friday, January 16, 2026"),
+ ('8A: ACH debit and credit card; card has service charge', lambda: page('https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx'), r"ACH Direct Debit and credit card.{0,120}service charge"),
+ ('8A: ACH cancel before 5 p.m. ET day submitted', lambda: page('https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx'), r"before 5 p\.m\. ET on the day the payment was submitted"),
+ ('8A: credit card payments cannot be canceled', lambda: page('https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx'), r"Payments submitted by credit card cannot be canceled"),
+ ('8A: unsubmitted returns saved 90 days; timeout 15 minutes', lambda: page('https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx'), r"saved for up to 90 days.*15 minutes of inactivity"),
+ ('8A: DR-659 2026 SUT row', lambda: txt('forms/dr659.pdf'), r"Sales and Use 16 19 19 17 19 18 17 19 18 19 19 18"),
+ ('8A: DR-659 cannot select same-day debit on deadline', lambda: txt('forms/dr659.pdf'), r"will not be able to select a debit date for the same day"),
+ ('8A: SUT debit-block company ID 7596001874', lambda: txt('documents/companyIdentifiers.pdf'), r"Sales and Use Tax 7596001874"),
+ ('8A: consolidated filers must e-file', lambda: txt('forms/gt800002.pdf'), r"\$5,000 or more in tax during the most recent state fiscal year or you file a consolidated tax return"),
+ ('8A: Line 11 donate allowance checkbox', lambda: txt('documents/dr15-ElectronicFilePayGuide.pdf'), r"On Line 11 you can choose to donate your collection allowance to education"),
+ ('8A: Direct file account active ~30 minutes', lambda: txt('documents/eFilePayGuide-directFile.pdf'), r"about 30 minutes after account creation"),
+ ('8A: ACH credit test transaction within two weeks, $.01', lambda: txt('forms/dr600tp.pdf'), r"test transaction within two weeks.*at least \$\.01"),
+ ('8A: history until Sept 30, 2026 (login page)', lambda: page('https://floridarevenue.com/taxes/eservices/Pages/sutlogin.aspx'), r"accessible through September 30, 2026"),
 ]
 ok = 0
 for name, src, rx in checks:

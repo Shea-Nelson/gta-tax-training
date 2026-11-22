@@ -15,15 +15,16 @@
 <tr><td>Tax Information Publications (TIPs)</td><td>742</td><td>699</td></tr>
 <tr><td>Forms and instructions</td><td>241</td><td>103</td></tr>
 <tr><td>Brochures and guides</td><td>20</td><td>16</td></tr>
-<tr><td>eServices guides and other documents</td><td>121</td><td>25</td></tr>
+<tr><td>eServices guides and other documents</td><td>122</td><td>26</td></tr>
 <tr><td>Tutorial transcripts</td><td>12</td><td>12</td></tr>
-<tr><th scope="row">Total files</th><td>1,136 (about 413 MB)</td><td>855</td></tr>
+<tr><th scope="row">Total files</th><td>1,137 (about 415 MB)</td><td>856</td></tr>
 </tbody></table></div>
 <p class="small">The harvest was deliberately broad: it followed every link on the sales and use tax pages and in the forms index. Some files, such as property tax and reemployment tax forms, are not about sales and use tax. They are flagged in the manifest and not used in the guide. The source files total more than 200 MB, so the repository holds the manifest (JSON and CSV) and the harvest scripts, not the files. Every file can be downloaded again from its recorded URL.</p>
 <h2>What could not be collected</h2>
 <ul>
 <li><strong>Excluded by robots.txt:</strong> prior-year forms (paths under /Forms_library/20…), the sales tax holiday landing pages (back-to-school, Freedom Month, hunting season, disaster preparedness, tool time), and /dor/ pages, including /dor/training. 210 requests were skipped for this reason. The guide relies on the TIPs for holidays.</li>
 <li><strong>Not found (404):</strong> brochures GT-800001, GT-800036, GT-800037 and GT-800053, which other documents still reference; the DR-1215 insert; and one property tax document. One archived fuel-tax specification required sign-in (401) and was skipped. No request was refused with a 403.</li>
+<li><strong>Follow-up for Module 8A (November 22, 2026):</strong> the eFile and Pay pages, user guides and FAQ already harvested were re-read. One missing public guide was fetched the same polite way: the Secure File Transmission (Bulk Filer) guide. {{cite:efilepayguide-securefiletransmission}} The software developer information page linked from GT-800002 returned 404. The login and payment portals themselves were never opened or signed in to.</li>
 <li><strong>Referenced but not in the current forms index:</strong> GT-800030 (motor vehicles) and GT-800060 (resale certificates).</li>
 <li><strong>Questions and answers:</strong> the Department's FAQ pages load their answers dynamically, so their text was not captured. Use the FAQ search on floridarevenue.com directly. {{cite:faq-page}}</li>
 <li><strong>2027 surtax table:</strong> TIPs issued November 20, 2026 announce surtax changes for January 1, 2027, but the 2027 DR-15DSS was not available when the harvest ran. {{cite:tip-26a01-14}}</li>
@@ -36,6 +37,10 @@
 <tr><td>Adding a location or moving to another county</td><td>GT-800054 (rev. 07/21) says file a new DR-1 {{cite:gt800054}}</td><td>DR-15N (rev. 10/25) and the Sales and Use Tax webpage say DR-1A {{cite:dr15n}} {{cite:sut-page}}</td></tr>
 <tr><td>Surtax rates</td><td>The file at Forms_library/current/dr15dss.pdf is the 2025 edition (rev. 11/24) {{cite:dr15dss}}</td><td>dr15dss_26.pdf is the 2026 edition (rev. 11/25) {{cite:dr15dss_26}}</td></tr>
 <tr><td>Salon booth rentals</td><td>TIP 24A01-16R (2024) says license fees are taxed at 2% {{cite:tip-24a01-16}}</td><td>TIP 25A01-04 repealed the commercial rent tax for periods on or after October 1, 2025 {{cite:tip-25a01-04}}</td></tr>
+<tr><td>Guest login button in eFile and Pay</td><td>TIP 25A01-19 (Dec. 2025): “File a Return” {{cite:tip-25a01-19}}</td><td>DR-15 eFile guide (Oct. 2026) and the login page: “Start a New Return” {{cite:dr15-electronicfilepayguide}} {{cite:sutlogin-page}}</td></tr>
+<tr><td>Password retrieval needs</td><td>TIP 25A01-16: certificate number and a prior confirmation number; TIP 25A01-19: User ID, certificate number and confirmation number {{cite:tip-25a01-16}} {{cite:tip-25a01-19}}</td><td>Password retrieval guide: two tax ID types plus a confirmation number {{cite:passwordretrievalguide}}</td></tr>
+<tr><td>How long the old eFile site kept history</td><td>Nov. 3, 2025 notice: until March 31, 2026; FAQ: one to two months {{cite:filepayinfo-dash}} {{cite:filepayinfo-faq}}</td><td>Dec. 1, 2025 notice on the login page: until September 30, 2026 (now past; use DR-841) {{cite:sutlogin-page}}</td></tr>
+<tr><td>Bulk upload registration</td><td>Secure File Transmission (Bulk Filer) guide, Nov. 2025 {{cite:efilepayguide-securefiletransmission}}</td><td>Direct File guide, Oct. 2026 {{cite:efilepayguide-directfile}}</td></tr>
 <tr><td>How tax is computed</td><td>The bracket system used before July 1, 2021</td><td>The rounding rule in TIP 21A01-02 {{cite:tip-21a01-02}}</td></tr>
 </tbody></table></div>
 <h2>Still to do before official use</h2>

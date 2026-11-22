@@ -155,6 +155,48 @@
   "short": "Consumer page",
   "kind": "page"
  },
+ "filepayinfo-dash": {
+  "title": "eFile and Pay Information Center (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/filepayinfo/Pages/dash.aspx",
+  "short": "eFile Information Center",
+  "kind": "page"
+ },
+ "filepayinfo-resources": {
+  "title": "eFile and Pay Information Center - User Guides and Videos (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/filepayinfo/Pages/resources.aspx",
+  "short": "eFile user guides page",
+  "kind": "page"
+ },
+ "sutlogin-page": {
+  "title": "eFile and Pay Sales and Use Tax, Prepaid Wireless Fee, and Solid Waste Fees and Surcharges (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/sutlogin.aspx",
+  "short": "SUT eFile and Pay login page",
+  "kind": "page"
+ },
+ "paymentonly-page": {
+  "title": "ePay Taxes, Fees, and Remittances (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/paymentonly.aspx",
+  "short": "Payment-only page",
+  "kind": "page"
+ },
+ "importinfo-page": {
+  "title": "Import File Information for Taxpayers (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/importinfo.aspx",
+  "short": "Import file page",
+  "kind": "page"
+ },
+ "eservices-page": {
+  "title": "eServices for Taxes, Fees and Other State Remittances (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/default.aspx",
+  "short": "eServices page",
+  "kind": "page"
+ },
+ "vendor-page": {
+  "title": "Florida Alternative Tax Forms Vendor Information (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/vendor.aspx",
+  "short": "Vendor information page",
+  "kind": "page"
+ },
  "filepayinfo-faq": {
   "title": "eFile and Pay FAQ (DOR webpage)",
   "url": "https://floridarevenue.com/taxes/filepayinfo/Pages/faq.aspx",
@@ -10377,6 +10419,15 @@
   "kind": "tutorial-transcript",
   "date": "",
   "path": "tutorials/voluntaryDisclosure.docx",
+  "sutRelated": true
+ },
+ "efilepayguide-securefiletransmission": {
+  "title": "Guide to Secure File Transmission (Bulk Filer)",
+  "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf",
+  "short": "eFilePayGuide-secureFileTransmission",
+  "kind": "document",
+  "date": "",
+  "path": "documents/eFilePayGuide-secureFileTransmission.pdf",
   "sutRelated": true
  }
 }

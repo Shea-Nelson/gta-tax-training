@@ -684,5 +684,67 @@
    "answer": 1,
    "why": "Untaxed out-of-state purchases and resale inventory used by the business owe use tax, reported on Line B."
   }
+ ],
+ "08a-efile-pay": [
+  {
+   "q": "A dealer paid $4,000 in sales and use tax last state fiscal year and files one return for a single location. Must it file electronically?",
+   "options": [
+    "No, but it may choose to",
+    "Yes, every dealer must since December 1, 2025",
+    "Yes, because it collects surtax"
+   ],
+   "answer": 0,
+   "why": "Electronic filing is required after a fiscal year with $5,000 or more paid, or for consolidated filers. Others may file electronically voluntarily, and the new system did not change who must."
+  },
+  {
+   "q": "A guest user's Business Partner Number is 0001234567. How should it be entered?",
+   "options": [
+    "1234567, without the leading zeros",
+    "0001234567, exactly as printed",
+    "It can't be used; guests must enroll first"
+   ],
+   "answer": 0,
+   "why": "TIP 25A01-19: when entering the Business Partner Number, do not include leading zeros."
+  },
+  {
+   "q": "Per DR-659, what makes an electronic payment on time?",
+   "options": [
+    "Completing it and receiving the confirmation number by 5 p.m. ET on the DR-659 date",
+    "Choosing a debit date on or before the 20th",
+    "Starting it any time before midnight on the 20th"
+   ],
+   "answer": 0,
+   "why": "DR-659: complete the payment and receive a confirmation number by 5 p.m. ET on the listed date, usually the business day before the 20th."
+  },
+  {
+   "q": "A dealer paid by credit card and then noticed the amount was wrong. Can the payment be canceled online?",
+   "options": [
+    "No, card payments cannot be canceled",
+    "Yes, until 5 p.m. ET that day",
+    "Yes, if they log in as a guest"
+   ],
+   "answer": 0,
+   "why": "The FAQ says credit card payments cannot be canceled. Only ACH debits can be, before 5 p.m. ET on the day they were submitted."
+  },
+  {
+   "q": "A business files one consolidated return for 12 locations. In eFile and Pay, how is it built?",
+   "options": [
+    "A DR-7 for each location is saved, then the DR-15CON is reviewed and submitted",
+    "One DR-15 with all locations' sales added together",
+    "Twelve separate DR-15 returns"
+   ],
+   "answer": 0,
+   "why": "The consolidated guide: open a DR-7 for each Location ID, save each one, then use Review Consolidated Return to submit the DR-15CON."
+  },
+  {
+   "q": "The bank keeps rejecting a dealer's ACH debit because of a debit block. What fixes it?",
+   "options": [
+    "Give the bank the Department's sales and use tax company ID, 7596001874",
+    "Switch to paper checks",
+    "Re-enroll for eServices"
+   ],
+   "answer": 0,
+   "why": "GT-800012 lists the company identifiers to give the bank. For sales and use tax it is 7596001874."
+  }
  ]
 }

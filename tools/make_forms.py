@@ -3,6 +3,7 @@
 import json, html, re
 ROOT = '/workspace/gta/sut-training'
 cat = json.load(open(f'{ROOT}/source/forms-catalog.json'))
+label = {p['slug']: str(p['module']) for p in json.load(open(f'{ROOT}/content/sut/site.json'))['pages'] if p.get('module')}
 mods = {  # form number -> module slug where it is taught
  'DR-1': '02-registration', 'DR-1N': '02-registration', 'DR-1A': '02-registration', 'DR-1C': '09-rentals', 'DR-1 TEAM': '12-contractors-manufacturing',
  'DR-5': '07-certificates', 'DR-13': '07-certificates', 'DR-15': '08-filing-paying', 'DR-15N': '08-filing-paying', 'DR-15EZ': '08-filing-paying',
@@ -11,6 +12,8 @@ mods = {  # form number -> module slug where it is taught
  'DR-600013': '07-certificates', 'DR-700002': '06-rates-surtax', 'GT-300015': '01-basics', 'GT-800003': '11-food-restaurants', 'GT-800020': '13-admissions',
  'GT-800041': '11-food-restaurants', 'GT-800046': '11-food-restaurants', 'GT-800054': '02-registration', 'GT-800057': '12-contractors-manufacturing',
  'DR-26S': '17-penalties-interest-refunds', 'DR-26SN': '17-penalties-interest-refunds', 'DR-835': '16-records-audits', 'GT-800022': '16-records-audits',
+ 'DR-600': '08a-efile-pay', 'DR-600TP': '08a-efile-pay', 'DR-654': '08a-efile-pay', 'DR-655': '08a-efile-pay', 'DR-659': '08a-efile-pay',
+ 'DR-7': '08a-efile-pay', 'DR-841': '08a-efile-pay',
  'GT-800065': '16-records-audits', 'GT-800059': '16-records-audits', 'GT-800061': '16-records-audits', 'GT-800039': '16-records-audits', 'DR-16A': '12-contractors-manufacturing',
 }
 skip_sub = {'Specific Fuel Tax Forms', 'All Taxes, Except Sales and Use Tax'}
@@ -19,7 +22,7 @@ BROKEN = {'https://verify-taxcerts.floridarevenue.com'}  # 404 when checked Nov 
 def fix(h):
     h = h.strip().rstrip('/') if 'verify-taxcerts' in h else h.strip()
     if h.startswith('https://mailto:'): return 'mailto:' + h[len('https://mailto:'):].replace('%20', '').strip().strip('/')
-    if h == 'http://flrules.org/': return 'https://www.flrules.org/'
+    if h.rstrip('/') == 'http://flrules.org': return 'https://www.flrules.org/'
     return h
 groups = {}
 for r in cat:
@@ -40,7 +43,7 @@ for i, (sec, rows) in enumerate(groups.items()):
         title = ' '.join(r['title'].replace('\ufffd', '–').split())
         links = ' · '.join(f'<a href="{html.escape(l["href"])}">{html.escape(l["label"] or "Link")}<span class="visually-hidden"> for {html.escape(r["number"])}</span></a>' for l in [dict(x, href=fix(x['href'])) for x in r.get('links', []) if x.get('href')] if l['href'] not in BROKEN)
         m = mods.get(r['number'])
-        mod = f'<a href="{m}.html">Module {int(m[:2])}</a>' if m else ''
+        mod = f'<a href="{m}.html">Module {label[m]}</a>' if m else ''
         out.append(f'<tr data-item><th scope="row">{html.escape(r["number"])}</th><td>{html.escape(title)}</td><td>{links}</td><td>{mod}</td></tr>')
     out.append('</tbody></table></div>')
 out.append('</div>')

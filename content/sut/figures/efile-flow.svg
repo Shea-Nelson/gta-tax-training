@@ -1,0 +1,53 @@
+<svg class="svg-text" role="img" aria-labelledby="efl-t efl-d" viewBox="0 0 760 910" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="efl-t">Flow diagram: filing and paying a sales and use tax return in eFile and Pay</title>
+<desc id="efl-d">Start at floridarevenue.com/taxes/filepay. Step 1: under eFile and Pay Taxes and Fees, choose Sales and Use Tax. Step 2 has two paths. 2a, enrolled users log in with a User ID and Password. 2b, guest users use a Certificate Number and Business Partner Number, with no leading zeros. Both paths lead to step 3: open Online Transactions, choose File a Tax Return/Report, and pick the form: DR-15, DR-15EZ, or DR-15CON for a consolidated return. Step 4: work through the tabs: Return Header, Sales Details, the return lines, the surtax lines 15(a) to 15(d) and Calculate, then the Estimated Tax and Vending and Amusement worksheets. Step 5: review the summary, sign and submit; a green confirmation banner appears, so print it and keep the confirmation. Step 6: make a payment now or later. By ACH debit, enter or choose the bank account, set the debit date, authorize the withdrawal, and confirm. A credit card payment goes through a third-party site and carries a service charge. Step 7: the payment confirmation number must be received by 5 p.m. Eastern time on the deadline in Form DR-659, which is the business day before the 20th. Finish by logging out.</desc>
+<defs><marker id="arr-ef" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#051a54"/></marker></defs>
+<g font-size="15" fill="#1f1f1f">
+<rect x="180" y="10" width="400" height="40" rx="20" fill="#051a54"/>
+<text x="380" y="36" text-anchor="middle" fill="#fff" font-weight="700">Start: floridarevenue.com/taxes/filepay</text>
+<line x1="380" y1="50" x2="380" y2="78" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="80" width="560" height="72" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="108" text-anchor="middle" font-weight="700" fill="#051a54">1. Choose Sales and Use Tax</text>
+<text x="380" y="132" text-anchor="middle">under “eFile and Pay Taxes and Fees”</text>
+<line x1="380" y1="152" x2="380" y2="166" stroke="#051a54" stroke-width="3"/>
+<line x1="205" y1="166" x2="555" y2="166" stroke="#051a54" stroke-width="3"/>
+<line x1="205" y1="166" x2="205" y2="180" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<line x1="555" y1="166" x2="555" y2="180" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="40" y="182" width="330" height="92" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="205" y="210" text-anchor="middle" font-weight="700" fill="#051a54">2a. Enrolled user</text>
+<text x="205" y="234" text-anchor="middle" font-size="14">Log In with</text>
+<text x="205" y="254" text-anchor="middle" font-size="14">User ID and Password</text>
+<rect x="390" y="182" width="330" height="92" rx="6" fill="#e8f4f3" stroke="#00695f" stroke-width="2"/>
+<text x="555" y="210" text-anchor="middle" font-weight="700" fill="#051a54">2b. Guest user</text>
+<text x="555" y="234" text-anchor="middle" font-size="14">Certificate Number and Business</text>
+<text x="555" y="254" text-anchor="middle" font-size="14">Partner Number (no leading zeros)</text>
+<line x1="205" y1="274" x2="205" y2="288" stroke="#051a54" stroke-width="3"/>
+<line x1="555" y1="274" x2="555" y2="288" stroke="#051a54" stroke-width="3"/>
+<line x1="205" y1="288" x2="555" y2="288" stroke="#051a54" stroke-width="3"/>
+<line x1="380" y1="288" x2="380" y2="302" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="304" width="560" height="72" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="332" text-anchor="middle" font-weight="700" fill="#051a54">3. Online Transactions › File a Tax Return/Report</text>
+<text x="380" y="356" text-anchor="middle">Pick the form: DR-15, DR-15EZ, or DR-15CON (consolidated)</text>
+<line x1="380" y1="376" x2="380" y2="404" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="406" width="560" height="92" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="434" text-anchor="middle" font-weight="700" fill="#051a54">4. Work through the tabs</text>
+<text x="380" y="458" text-anchor="middle" font-size="14">Return Header, Sales Details, return lines, surtax 15(a)–15(d),</text>
+<text x="380" y="478" text-anchor="middle" font-size="14">Calculate, Estimated Tax and Vending and Amusement worksheets</text>
+<line x1="380" y1="498" x2="380" y2="526" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="528" width="560" height="72" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="556" text-anchor="middle" font-weight="700" fill="#051a54">5. Review the summary, sign and submit</text>
+<text x="380" y="580" text-anchor="middle" font-size="14">Green confirmation banner: print it and keep the confirmation</text>
+<line x1="380" y1="600" x2="380" y2="628" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="630" width="560" height="92" rx="6" fill="#fff" stroke="#051a54" stroke-width="2"/>
+<text x="380" y="658" text-anchor="middle" font-weight="700" fill="#051a54">6. Make a Payment Now (or later)</text>
+<text x="380" y="682" text-anchor="middle" font-size="14">ACH debit: bank account, debit date, authorize, Confirm</text>
+<text x="380" y="702" text-anchor="middle" font-size="14">Credit card: third-party site, service charge</text>
+<line x1="380" y1="722" x2="380" y2="750" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="100" y="752" width="560" height="72" rx="6" fill="#fde8eb" stroke="#a1001b" stroke-width="2"/>
+<text x="380" y="780" text-anchor="middle" font-weight="700" fill="#a1001b">7. Payment confirmation by 5 p.m. ET</text>
+<text x="380" y="804" text-anchor="middle" font-size="14">on the DR-659 deadline (the business day before the 20th)</text>
+<line x1="380" y1="824" x2="380" y2="852" stroke="#051a54" stroke-width="3" marker-end="url(#arr-ef)"/>
+<rect x="280" y="854" width="200" height="40" rx="20" fill="#051a54"/>
+<text x="380" y="880" text-anchor="middle" fill="#fff" font-weight="700">Log Out</text>
+</g>
+</svg>

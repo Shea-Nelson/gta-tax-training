@@ -1439,3 +1439,5 @@
 {"kind": "file", "url": "https://floridarevenue.com/taxes/tutorial/tutorial_docs/sutPart4.docx", "status": 200, "t": "2026-11-22T01:15:51"}
 {"kind": "file", "url": "https://floridarevenue.com/taxes/tutorial/tutorial_docs/sutPart5.docx", "status": 200, "t": "2026-11-22T01:15:53"}
 {"kind": "file", "url": "https://floridarevenue.com/taxes/tutorial/tutorial_docs/voluntaryDisclosure.docx", "status": 200, "t": "2026-11-22T01:15:54"}
+{"url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-secureFileTransmission.pdf", "status": 200, "note": "efile-page addendum", "t": "2026-11-22T02:02:17"}
+{"url": "https://floridarevenue.com/taxes/developerinfo/Pages/default.aspx", "status": 404, "note": "efile-page addendum", "t": "2026-11-22T02:02:17"}

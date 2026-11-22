@@ -30,6 +30,13 @@ pages = {
  'faq-page': ('Questions and Answers search (DOR webpage)', '/faq/Pages/faqsearch.aspx', 'DOR FAQ'),
  'gta-home': ('General Tax Administration (DOR webpage)', '/taxes/Pages/default.aspx', 'GTA home'),
  'consumer-page': ('Information for Consumers: Use Tax (DOR webpage)', '/taxes/Pages/consumer.aspx', 'Consumer page'),
+ 'filepayinfo-dash': ('eFile and Pay Information Center (DOR webpage)', '/taxes/filepayinfo/Pages/dash.aspx', 'eFile Information Center'),
+ 'filepayinfo-resources': ('eFile and Pay Information Center - User Guides and Videos (DOR webpage)', '/taxes/filepayinfo/Pages/resources.aspx', 'eFile user guides page'),
+ 'sutlogin-page': ('eFile and Pay Sales and Use Tax, Prepaid Wireless Fee, and Solid Waste Fees and Surcharges (DOR webpage)', '/taxes/eservices/Pages/sutlogin.aspx', 'SUT eFile and Pay login page'),
+ 'paymentonly-page': ('ePay Taxes, Fees, and Remittances (DOR webpage)', '/taxes/eservices/Pages/paymentonly.aspx', 'Payment-only page'),
+ 'importinfo-page': ('Import File Information for Taxpayers (DOR webpage)', '/taxes/eservices/Pages/importinfo.aspx', 'Import file page'),
+ 'eservices-page': ('eServices for Taxes, Fees and Other State Remittances (DOR webpage)', '/taxes/eservices/Pages/default.aspx', 'eServices page'),
+ 'vendor-page': ('Florida Alternative Tax Forms Vendor Information (DOR webpage)', '/taxes/eservices/Pages/vendor.aspx', 'Vendor information page'),
  'filepayinfo-faq': ('eFile and Pay FAQ (DOR webpage)', '/taxes/filepayinfo/Pages/faq.aspx', 'eFile FAQ'),
 }
 out = {}

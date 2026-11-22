@@ -1,0 +1,11 @@
+import puppeteer from 'puppeteer-core';
+const b=await puppeteer.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
+const pg=await b.newPage();
+await pg.setViewport({width:1280,height:900});
+await pg.goto('http://127.0.0.1:47123/sut/08a-efile-pay.html',{waitUntil:'load'});
+const fig=await pg.$('figure'); await fig.screenshot({path:'out/module08a-efile-flow-desktop.png'});
+await pg.screenshot({path:'out/module08a-top-desktop.png'});
+await pg.setViewport({width:320,height:800});
+await pg.goto('http://127.0.0.1:47123/sut/08a-efile-pay.html',{waitUntil:'load'});
+await pg.screenshot({path:'out/module08a-mobile-320.png'});
+await b.close(); console.log('ok');

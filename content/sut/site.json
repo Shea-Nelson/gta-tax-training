@@ -79,6 +79,14 @@
    "summary": "Forms DR-15 and DR-15EZ line by line, filing frequency, due dates, electronic deadlines, the collection allowance and estimated tax."
   },
   {
+   "slug": "08a-efile-pay",
+   "module": "8A",
+   "level": "Intermediate",
+   "minutes": 35,
+   "title": "eFile and Pay, step by step",
+   "summary": "The eFile and Pay system launched December 1, 2025: who must file electronically, logging in, filing a DR-15, paying, deadlines, canceling, consolidated and bulk filing, and getting help."
+  },
+  {
    "slug": "09-rentals",
    "module": 9,
    "level": "Advanced",

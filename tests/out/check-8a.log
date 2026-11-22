@@ -1,0 +1,29 @@
+index.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/01-basics.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/02-registration.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/03-taxable-exempt.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/04-services.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/05-use-tax.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/06-rates-surtax.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/07-certificates.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/08-filing-paying.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/08a-efile-pay.html: axe 0/0 overflow320 YES A kbd-nofocus 0
+sut/09-rentals.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/10-vehicles-boats-aircraft.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/11-food-restaurants.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/12-contractors-manufacturing.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/13-admissions.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/14-remote-marketplace.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/15-holidays-exemption-periods.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/16-records-audits.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/17-penalties-interest-refunds.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/18-capstone.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/forms.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/glossary.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/index.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/learning-path.html: axe 0/0 overflow320 no kbd-nofocus 0
+sut/quick-reference.html: axe 0/0 overflow320 YES  kbd-nofocus 0
+sut/sources.html: axe 0/0 overflow320 no kbd-nofocus 0
+internal broken 0 []
+external links 194 console errors 0 []
+calc Total tax: $470.00State tax base: $7,000.00 × 6%Surtax base: $5,000.00 × 1% (only the first $5,000 of this single item)Unrounded tax: $470. Carried to the third decimal place and rounded up only when the third decimal is greater than 4. | invalid {"out":"Please fix: Enter the taxable price in dollars and cents, for example 1250.00.","ariaInvalid":"true"} | quiz {"questions":4,"feedback":["✔ Correct.Each sale, admission, storage or rental is taxable unless the transact","","","",""]} | gloss 5 of 31 shown
