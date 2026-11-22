@@ -3,6 +3,7 @@
  "https://floridarevenue.com/Forms_library/current/Form_rao.pdf": 200,
  "https://floridarevenue.com/Forms_library/current/brochure/gt800003.pdf": 200,
  "https://floridarevenue.com/Forms_library/current/brochure/gt800004.pdf": 200,
+ "https://floridarevenue.com/Forms_library/current/brochure/gt800011.pdf": 200,
  "https://floridarevenue.com/Forms_library/current/brochure/gt800020.pdf": 200,
  "https://floridarevenue.com/Forms_library/current/brochure/gt800022.pdf": 200,
  "https://floridarevenue.com/Forms_library/current/brochure/gt800039.pdf": 200,
@@ -188,7 +189,8 @@
  "https://ispportal.floridarevenue.com/ExternalFormsOrdering": 200,
  "https://portal.fl.revenuepremier.com/rptp/portal/annual-resale-alt/": 200,
  "https://taxapps.floridarevenue.com/EEnrollment/": 200,
- "https://taxapps.floridarevenue.com/FloridaFarmTeamCard": 200,
+ "https://taxapps.floridarevenue.com/FloridaFarmTeamCard": "error: HTTPSConnectionPool(host='taxapps.floridarevenue.com', port=443): Read timed out. (read timeout=20)",
+ "https://verify-taxcerts.floridarevenue.com/": 200,
  "https://www.flrules.org/": 200,
  "https://www.flrules.org/gateway/ChapterHome.asp?Chapter=12A-1": 200,
  "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0212/0212ContentsIndex.html": 200
