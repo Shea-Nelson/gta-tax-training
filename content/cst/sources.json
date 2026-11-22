@@ -1,0 +1,1471 @@
+{
+ "cst-page": {
+  "title": "Florida Communications Services Tax (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/taxesfees/Pages/cst.aspx",
+  "short": "CST page",
+  "kind": "page"
+ },
+ "cstlogin-page": {
+  "title": "eFile and Pay Communications Services Tax (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/eservices/Pages/cstlogin.aspx",
+  "short": "CST eFile and Pay page",
+  "kind": "page"
+ },
+ "cst-faq-page": {
+  "title": "Communications Services Tax Questions and Answers (DOR FAQ search)",
+  "url": "https://floridarevenue.com/faq/Pages/FAQSearch.aspx?Cat=4&Subcat=25",
+  "short": "CST FAQ",
+  "kind": "page"
+ },
+ "grt-utility-page": {
+  "title": "Gross Receipts Tax on Electrical Power and Gas (DOR webpage)",
+  "url": "https://floridarevenue.com/taxes/taxesfees/Pages/grt_utility.aspx",
+  "short": "GRT page",
+  "kind": "page"
+ },
+ "pointmatch": {
+  "title": "Address/Jurisdiction Database (PointMatch)",
+  "url": "https://pointmatch.floridarevenue.com/Default.aspx",
+  "short": "Address/Jurisdiction Database",
+  "kind": "page"
+ },
+ "cst-rate-page": {
+  "title": "Communications Services Tax Rate Table (PointMatch)",
+  "url": "https://pointmatch.floridarevenue.com/General/CommunicationsServicesTaxRates.aspx",
+  "short": "CST rate table",
+  "kind": "page"
+ },
+ "pointmatch-files": {
+  "title": "Master Address List Downloads (PointMatch)",
+  "url": "https://pointmatch.floridarevenue.com/General/AddressFiles.aspx",
+  "short": "Address file downloads",
+  "kind": "page"
+ },
+ "ch202": {
+  "title": "Chapter 202, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/0202ContentsIndex.html",
+  "short": "Ch. 202, F.S.",
+  "kind": "law"
+ },
+ "s202-11": {
+  "title": "Section 202.11, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.11.html",
+  "short": "s. 202.11, F.S.",
+  "kind": "law"
+ },
+ "s202-18": {
+  "title": "Section 202.18, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.18.html",
+  "short": "s. 202.18, F.S.",
+  "kind": "law"
+ },
+ "s202-193": {
+  "title": "Section 202.193, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.193.html",
+  "short": "s. 202.193, F.S.",
+  "kind": "law"
+ },
+ "s202-12": {
+  "title": "Section 202.12, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.12.html",
+  "short": "s. 202.12, F.S.",
+  "kind": "law"
+ },
+ "s202-12001": {
+  "title": "Section 202.12001, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.12001.html",
+  "short": "s. 202.12001, F.S.",
+  "kind": "law"
+ },
+ "s202-125": {
+  "title": "Section 202.125, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.125.html",
+  "short": "s. 202.125, F.S.",
+  "kind": "law"
+ },
+ "s202-14": {
+  "title": "Section 202.14, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.14.html",
+  "short": "s. 202.14, F.S.",
+  "kind": "law"
+ },
+ "s202-151": {
+  "title": "Section 202.151, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.151.html",
+  "short": "s. 202.151, F.S.",
+  "kind": "law"
+ },
+ "s202-155": {
+  "title": "Section 202.155, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.155.html",
+  "short": "s. 202.155, F.S.",
+  "kind": "law"
+ },
+ "s202-16": {
+  "title": "Section 202.16, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.16.html",
+  "short": "s. 202.16, F.S.",
+  "kind": "law"
+ },
+ "s202-17": {
+  "title": "Section 202.17, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.17.html",
+  "short": "s. 202.17, F.S.",
+  "kind": "law"
+ },
+ "s202-175": {
+  "title": "Section 202.175, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.175.html",
+  "short": "s. 202.175, F.S.",
+  "kind": "law"
+ },
+ "s202-177": {
+  "title": "Section 202.177, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.177.html",
+  "short": "s. 202.177, F.S.",
+  "kind": "law"
+ },
+ "s202-19": {
+  "title": "Section 202.19, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.19.html",
+  "short": "s. 202.19, F.S.",
+  "kind": "law"
+ },
+ "s202-20": {
+  "title": "Section 202.20, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.20.html",
+  "short": "s. 202.20, F.S.",
+  "kind": "law"
+ },
+ "s202-21": {
+  "title": "Section 202.21, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.21.html",
+  "short": "s. 202.21, F.S.",
+  "kind": "law"
+ },
+ "s202-22": {
+  "title": "Section 202.22, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.22.html",
+  "short": "s. 202.22, F.S.",
+  "kind": "law"
+ },
+ "s202-23": {
+  "title": "Section 202.23, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.23.html",
+  "short": "s. 202.23, F.S.",
+  "kind": "law"
+ },
+ "s202-24": {
+  "title": "Section 202.24, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.24.html",
+  "short": "s. 202.24, F.S.",
+  "kind": "law"
+ },
+ "s202-27": {
+  "title": "Section 202.27, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.27.html",
+  "short": "s. 202.27, F.S.",
+  "kind": "law"
+ },
+ "s202-28": {
+  "title": "Section 202.28, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.28.html",
+  "short": "s. 202.28, F.S.",
+  "kind": "law"
+ },
+ "s202-29": {
+  "title": "Section 202.29, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.29.html",
+  "short": "s. 202.29, F.S.",
+  "kind": "law"
+ },
+ "s202-30": {
+  "title": "Section 202.30, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.30.html",
+  "short": "s. 202.30, F.S.",
+  "kind": "law"
+ },
+ "s202-33": {
+  "title": "Section 202.33, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.33.html",
+  "short": "s. 202.33, F.S.",
+  "kind": "law"
+ },
+ "s202-34": {
+  "title": "Section 202.34, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.34.html",
+  "short": "s. 202.34, F.S.",
+  "kind": "law"
+ },
+ "s202-35": {
+  "title": "Section 202.35, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.35.html",
+  "short": "s. 202.35, F.S.",
+  "kind": "law"
+ },
+ "s202-37": {
+  "title": "Section 202.37, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0202/Sections/0202.37.html",
+  "short": "s. 202.37, F.S.",
+  "kind": "law"
+ },
+ "s203-01": {
+  "title": "Section 203.01, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0203/Sections/0203.01.html",
+  "short": "s. 203.01, F.S.",
+  "kind": "law"
+ },
+ "s203-001": {
+  "title": "Section 203.001, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0203/Sections/0203.001.html",
+  "short": "s. 203.001, F.S.",
+  "kind": "law"
+ },
+ "s212-05": {
+  "title": "Section 212.05, Florida Statutes (Online Sunshine)",
+  "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0212/Sections/0212.05.html",
+  "short": "s. 212.05, F.S.",
+  "kind": "law"
+ },
+ "r12a19": {
+  "title": "Rule Chapter 12A-19, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ChapterHome.asp?Chapter=12A-19",
+  "short": "Rule 12A-19, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-010": {
+  "title": "Rule 12A-19.010, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.010",
+  "short": "Rule 12A-19.010, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-020": {
+  "title": "Rule 12A-19.020, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.020",
+  "short": "Rule 12A-19.020, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-030": {
+  "title": "Rule 12A-19.030, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.030",
+  "short": "Rule 12A-19.030, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-041": {
+  "title": "Rule 12A-19.041, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.041",
+  "short": "Rule 12A-19.041, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-042": {
+  "title": "Rule 12A-19.042, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.042",
+  "short": "Rule 12A-19.042, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-043": {
+  "title": "Rule 12A-19.043, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.043",
+  "short": "Rule 12A-19.043, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-050": {
+  "title": "Rule 12A-19.050, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.050",
+  "short": "Rule 12A-19.050, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-060": {
+  "title": "Rule 12A-19.060, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.060",
+  "short": "Rule 12A-19.060, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-070": {
+  "title": "Rule 12A-19.070, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.070",
+  "short": "Rule 12A-19.070, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-071": {
+  "title": "Rule 12A-19.071, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.071",
+  "short": "Rule 12A-19.071, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-072": {
+  "title": "Rule 12A-19.072, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.072",
+  "short": "Rule 12A-19.072, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-073": {
+  "title": "Rule 12A-19.073, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.073",
+  "short": "Rule 12A-19.073, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-080": {
+  "title": "Rule 12A-19.080, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.080",
+  "short": "Rule 12A-19.080, F.A.C.",
+  "kind": "law"
+ },
+ "r12a19-100": {
+  "title": "Rule 12A-19.100, Florida Administrative Code (flrules.org)",
+  "url": "https://www.flrules.org/gateway/ruleNo.asp?id=12A-19.100",
+  "short": "Rule 12A-19.100, F.A.C.",
+  "kind": "law"
+ },
+ "gt800011": {
+  "title": "GT-800011: Florida's Communications Services Tax (Brochure)",
+  "url": "https://floridarevenue.com/Forms_library/current/brochure/gt800011.pdf",
+  "short": "GT-800011",
+  "kind": "brochure",
+  "date": "rev. 08/22"
+ },
+ "gt800022": {
+  "title": "GT-800022: What to Expect from a Florida Sales and Use Tax or Communications Services Tax Audit (Brochure)",
+  "url": "https://floridarevenue.com/Forms_library/current/brochure/gt800022.pdf",
+  "short": "GT-800022",
+  "kind": "brochure",
+  "date": "rev. 08/25"
+ },
+ "dr1": {
+  "title": "DR-1: Florida Business Tax Application",
+  "url": "https://floridarevenue.com/Forms_library/current/dr1.pdf",
+  "short": "DR-1",
+  "kind": "form",
+  "date": "rev. 01/26"
+ },
+ "dr133": {
+  "title": "DR-133: Gross Receipts Tax Return",
+  "url": "https://floridarevenue.com/Forms_library/current/dr133.pdf",
+  "short": "DR-133",
+  "kind": "form",
+  "date": "rev. 01/23"
+ },
+ "dr15sw": {
+  "title": "DR-15SW: Solid Waste and Surcharge Return",
+  "url": "https://floridarevenue.com/Forms_library/current/dr15sw.pdf",
+  "short": "DR-15SW",
+  "kind": "form",
+  "date": "rev. 01/15"
+ },
+ "dr15swn": {
+  "title": "DR-15SWN: Instructions for Solid Waste and Surcharge Returns",
+  "url": "https://floridarevenue.com/Forms_library/current/dr15swn.pdf",
+  "short": "DR-15SWN",
+  "kind": "form",
+  "date": "rev. 01/24"
+ },
+ "dr700001": {
+  "title": "DR-700001: Municipal Public Service Tax Database Report",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700001.pdf",
+  "short": "DR-700001",
+  "kind": "form",
+  "date": "rev. 01/16"
+ },
+ "dr700012": {
+  "title": "DR-700012: Application for Certification of Communications Services Database",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700012.pdf",
+  "short": "DR-700012",
+  "kind": "form",
+  "date": "rev. 10/13"
+ },
+ "dr700016": {
+  "title": "DR-700016: Communications Services Tax Returns",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700016.pdf",
+  "short": "DR-700016",
+  "kind": "form",
+  "date": "rev. 01/26"
+ },
+ "dr700016n": {
+  "title": "DR-700016N: Instructions for Communications Services Tax Returns",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700016n.pdf",
+  "short": "DR-700016N",
+  "kind": "form",
+  "date": "rev. 01/26"
+ },
+ "dr700019": {
+  "title": "DR-700019: Communications Services Use Tax Return (Effective January 1, 2018)",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700019.pdf",
+  "short": "DR-700019",
+  "kind": "form",
+  "date": "rev. 01/18"
+ },
+ "dr700020": {
+  "title": "DR-700020: Notification of Method Employed to Determine Taxing Jurisdiction",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700020.pdf",
+  "short": "DR-700020",
+  "kind": "form",
+  "date": "rev. 03/20"
+ },
+ "dr700021": {
+  "title": "DR-700021: Local Communications Services Tax Notification of Tax Rate Change",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700021.pdf",
+  "short": "DR-700021",
+  "kind": "form",
+  "date": "rev. 06/12"
+ },
+ "dr700022": {
+  "title": "DR-700022: Notification of Changes to the Address/Jurisdiction Database",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700022.pdf",
+  "short": "DR-700022",
+  "kind": "form",
+  "date": "rev. 12/20"
+ },
+ "dr700023": {
+  "title": "DR-700023: Notification of No Change to the Address/Jurisdiction Database for Sales and Use Tax",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700023.pdf",
+  "short": "DR-700023",
+  "kind": "form",
+  "date": "new 08/20"
+ },
+ "dr700025": {
+  "title": "DR-700025: Objection to Address Assignment in the Address/Jurisdiction Database This form does not apply to local governments. Local government should use the DR-700022.",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700025.pdf",
+  "short": "DR-700025",
+  "kind": "form",
+  "date": "rev. 08/20"
+ },
+ "dr700026": {
+  "title": "DR-700026: Local Government Authorization For Address Changes Described on Form DR-700025",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700026.pdf",
+  "short": "DR-700026",
+  "kind": "form",
+  "date": "rev. 10/13"
+ },
+ "dr700030": {
+  "title": "DR-700030: Application for Self-Accrual Authority / Direct Pay Permit",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700030.pdf",
+  "short": "DR-700030",
+  "kind": "form",
+  "date": "rev. 01/16"
+ },
+ "dr700032": {
+  "title": "DR-700032: Renewal Notice and Application for Self-Accrual Authority/Direct Pay Permit - Communications Services Tax",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700032.pdf",
+  "short": "DR-700032",
+  "kind": "form",
+  "date": "new 06/06"
+ },
+ "dr700033": {
+  "title": "DR-700033: Notification of Alternative-Period Basis Reporting for Communications Services Tax",
+  "url": "https://floridarevenue.com/Forms_library/current/dr700033Static.pdf",
+  "short": "DR-700033",
+  "kind": "form",
+  "date": "new 10/15"
+ },
+ "dr700002": {
+  "title": "DR-700002: User's Guide for the Address/Jurisdiction Database",
+  "url": "https://floridarevenue.com/Forms_library/current/guides/dr700002.pdf",
+  "short": "DR-700002",
+  "kind": "form",
+  "date": "rev. 08/20"
+ },
+ "efile-vendor-list": {
+  "title": "Gross receipts tax on dry cleaning is reported using a Solid Waste and Surcharge Return (Form DR-15SW ) . Instructions for DR-15SW Solid Waste and Surcharge Returns (Form DR-15SWN ) are available. You can file and pay this gross receipts tax electronically using the Department's free and s",
+  "url": "https://floridarevenue.com/taxes/Documents/Fl_eFileVendor.pdf",
+  "short": "eFile vendor list",
+  "kind": "document"
+ },
+ "cst-rate-table": {
+  "title": "Local Communications Services Tax Rate Table with Historical Data (workbook, “Rates with Hist Data Jan 2026”)",
+  "url": "https://floridarevenue.com/taxes/Documents/cst_rate_table.xlsx",
+  "short": "CST rate workbook",
+  "kind": "document"
+ },
+ "cst-efile-guide": {
+  "title": "Communications Services Tax Guide to Communications Services Tax Return (Form DR-700016)",
+  "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-cst.pdf",
+  "short": "DR-700016",
+  "kind": "document"
+ },
+ "grt-efile-guide": {
+  "title": "Gross Receipts Tax Guide to Enrolled Gross Receipts",
+  "url": "https://floridarevenue.com/taxes/Documents/eFilePayGuide-grt.pdf",
+  "short": "GRT eFile guide",
+  "kind": "document"
+ },
+ "cst-direct-file-specs": {
+  "title": "Communications Services Tax Direct File Specifications",
+  "url": "https://floridarevenue.com/taxes/Documents/flCstDirFileSpecs.pdf",
+  "short": "Direct File specifications",
+  "kind": "document"
+ },
+ "gt800023": {
+  "title": "GT-800023: Sales and Use/Communications Services Tax Audit Timeline",
+  "url": "https://floridarevenue.com/taxes/Documents/gt800023.pdf",
+  "short": "GT-800023",
+  "kind": "document"
+ },
+ "cst-print-cert-guide": {
+  "title": "Guide to Printing an Annual Resale Certificate",
+  "url": "https://floridarevenue.com/taxes/Documents/printCSTResaleCert.pdf",
+  "short": "Printing guide",
+  "kind": "document"
+ },
+ "tip-10a19-08": {
+  "title": "TIP 10A19-08: Exempt Purchases of Communications Services Used to Provide Internet Access",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_10A19-08.pdf",
+  "short": "TIP 10A19-08",
+  "kind": "tip",
+  "date": "issued 10/21/10"
+ },
+ "tip-21a19-01": {
+  "title": "TIP 21A19-01: Hillsborough County 1 Percent Transportation Discretionary Sales Surtax Ruled Unconstitutional by the Florida Supreme Court",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_21A19-01.pdf",
+  "short": "TIP 21A19-01",
+  "kind": "tip",
+  "date": "issued 03/16/21"
+ },
+ "tip-21a19-02": {
+  "title": "TIP 21A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2022",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_21A19-02.pdf",
+  "short": "TIP 21A19-02",
+  "kind": "tip",
+  "date": "issued 09/17/21"
+ },
+ "tip-21a19-03": {
+  "title": "TIP 21A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2022",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_21A19-03.pdf",
+  "short": "TIP 21A19-03",
+  "kind": "tip",
+  "date": "issued 11/29/21"
+ },
+ "tip-22a19-01": {
+  "title": "TIP 22A19-01: Change in Local Communications Services Tax Rate Beginning May 1, 2022",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_22A19-01.pdf",
+  "short": "TIP 22A19-01",
+  "kind": "tip",
+  "date": "issued 01/27/22"
+ },
+ "tip-22a19-02": {
+  "title": "TIP 22A19-02: Communications Services Tax Local Jurisdiction Changes",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_22A19-02.pdf",
+  "short": "TIP 22A19-02",
+  "kind": "tip",
+  "date": "issued 09/16/22"
+ },
+ "tip-22a19-03": {
+  "title": "TIP 22A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2023",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_22A19-03.pdf",
+  "short": "TIP 22A19-03",
+  "kind": "tip",
+  "date": "issued 11/30/22"
+ },
+ "tip-23a19-01": {
+  "title": "TIP 23A19-01: Communications Services Tax Rates: Local Rate Increases Prohibited January 1, 2023 Through December 31, 2025",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_23A19-01.pdf",
+  "short": "TIP 23A19-01",
+  "kind": "tip",
+  "date": "issued 06/15/23"
+ },
+ "tip-23a19-02": {
+  "title": "TIP 23A19-02: Change in Local Communications Services Tax Rate Beginning January 1, 2024",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_23A19-02.pdf",
+  "short": "TIP 23A19-02",
+  "kind": "tip",
+  "date": "issued 10/11/23"
+ },
+ "tip-23a19-03": {
+  "title": "TIP 23A19-03: Change in Local Communications Services Tax Rate Beginning January 1, 2024",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_23A19-03.pdf",
+  "short": "TIP 23A19-03",
+  "kind": "tip",
+  "date": "issued 11/03/23"
+ },
+ "tip-25a19-01": {
+  "title": "TIP 25A19-01: Communications Services Tax Rates: Local Rate Increases Prohibited January 1, 2023, Through December 31, 2030",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_25A19-01.pdf",
+  "short": "TIP 25A19-01",
+  "kind": "tip",
+  "date": "issued 07/22/25"
+ },
+ "tip-25a19-02": {
+  "title": "TIP 25A19-02: Changes in Local Communications Services Tax RatesEffective January 1, 2026",
+  "url": "https://floridarevenue.com/taxes/tips/Documents/TIP_25A19-02.pdf",
+  "short": "TIP 25A19-02",
+  "kind": "tip",
+  "date": "issued 11/25/25"
+ },
+ "tip-01ber-02": {
+  "title": "TIP 01BER-02: Provides State and Local Tax Rates For the Communications Services Tax Effective October 1, 2001",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_01BER-02.pdf",
+  "short": "TIP 01BER-02",
+  "kind": "tip",
+  "date": "issued 09/10/01"
+ },
+ "tip-01ber-03": {
+  "title": "TIP 01BER-03: Communications Services Tax - Address Database Information",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_01BER-03.pdf",
+  "short": "TIP 01BER-03",
+  "kind": "tip",
+  "date": "issued 10/03/01"
+ },
+ "tip-01ber-04": {
+  "title": "TIP 01BER-04: Exemptions from the Communications Services Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_01BER-04.pdf",
+  "short": "TIP 01BER-04",
+  "kind": "tip",
+  "date": "issued 10/03/01"
+ },
+ "tip-01ber-05": {
+  "title": "TIP 01BER-05: Changes Effective January 1, 2002 , in Discretionary Sales Surtax Affect Local Communications Services Tax Rates",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_01BER-05.pdf",
+  "short": "TIP 01BER-05",
+  "kind": "tip",
+  "date": "issued 11/09/01"
+ },
+ "tip-02a19-01": {
+  "title": "TIP 02A19-01: Public Lodging Establishments Not Required to State Communications Services Tax on Guest Bills",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-01.pdf",
+  "short": "TIP 02A19-01",
+  "kind": "tip",
+  "date": "issued 07/12/02"
+ },
+ "tip-02a19-02": {
+  "title": "TIP 02A19-02: Communications Services Tax Applies to Users of Substitute Communications Systems",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-02.pdf",
+  "short": "TIP 02A19-02",
+  "kind": "tip",
+  "date": "issued 06/20/02"
+ },
+ "tip-02a19-03": {
+  "title": "TIP 02A19-03: Clarification of Exemptions to the Communications Services Tax for Religious Institutions",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-03.pdf",
+  "short": "TIP 02A19-03",
+  "kind": "tip",
+  "date": "issued 06/18/02"
+ },
+ "tip-02a19-04": {
+  "title": "TIP 02A19-04: Changes in Local Communications Services Tax Rates Effective October 1, 2002",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-04.pdf",
+  "short": "TIP 02A19-04",
+  "kind": "tip",
+  "date": "issued 08/01/02"
+ },
+ "tip-02a19-05": {
+  "title": "TIP 02A19-05R: Communications Services Tax Filing Status Changes Beginning January 2003 (Electronic Filing Obligation)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-05R.pdf",
+  "short": "TIP 02A19-05R",
+  "kind": "tip",
+  "date": "issued 09/30/02"
+ },
+ "tip-02a19-06": {
+  "title": "TIP 02A19-06: Revised Local Communications Services Tax Rates Effective October 1, 2002",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-06.pdf",
+  "short": "TIP 02A19-06",
+  "kind": "tip",
+  "date": "issued 08/30/02"
+ },
+ "tip-02a19-07": {
+  "title": "TIP 02A19-07: Local Communications Services Tax Rate Change Effective November 1, 2002",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-07.pdf",
+  "short": "TIP 02A19-07",
+  "kind": "tip",
+  "date": "issued 08/30/02"
+ },
+ "tip-02a19-08": {
+  "title": "TIP 02A19-08: Local Communications Services Tax Rate Change Effective December 1, 2002",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-08.pdf",
+  "short": "TIP 02A19-08",
+  "kind": "tip",
+  "date": "issued 10/18/02"
+ },
+ "tip-02a19-09": {
+  "title": "TIP 02A19-09: Purchases Of Communications Services May Be Subject To Use Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-09.pdf",
+  "short": "TIP 02A19-09",
+  "kind": "tip",
+  "date": "issued 12/05/02"
+ },
+ "tip-02a19-10": {
+  "title": "TIP 02A19-10: Changes in Local Communications Services Tax Rates Effective January 1, 2003",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_02A19-10.pdf",
+  "short": "TIP 02A19-10",
+  "kind": "tip",
+  "date": "issued 11/22/02"
+ },
+ "tip-03a19-01": {
+  "title": "TIP 03A19-01: Local Communications Services Tax Rate Change Effective March 1, 2003 - Coconut Creek",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-01.pdf",
+  "short": "TIP 03A19-01",
+  "kind": "tip",
+  "date": "issued 01/24/03"
+ },
+ "tip-03a19-02": {
+  "title": "TIP 03A19-02: Local Communications Services Tax Rate Changes (Bay County) Effective June 1, 2003",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-02.pdf",
+  "short": "TIP 03A19-02",
+  "kind": "tip",
+  "date": "issued 04/01/03"
+ },
+ "tip-03a19-03": {
+  "title": "TIP 03A19-03: Local Communications Services Tax rate Change Effective June 1, 2003 - Waleka",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-03.pdf",
+  "short": "TIP 03A19-03",
+  "kind": "tip",
+  "date": "issued 04/01/03"
+ },
+ "tip-03a19-04": {
+  "title": "TIP 03A19-04: Local Communications Services Tax Rate Change Effective June 1, 2003 - Palm Beach County",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-04.pdf",
+  "short": "TIP 03A19-04",
+  "kind": "tip",
+  "date": "issued 04/01/03"
+ },
+ "tip-03a19-05": {
+  "title": "TIP 03A19-05: Notice of the Address/Jurisdiction Database's Compliance with the Federal Mobile Telecommunications Sourcing Act",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-05.pdf",
+  "short": "TIP 03A19-05",
+  "kind": "tip",
+  "date": "issued 05/23/03"
+ },
+ "tip-03a19-06": {
+  "title": "TIP 03A19-06: Communications Services Tax Filing Status Changed Beginning July 1, 2003",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-06.pdf",
+  "short": "TIP 03A19-06",
+  "kind": "tip",
+  "date": "issued 07/01/03"
+ },
+ "tip-03a19-07": {
+  "title": "TIP 03A19-07: Purchases By Homes For The Aged Are No Longer Subject To Communications Services Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-07.pdf",
+  "short": "TIP 03A19-07",
+  "kind": "tip",
+  "date": "issued 07/24/03"
+ },
+ "tip-03a19-08": {
+  "title": "TIP 03A19-08: Local Communications Services Tax Rate Change Effective October 1, 2003 - Oviedo",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-08.pdf",
+  "short": "TIP 03A19-08",
+  "kind": "tip",
+  "date": "issued 09/03/03"
+ },
+ "tip-03a19-09": {
+  "title": "TIP 03A19-09: Communications Services Tax Filing Status Changes Beginning January 2004 (Electronic Filing Obligation)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-09.pdf",
+  "short": "TIP 03A19-09",
+  "kind": "tip",
+  "date": "issued 10/10/03"
+ },
+ "tip-03a19-10": {
+  "title": "TIP 03A19-10: Local Communications Services Tax Rate Change Effective October 1, 2003 - Greenacres",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-10.pdf",
+  "short": "TIP 03A19-10",
+  "kind": "tip",
+  "date": "issued 09/03/03"
+ },
+ "tip-03a19-11": {
+  "title": "TIP 03A19-11: Local Communications Services Tax Rate Change Effective November 1, 2003 - Gainesville",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-11.pdf",
+  "short": "TIP 03A19-11",
+  "kind": "tip",
+  "date": "issued 09/03/03"
+ },
+ "tip-03a19-12": {
+  "title": "TIP 03A19-12: Local Communications Services Tax Rate Change Effective December 1, 2003 - Lakeland",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-12.pdf",
+  "short": "TIP 03A19-12",
+  "kind": "tip",
+  "date": "issued 09/03/03"
+ },
+ "tip-03a19-13": {
+  "title": "TIP 03A19-13: Local Communications Services Tax Rate Change Effective November 1, 2003 - Alachua County",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-13.pdf",
+  "short": "TIP 03A19-13",
+  "kind": "tip",
+  "date": "issued 09/15/03"
+ },
+ "tip-03a19-14": {
+  "title": "TIP 03A19-14: New Taxing Jurisdictions Added to Communications Services Tax Effective January 1, 2004",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-14.pdf",
+  "short": "TIP 03A19-14",
+  "kind": "tip",
+  "date": "issued 11/24/03"
+ },
+ "tip-03a19-15": {
+  "title": "TIP 03A19-15: Changes in Local Communications Services Tax Rates Effective January 1, 2004",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_03A19-15.pdf",
+  "short": "TIP 03A19-15",
+  "kind": "tip",
+  "date": "issued 11/24/03"
+ },
+ "tip-04a19-01": {
+  "title": "TIP 04A19-01: Time Limit For Seeking a Credit or Refund of Communications Services Tax Remitted on a Bad Debt Account",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-01.pdf",
+  "short": "TIP 04A19-01",
+  "kind": "tip",
+  "date": "issued 02/06/04"
+ },
+ "tip-04a19-02": {
+  "title": "TIP 04A19-02: Electronic Filers Will No Longer Receive Communications Services Tax Returns (Form DR-700016)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-02.pdf",
+  "short": "TIP 04A19-02",
+  "kind": "tip",
+  "date": "issued 03/25/04"
+ },
+ "tip-04a19-03": {
+  "title": "TIP 04A19-03: Local Communications Services Tax Rate Change Effective June 1, 2004 - Palm Beach County",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-03.pdf",
+  "short": "TIP 04A19-03",
+  "kind": "tip",
+  "date": "issued 04/30/04"
+ },
+ "tip-04a19-04": {
+  "title": "TIP 04A19-04: Local Communications Services Tax Rate Change Effective October 1, 2004 - City of Oviedo",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-04.pdf",
+  "short": "TIP 04A19-04",
+  "kind": "tip",
+  "date": "issued 08/06/04"
+ },
+ "tip-04a19-05": {
+  "title": "TIP 04A19-05: Local Communications Services Tax Rate Change Effective November 1, 2004 - Alachua County",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-05.pdf",
+  "short": "TIP 04A19-05",
+  "kind": "tip",
+  "date": "issued 09/01/04"
+ },
+ "tip-04a19-06": {
+  "title": "TIP 04A19-06: Communications Services Tax Filing Status Changes Beginning January 2005 (Electronic Filing Obligation)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-06.pdf",
+  "short": "TIP 04A19-06",
+  "kind": "tip",
+  "date": "issued 10/12/04"
+ },
+ "tip-04a19-07": {
+  "title": "TIP 04A19-07: Communications Services Tax Filing Frequency Changed To Monthly Beginning January 1, 2005",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-07.pdf",
+  "short": "TIP 04A19-07",
+  "kind": "tip",
+  "date": "issued 11/24/04"
+ },
+ "tip-04a19-08": {
+  "title": "TIP 04A19-08: Changes in Local Communications Services Tax Rates Effective January 1, 2005",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-08.pdf",
+  "short": "TIP 04A19-08",
+  "kind": "tip",
+  "date": "issued 09/30/04"
+ },
+ "tip-04a19-09": {
+  "title": "TIP 04A19-09: Changes In Local Communications Services Tax Rates Effective January 1, 2005",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-09.pdf",
+  "short": "TIP 04A19-09",
+  "kind": "tip",
+  "date": "issued 11/19/04"
+ },
+ "tip-04a19-10": {
+  "title": "TIP 04A19-10: Annual Resale Certificate for Communications Services Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-10.pdf",
+  "short": "TIP 04A19-10",
+  "kind": "tip",
+  "date": "issued 12/03/04"
+ },
+ "tip-04a19-11": {
+  "title": "TIP 04A19-11: Local Communications Services Tax Rate Change Effective November 1, 2004 - City of Bunnell",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_04A19-11.pdf",
+  "short": "TIP 04A19-11",
+  "kind": "tip",
+  "date": "issued 09/29/04"
+ },
+ "tip-05a19-01": {
+  "title": "TIP 05A19-01: Address/Jurisdiction Database Change - City of Dania Beach",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-01.pdf",
+  "short": "TIP 05A19-01",
+  "kind": "tip",
+  "date": "issued 04/01/05"
+ },
+ "tip-05a19-02": {
+  "title": "TIP 05A19-02: Substitute Communications Systems Repeal of Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-02.pdf",
+  "short": "TIP 05A19-02",
+  "kind": "tip",
+  "date": "issued 07/01/05"
+ },
+ "tip-05a19-03": {
+  "title": "TIP 05A19-03: Internet Access Service Charges May Be Excluded from Tax in Certain Circumstances",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-03.pdf",
+  "short": "TIP 05A19-03",
+  "kind": "tip",
+  "date": "issued 07/25/05"
+ },
+ "tip-05a19-04": {
+  "title": "TIP 05A19-04: Filing Status Changes Beginning January 2006 (Electronic Filing Obligation)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-04.pdf",
+  "short": "TIP 05A19-04",
+  "kind": "tip",
+  "date": "issued 10/11/05"
+ },
+ "tip-05a19-05": {
+  "title": "TIP 05A19-05: Filing Frequency Changed to Monthly Beginning January 1, 2006",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-05.pdf",
+  "short": "TIP 05A19-05",
+  "kind": "tip",
+  "date": "issued 11/22/05"
+ },
+ "tip-05a19-06": {
+  "title": "TIP 05A19-06: Changes in Local Communications Services Tax Rates Effective January 1, 2006",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-06.pdf",
+  "short": "TIP 05A19-06",
+  "kind": "tip",
+  "date": "issued 09/30/05"
+ },
+ "tip-05a19-07": {
+  "title": "TIP 05A19-07R: Changes in Local Communications Services Tax Rates Effective January 1, 2006",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-07R.pdf",
+  "short": "TIP 05A19-07R",
+  "kind": "tip",
+  "date": "issued 11/23/05"
+ },
+ "tip-05a19-08": {
+  "title": "TIP 05A19-08: Annual Resale Certificate For Communications Services Tax",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-08.pdf",
+  "short": "TIP 05A19-08",
+  "kind": "tip",
+  "date": "issued 12/2/05"
+ },
+ "tip-05a19-09": {
+  "title": "TIP 05A19-09: Governmental Entities Proposing to Provide Communications Services",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-09.pdf",
+  "short": "TIP 05A19-09",
+  "kind": "tip",
+  "date": "issued 08/23/05"
+ },
+ "tip-05a19-10": {
+  "title": "TIP 05A19-10: Local Communications Services Tax Rate Change Effective November 1, 2005 - City of Bunnell",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-10.pdf",
+  "short": "TIP 05A19-10",
+  "kind": "tip",
+  "date": "issued 09/16/05"
+ },
+ "tip-05a19-11": {
+  "title": "TIP 05A19-11: New Taxing Jurisdiction Added to Communications Services Tax Effective January 1, 2006",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_05A19-11.pdf",
+  "short": "TIP 05A19-11",
+  "kind": "tip",
+  "date": "issued 11/23/05"
+ },
+ "tip-06a19-01": {
+  "title": "TIP 06A19-01: Local Communications Services Tax Rate Change Effective June 1, 2006 - Tallahassee",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-01.pdf",
+  "short": "TIP 06A19-01",
+  "kind": "tip",
+  "date": "issued 03/31/06"
+ },
+ "tip-06a19-02": {
+  "title": "TIP 06A19-02: Communications Services Tax Filing Requirement Changes Beginning January 2007 (Electronic Filing Obligation)",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-02.pdf",
+  "short": "TIP 06A19-02",
+  "kind": "tip",
+  "date": "issued 10/10/06"
+ },
+ "tip-06a19-03": {
+  "title": "TIP 06A19-03: Communications Services Tax Filing Frequency Changed to Monthly Beginning January 1, 2007",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-03.pdf",
+  "short": "TIP 06A19-03",
+  "kind": "tip",
+  "date": "issued 11/21/06"
+ },
+ "tip-06a19-04": {
+  "title": "TIP 06A19-04: Changes to Local CST Rates Effective January 1, 2007",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-04.pdf",
+  "short": "TIP 06A19-04",
+  "kind": "tip",
+  "date": "issued 09/29/06"
+ },
+ "tip-06a19-05": {
+  "title": "TIP 06A19-05: Changes to Local CST Rates Effective January 1, 2007",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-05.pdf",
+  "short": "TIP 06A19-05",
+  "kind": "tip",
+  "date": "issued 11/20/06"
+ },
+ "tip-06a19-06": {
+  "title": "TIP 06A19-06: Annual CST Resale Certificate",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-06.pdf",
+  "short": "TIP 06A19-06",
+  "kind": "tip",
+  "date": "issued 11/30/06"
+ },
+ "tip-06a19-07": {
+  "title": "TIP 06A19-07: New Taxing Jurisdiction Added to CST Effective January 1, 2007 - Cutler Bay",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-07.pdf",
+  "short": "TIP 06A19-07",
+  "kind": "tip",
+  "date": "issued 09/29/06"
+ },
+ "tip-06a19-08": {
+  "title": "TIP 06A19-08: Local Communications Services Tax Rate Change Effective January 1, 2007 - City of Sanford",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-08.pdf",
+  "short": "TIP 06A19-08",
+  "kind": "tip",
+  "date": "issued 11/17/06"
+ },
+ "tip-06a19-09": {
+  "title": "TIP 06A19-09: Local Communications Services Tax Rate Change Effective February 1, 2007 - City of Hialeah",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_06A19-09.pdf",
+  "short": "TIP 06A19-09",
+  "kind": "tip",
+  "date": "issued 12/27/06"
+ },
+ "tip-07a19-01": {
+  "title": "TIP 07A19-01: Local Communications Services Tax Rate Change Effective June 1, 2007 - City of Altamonte Springs",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-01.pdf",
+  "short": "TIP 07A19-01",
+  "kind": "tip",
+  "date": "issued 04/16/07"
+ },
+ "tip-07a19-02": {
+  "title": "TIP 07A19-02: Communications Services Tax Filing Frequency Changed to Monthly Beginning January 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-02.pdf",
+  "short": "TIP 07A19-02",
+  "kind": "tip",
+  "date": "issued 11/20/07"
+ },
+ "tip-07a19-03": {
+  "title": "TIP 07A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-03.pdf",
+  "short": "TIP 07A19-03",
+  "kind": "tip",
+  "date": "issued 09/28/07"
+ },
+ "tip-07a19-04": {
+  "title": "TIP 07A19-04: Changes in Local Communications Services Tax Rates Effective January 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-04.pdf",
+  "short": "TIP 07A19-04",
+  "kind": "tip",
+  "date": "issued 11/21/07"
+ },
+ "tip-07a19-05": {
+  "title": "TIP 07A19-05: Communications Services Tax Resale Law Changes Effective January 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-05.pdf",
+  "short": "TIP 07A19-05",
+  "kind": "tip",
+  "date": "issued 11/29/07"
+ },
+ "tip-07a19-06": {
+  "title": "TIP 07A19-06: Local Communications Services Tax Rate Change Effective September 1, 2007 - City of Gainesville",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-06.pdf",
+  "short": "TIP 07A19-06",
+  "kind": "tip",
+  "date": "issued 07/20/07"
+ },
+ "tip-07a19-07": {
+  "title": "TIP 07A19-07: New Taxing Jurisdictions Added to Communications Services Tax Effective January 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_07A19-07.pdf",
+  "short": "TIP 07A19-07",
+  "kind": "tip",
+  "date": "issued 09/28/07"
+ },
+ "tip-08a19-01": {
+  "title": "TIP 08A19-01: Important Information for Businesses Offering Fax Service",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-01.pdf",
+  "short": "TIP 08A19-01",
+  "kind": "tip",
+  "date": "issued 01/31/08"
+ },
+ "tip-08a19-02": {
+  "title": "TIP 08A19-02: Changes in Local Communications Services Tax Rates for Bay County Effective May 1, 2008",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-02.pdf",
+  "short": "TIP 08A19-02",
+  "kind": "tip",
+  "date": "issued 03/31/08"
+ },
+ "tip-08a19-03": {
+  "title": "TIP 08A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2009",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-03.pdf",
+  "short": "TIP 08A19-03",
+  "kind": "tip",
+  "date": "issued 09/10/08"
+ },
+ "tip-08a19-04": {
+  "title": "TIP 08A19-04: Changes in Local Communications Services Tax Rates Effective January 1, 2009",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-04.pdf",
+  "short": "TIP 08A19-04",
+  "kind": "tip",
+  "date": "issued 11/24/08"
+ },
+ "tip-08a19-05": {
+  "title": "TIP 08A19-05: Local Communications Services Tax Rate Change Effective June 1, 2008 - City of Altamonte Springs",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-05.pdf",
+  "short": "TIP 08A19-05",
+  "kind": "tip",
+  "date": "issued 05/07/08"
+ },
+ "tip-08a19-06": {
+  "title": "TIP 08A19-06: Notice of Public Hearing DeSoto County Has Proposed Providing Communications Services",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-06.pdf",
+  "short": "TIP 08A19-06",
+  "kind": "tip",
+  "date": "issued 06/06/08"
+ },
+ "tip-08a19-07": {
+  "title": "TIP 08A19-07: Local Communications Services Tax Rate Change Effective September 1, 2008 - City of Gainesville",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-07.pdf",
+  "short": "TIP 08A19-07",
+  "kind": "tip",
+  "date": "issued 06/30/08"
+ },
+ "tip-08a19-08": {
+  "title": "TIP 08A19-08: Communications Services Tax Address/Jurisdiction Database Change - City of Cutler Bay",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-08.pdf",
+  "short": "TIP 08A19-08",
+  "kind": "tip",
+  "date": "issued 09/30/08"
+ },
+ "tip-08a19-09": {
+  "title": "TIP 08A19-09: Communications Services Tax Cedar Grove Removed as Taxing Jurisdiction Effective January 1, 2009",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_08A19-09.pdf",
+  "short": "TIP 08A19-09",
+  "kind": "tip",
+  "date": "issued 11/03/08"
+ },
+ "tip-09a19-01": {
+  "title": "TIP 09A19-01: Local Communications Services Tax Rate Change Effective June 1, 2009 - City of Port St. Lucie",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_09A19-01.pdf",
+  "short": "TIP 09A19-01",
+  "kind": "tip",
+  "date": "issued 04/15/09"
+ },
+ "tip-09a19-02": {
+  "title": "TIP 09A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2010",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_09A19-02.pdf",
+  "short": "TIP 09A19-02",
+  "kind": "tip",
+  "date": "issued 09/21/09"
+ },
+ "tip-09a19-03": {
+  "title": "TIP 09A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2010",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_09A19-03.pdf",
+  "short": "TIP 09A19-03",
+  "kind": "tip",
+  "date": "issued 11/18/09"
+ },
+ "tip-09a19-04": {
+  "title": "TIP 09A19-04: Communications Services Tax (CST) Address/Jurisdiction Database",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_09A19-04.pdf",
+  "short": "TIP 09A19-04",
+  "kind": "tip",
+  "date": "issued 10/03/09"
+ },
+ "tip-10a19-01": {
+  "title": "TIP 10A19-01: Notice of Public Hearing North Florida Broadband Authority (NFBA) Has Proposed Providing Communications Services",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-01.pdf",
+  "short": "TIP 10A19-01",
+  "kind": "tip",
+  "date": "issued 02/04/10"
+ },
+ "tip-10a19-02": {
+  "title": "TIP 10A19-02: Notice of Public Hearing City of Dunnellon has Proposed Providing Communications Services",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-02.pdf",
+  "short": "TIP 10A19-02",
+  "kind": "tip",
+  "date": "issued 05/12/10"
+ },
+ "tip-10a19-03": {
+  "title": "TIP 10A19-03: Sales of Communications Services to Transient Public Lodging Establishments",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-03.pdf",
+  "short": "TIP 10A19-03",
+  "kind": "tip",
+  "date": "issued 06/23/10"
+ },
+ "tip-10a19-04": {
+  "title": "TIP 10A19-04: Communications Services Tax - Changes to Reporting Credits for Bad Debts",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-04.pdf",
+  "short": "TIP 10A19-04",
+  "kind": "tip",
+  "date": "issued 06/25/10"
+ },
+ "tip-10a19-05": {
+  "title": "TIP 10A19-05: Communications Services Tax - Changes to State and Gross Receipts Tax Rates Effective August 1, 2010",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-05.pdf",
+  "short": "TIP 10A19-05",
+  "kind": "tip",
+  "date": "issued 06/25/10"
+ },
+ "tip-10a19-06": {
+  "title": "TIP 10A19-06R: Changes in Local Communications Services Tax Rates Effective January 1, 2011",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-06R.pdf",
+  "short": "TIP 10A19-06R",
+  "kind": "tip",
+  "date": "issued 09/26/10"
+ },
+ "tip-10a19-07": {
+  "title": "TIP 10A19-07: Changes in Local Communications Services Tax Rates Effective January 1, 2011",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_10A19-07.pdf",
+  "short": "TIP 10A19-07",
+  "kind": "tip",
+  "date": "issued 11/22/10"
+ },
+ "tip-11a19-01": {
+  "title": "TIP 11A19-01: Communications Services Tax Rounding Method",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_11A19-01.pdf",
+  "short": "TIP 11A19-01",
+  "kind": "tip",
+  "date": "issued 06/23/11"
+ },
+ "tip-11a19-02": {
+  "title": "TIP 11A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2012",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_11A19-02.pdf",
+  "short": "TIP 11A19-02",
+  "kind": "tip",
+  "date": "issued 09/26/11"
+ },
+ "tip-11a19-03": {
+  "title": "TIP 11A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2012",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_11A19-03.pdf",
+  "short": "TIP 11A19-03",
+  "kind": "tip",
+  "date": "issued 11/21/11"
+ },
+ "tip-12a19-01": {
+  "title": "TIP 12A19-01: Changes in Local Communications Services Tax Rates Effective January 1, 2013",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_12A19-01.pdf",
+  "short": "TIP 12A19-01",
+  "kind": "tip",
+  "date": "issued 09/26/12"
+ },
+ "tip-12a19-02": {
+  "title": "TIP 12A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2013",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_12A19-02.pdf",
+  "short": "TIP 12A19-02",
+  "kind": "tip",
+  "date": "issued 11/19/12"
+ },
+ "tip-12a19-03": {
+  "title": "TIP 12A19-03: Communications Services Tax Sales of Communications Services to Transient Public Lodging Establishments",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_12A19-03.pdf",
+  "short": "TIP 12A19-03",
+  "kind": "tip",
+  "date": "issued 07/01/12"
+ },
+ "tip-12a19-04": {
+  "title": "TIP 12A19-04: Communications Services Tax Changes to Definitions",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_12A19-04.pdf",
+  "short": "TIP 12A19-04",
+  "kind": "tip",
+  "date": "issued 07/01/12"
+ },
+ "tip-12adm-02": {
+  "title": "TIP 12ADM-02: Prepaid Communications Services - RETRACTED 07-29-2013",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_12ADM-02.pdf",
+  "short": "TIP 12ADM-02",
+  "kind": "tip",
+  "date": "issued 03/27/12"
+ },
+ "tip-13a19-01": {
+  "title": "TIP 13A19-01: Changes in Local Communications Services Tax Rates Effective January 1, 2014",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_13A19-01.pdf",
+  "short": "TIP 13A19-01",
+  "kind": "tip",
+  "date": "issued 09/25/13"
+ },
+ "tip-13a19-02": {
+  "title": "TIP 13A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2014",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_13A19-02.pdf",
+  "short": "TIP 13A19-02",
+  "kind": "tip",
+  "date": "issued 11/25/13"
+ },
+ "tip-14a19-01": {
+  "title": "TIP 14A19-01: Changes in Local Communications Services Tax Rates Effective January 1, 2015",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_14A19-01.pdf",
+  "short": "TIP 14A19-01",
+  "kind": "tip",
+  "date": "issued 11/21/14"
+ },
+ "tip-14a19-03": {
+  "title": "TIP 14A19-03: Communications Services Tax Islandia Removed as Taxing Jurisdiction Effective Immediately",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_14A19-03.pdf",
+  "short": "TIP 14A19-03",
+  "kind": "tip",
+  "date": "issued 05/22/14"
+ },
+ "tip-15a19-01": {
+  "title": "TIP 15A19-01: Communications Services Tax Rate Changes",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_15A19-01.pdf",
+  "short": "TIP 15A19-01",
+  "kind": "tip",
+  "date": "issued 06/24/15"
+ },
+ "tip-15a19-02": {
+  "title": "TIP 15A19-02: Communications Services Tax Changes to Administration",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_15A19-02.pdf",
+  "short": "TIP 15A19-02",
+  "kind": "tip",
+  "date": "issued 06/24/15"
+ },
+ "tip-15a19-03": {
+  "title": "TIP 15A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2016",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_15A19-03.pdf",
+  "short": "TIP 15A19-03",
+  "kind": "tip",
+  "date": "issued 09/28/15"
+ },
+ "tip-15a19-04": {
+  "title": "TIP 15A19-04: Changes in Local Communications Services Tax Rates Effective January 1, 2016",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_15A19-04.pdf",
+  "short": "TIP 15A19-04",
+  "kind": "tip",
+  "date": "issued 11/20/15"
+ },
+ "tip-15a19-05": {
+  "title": "TIP 15A19-05: New Taxing Jurisdiction Added To Communications Services Tax Effective January 1, 2016",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_15A19-05.pdf",
+  "short": "TIP 15A19-05",
+  "kind": "tip",
+  "date": "issued 09/28/15"
+ },
+ "tip-16a19-01": {
+  "title": "TIP 16A19-01: Changes in Local Communications Services Tax Rates Effective July 1, 2016",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_16A19-01.pdf",
+  "short": "TIP 16A19-01",
+  "kind": "tip",
+  "date": "issued 05/04/16"
+ },
+ "tip-16a19-02": {
+  "title": "TIP 16A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2017",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_16A19-02.pdf",
+  "short": "TIP 16A19-02",
+  "kind": "tip",
+  "date": "issued 09/21/16"
+ },
+ "tip-16a19-03": {
+  "title": "TIP 16A19-03: Changes in Local Communications Services Tax Rates Effective January 1, 2017",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_16A19-03.pdf",
+  "short": "TIP 16A19-03",
+  "kind": "tip",
+  "date": "issued 11/18/16"
+ },
+ "tip-17a19-01": {
+  "title": "TIP 17A19-01: New Taxing Jurisdiction Added to Communications Services Tax Effective January 1, 2018",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_17A19-01.pdf",
+  "short": "TIP 17A19-01",
+  "kind": "tip",
+  "date": "issued 09/20/17"
+ },
+ "tip-18a19-01": {
+  "title": "TIP 18A19-01: Communications Services Tax - Town of Hastings Removed as a Local Taxing Jurisdiction Effective March 1, 2018",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_18A19-01.pdf",
+  "short": "TIP 18A19-01",
+  "kind": "tip",
+  "date": "issued 02/28/18"
+ },
+ "tip-18a19-02": {
+  "title": "TIP 18A19-02: New Taxing Jurisdiction Added to Communications Services Tax Effective January 1, 2019",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_18A19-02.pdf",
+  "short": "TIP 18A19-02",
+  "kind": "tip",
+  "date": "issued 09/21/18"
+ },
+ "tip-18a19-03": {
+  "title": "TIP 18A19-03: Change in Local Communications Services Tax Rate Effective January 1, 2019",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_18A19-03.pdf",
+  "short": "TIP 18A19-03",
+  "kind": "tip",
+  "date": "issued 09/26/18"
+ },
+ "tip-18a19-04": {
+  "title": "TIP 18A19-04: Changes in Local Communications Services Tax Rates Effective January 1, 2019",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_18A19-04.pdf",
+  "short": "TIP 18A19-04",
+  "kind": "tip",
+  "date": "issued 11/29/18"
+ },
+ "tip-19a19-01": {
+  "title": "TIP 19A19-01: Changes in Local Communications Services Tax Rates Effective January 1, 2020",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_19A19-01.pdf",
+  "short": "TIP 19A19-01",
+  "kind": "tip",
+  "date": "issued 09/23/19"
+ },
+ "tip-19a19-02": {
+  "title": "TIP 19A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2020",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_19A19-02.pdf",
+  "short": "TIP 19A19-02",
+  "kind": "tip",
+  "date": "issued 11/14/19"
+ },
+ "tip-20a19-01": {
+  "title": "TIP 20A19-01: Communications Services Tax - City of Weeki Wachee Removed as a Local Taxing Jurisdiction Effective January 1, 2021",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_20A19-01.pdf",
+  "short": "TIP 20A19-01",
+  "kind": "tip",
+  "date": "issued 09/21/20"
+ },
+ "tip-20a19-02": {
+  "title": "TIP 20A19-02: Changes in Local Communications Services Tax Rates Effective January 1, 2021",
+  "url": "https://floridarevenue.com/taxes/tips/documents/TIP_20A19-02.pdf",
+  "short": "TIP 20A19-02",
+  "kind": "tip",
+  "date": "issued 11/24/20"
+ },
+ "faq-1270": {
+  "title": "DOR Questions and Answers: “Should a mobile home park collect communications services tax if the park receives satellite services but resells the service to customers as cable service?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1270",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1271": {
+  "title": "DOR Questions and Answers: “Are charges to callers for end-user 900 number services (e.g., charges for information provided over the phone such as horoscope or card readings) a taxable communications service, regardless of whether the number is an 800 or 900 number?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1271",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1276": {
+  "title": "DOR Questions and Answers: “Are charges for pay-per-view movies by a hotel or motel subject to communications services tax?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1276",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1281": {
+  "title": "DOR Questions and Answers: “I am a pay telephone operator. Am I required to register for communications services tax?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1281",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1316": {
+  "title": "DOR Questions and Answers: “Are fax services taxable?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1316",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1319": {
+  "title": "DOR Questions and Answers: “How do I register to collect and report tax, and which application do I use?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1319",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1356": {
+  "title": "DOR Questions and Answers: “If my yearly tax liability for an individual tax or fee is less than $5,000, what steps should I take if I want to stop eFiling and/or ePaying that tax or fee?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1356",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1284": {
+  "title": "DOR Questions and Answers: “Are information services subject to communications services tax?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1284",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1294": {
+  "title": "DOR Questions and Answers: “Should a condominium or timeshare association collect communications services tax if the cable service provided to residents is included in the maintenance fee and not separately itemized?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1294",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "faq-1369": {
+  "title": "DOR Questions and Answers: “Should an RV and/or mobile home park collect communications services tax if the park provides cable service to customers as part of a space or lot rental fee or maintenance fee and does not separately state the charge for cable service?”",
+  "url": "https://floridarevenue.com/faq/Pages/FAQDetails.aspx?FAQID=1369",
+  "short": "DOR FAQ",
+  "kind": "faq"
+ },
+ "cst-distributions": {
+  "title": "Local Tax Distribution Data (workbook linked from the CST page)",
+  "url": "https://floridarevenue.com/taxes/Documents/local_tax_distributions.xlsx",
+  "short": "Local distribution data",
+  "kind": "document"
+ }
+}

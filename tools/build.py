@@ -12,6 +12,24 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, 'docs')  # GitHub Pages serves /docs
 SOURCES = json.load(open(f'{ROOT}/content/sources.json'))
 ERR = []
+# Per-tax chrome. SUT values reproduce the original output exactly; other taxes add their own nav/official links.
+TAXES = {
+    'sut': {'nav': 'Sales &amp; Use Tax', 'page': 'https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx', 'page_label': 'Official Sales and Use Tax page',
+            'official': [('Sales and Use Tax (DOR)', 'https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx'),
+                         ('Forms and Publications', 'https://floridarevenue.com/Pages/forms_index.aspx'),
+                         ('Tax Information Publications', 'https://floridarevenue.com/taxes/tips/Pages/default.aspx'),
+                         ('Taxpayer Education', 'https://floridarevenue.com/taxes/Pages/education.aspx')]},
+    'cst': {'nav': 'Communications Services Tax', 'page': 'https://floridarevenue.com/taxes/taxesfees/Pages/cst.aspx', 'page_label': 'Official Communications Services Tax page',
+            'official': [('Communications Services Tax (DOR)', 'https://floridarevenue.com/taxes/taxesfees/Pages/cst.aspx'),
+                         ('CST rate table', 'https://pointmatch.floridarevenue.com/General/CommunicationsServicesTaxRates.aspx'),
+                         ('Address/Jurisdiction Database', 'https://pointmatch.floridarevenue.com/Default.aspx'),
+                         ('Forms and Publications', 'https://floridarevenue.com/Pages/forms_index.aspx'),
+                         ('Tax Information Publications', 'https://floridarevenue.com/taxes/tips/Pages/default.aspx')]},
+}
+SHARED_SOURCES = SOURCES
+def tax_sources(tax):  # optional per-tax citation registry (content/<tax>/sources.json), layered over shared keys for that tax only
+    p = f'{ROOT}/content/{tax}/sources.json'
+    return {**SHARED_SOURCES, **json.load(open(p))} if os.path.exists(p) else SHARED_SOURCES
 BUILD_DATE = datetime.date.today().isoformat()
 esc = html.escape
 
@@ -55,13 +73,19 @@ def check_headings(name, doc):
     dup = {i for i in p.ids if p.ids.count(i) > 1}
     if dup: ERR.append(f'{name}: duplicate ids {sorted(dup)}')
 
-def page_shell(*, title, desc, depth, crumbs, nav_current, sidebar, body, pager, tax_title=None):
+def page_shell(*, title, desc, depth, crumbs, nav_current, sidebar, body, pager, tax_title=None, tax='sut'):
     up = '../' * depth
-    navitems = [('Home', f'{up}index.html', 'home'), ('Sales &amp; Use Tax', f'{up}sut/index.html', 'sut'),
-                ('Learning path', f'{up}sut/learning-path.html', 'learning-path'), ('Glossary', f'{up}sut/glossary.html', 'glossary'),
-                ('Forms', f'{up}sut/forms.html', 'forms'), ('Quick reference', f'{up}sut/quick-reference.html', 'quick-reference'),
-                ('Sources', f'{up}sut/sources.html', 'sources')]
-    nav = ''.join(f'<li><a href="{h}"' + (' aria-current="page"' if k == nav_current else (' class="section-current"' if k == 'sut' and nav_current == 'sut-module' else '')) + f'>{t}</a></li>' for t, h, k in navitems)
+    if tax == 'sut':
+        navitems = [('Home', f'{up}index.html', 'home'), ('Sales &amp; Use Tax', f'{up}sut/index.html', 'sut'),
+                    ('Learning path', f'{up}sut/learning-path.html', 'learning-path'), ('Glossary', f'{up}sut/glossary.html', 'glossary'),
+                    ('Forms', f'{up}sut/forms.html', 'forms'), ('Quick reference', f'{up}sut/quick-reference.html', 'quick-reference'),
+                    ('Sources', f'{up}sut/sources.html', 'sources')]
+    else:
+        navitems = [('Home', f'{up}index.html', 'home'), ('Sales &amp; Use Tax', f'{up}sut/index.html', 'other-sut'), (TAXES[tax]['nav'], f'{up}{tax}/index.html', tax),
+                    ('Learning path', f'{up}{tax}/learning-path.html', 'learning-path'), ('Glossary', f'{up}{tax}/glossary.html', 'glossary'),
+                    ('Forms', f'{up}{tax}/forms.html', 'forms'), ('Quick reference', f'{up}{tax}/quick-reference.html', 'quick-reference'),
+                    ('Sources', f'{up}{tax}/sources.html', 'sources')]
+    nav = ''.join(f'<li><a href="{h}"' + (' aria-current="page"' if k == nav_current else (' class="section-current"' if k == tax and nav_current == f'{tax}-module' else '')) + f'>{t}</a></li>' for t, h, k in navitems)
     bc = ''
     if crumbs:
         items = ''.join(f'<li><a href="{h}"' + (' aria-current="page"' if i == len(crumbs) - 1 else '') + f'>{t}</a></li>' for i, (t, h) in enumerate(crumbs))
@@ -98,7 +122,7 @@ def page_shell(*, title, desc, depth, crumbs, nav_current, sidebar, body, pager,
 </div>
 <footer class="site-foot">
   <p>GTA Tax Training is an unofficial study guide built from public floridarevenue.com material. It is not published by, and does not speak for, the Florida Department of Revenue. It contains no taxpayer or confidential data; all businesses in examples are fictional. Built {BUILD_DATE}.</p>
-  <p><a href="https://floridarevenue.com/taxes/Pages/default.aspx">Official Florida Department of Revenue tax site</a> · <a href="https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx">Official Sales and Use Tax page</a> · <a href="{up}sut/sources.html">How this guide was researched</a></p>
+  <p><a href="https://floridarevenue.com/taxes/Pages/default.aspx">Official Florida Department of Revenue tax site</a> · <a href="{TAXES[tax]['page']}">{TAXES[tax]['page_label']}</a> · <a href="{up}{tax}/sources.html">How this guide was researched</a></p>
 </footer>
 </div>
 </body>
@@ -106,6 +130,8 @@ def page_shell(*, title, desc, depth, crumbs, nav_current, sidebar, body, pager,
 '''
 
 def build_tax(tax):
+    global SOURCES
+    SOURCES = tax_sources(tax)
     reg = json.load(open(f'{ROOT}/content/{tax}/site.json'))
     quizzes = json.load(open(f'{ROOT}/content/{tax}/quizzes.json'))
     pages = reg['pages']; modules = [p for p in pages if p.get('module')]
@@ -115,11 +141,7 @@ def build_tax(tax):
         tools = ''.join(f'<li><a href="{p["slug"]}.html"' + (' aria-current="page"' if p['slug'] == cur else '') + f'>{esc(p["title"])}</a></li>' for p in pages if p.get('tool'))
         return (f'<div class="panel"><h2>Modules</h2><ol>{mods}</ol></div>'
                 f'<div class="panel teal"><h2>Reference</h2><ul>{tools}</ul></div>'
-                '<div class="panel"><h2>Official links</h2><ul>'
-                '<li><a href="https://floridarevenue.com/taxes/taxesfees/Pages/sales_tax.aspx">Sales and Use Tax (DOR)</a></li>'
-                '<li><a href="https://floridarevenue.com/Pages/forms_index.aspx">Forms and Publications</a></li>'
-                '<li><a href="https://floridarevenue.com/taxes/tips/Pages/default.aspx">Tax Information Publications</a></li>'
-                '<li><a href="https://floridarevenue.com/taxes/Pages/education.aspx">Taxpayer Education</a></li></ul></div>')
+                '<div class="panel"><h2>Official links</h2><ul>' + ''.join(f'<li><a href="{u}">{t}</a></li>' for t, u in TAXES[tax]['official']) + '</ul></div>')
     order = [p for p in pages if p['slug'] != 'index']
     for p in pages:
         slug = p['slug']; used = []
@@ -154,9 +176,9 @@ def build_tax(tax):
             pager = '<nav class="pager" aria-label="Previous and next pages">' + f'<a class="prev" href="{prev["slug"]}.html"><span>Previous</span><strong>{esc(prev["title"])}</strong></a>' + (f'<a class="next" href="{nxt["slug"]}.html"><span>Next</span><strong>{esc(nxt["title"])}</strong></a>' if nxt else '') + '</nav>'
         else:
             pager = f'<nav class="pager" aria-label="Start"><a class="next" href="{order[0]["slug"]}.html"><span>Start here</span><strong>{esc(order[0]["title"])}</strong></a></nav>'
-        cur = {'index': 'sut'}.get(slug, slug if slug in ('learning-path', 'glossary', 'forms', 'quick-reference', 'sources') else 'sut-module')
+        cur = {'index': tax}.get(slug, slug if slug in ('learning-path', 'glossary', 'forms', 'quick-reference', 'sources') else f'{tax}-module')
         doc = page_shell(title=esc(p['title']) + ('' if slug == 'index' else ' — ' + reg['short']), desc=p.get('summary', reg['title']), depth=1,
-                         crumbs=crumbs, nav_current=cur, sidebar=sidebar(slug), body=body, pager=pager)
+                         crumbs=crumbs, nav_current=cur, sidebar=sidebar(slug), body=body, pager=pager, tax=tax)
         check_headings(f'{tax}/{slug}', doc)
         open(f'{OUT}/{tax}/{slug}.html', 'w').write(doc)
 
@@ -169,6 +191,7 @@ def build_home():
 
 if __name__ == '__main__':
     build_home(); build_tax('sut')
+    if os.path.exists(f'{ROOT}/content/cst/site.json'): build_tax('cst')
     open(f'{OUT}/.nojekyll', 'w').write('')
     if ERR:
         print('BUILD ERRORS:'); [print(' -', e) for e in ERR]; sys.exit(1)

@@ -1,0 +1,28 @@
+<svg class="svg-text" role="img" aria-labelledby="tx-t tx-d" viewBox="0 0 760 470" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="tx-t">Is this charge subject to communications services tax?</title>
+<desc id="tx-d">A decision flowchart with three questions. Question 1: Is the charge for transmitting voice, data, audio, video or other signals, including video, satellite and mobile service? If no, it is not subject to communications services tax, though sales tax may apply. If yes, go to question 2. Question 2: Is it one of the items the law excludes, such as information services, Internet access, the sale or recharge of a prepaid calling arrangement, coin-operated telephone charges, equipment or customer wiring, or a late charge? If yes, it is not subject to communications services tax. If no, go to question 3. Question 3: Is the sale for resale or to an exempt buyer, and properly documented? If yes, it is exempt; keep the documentation. If no, charge Florida communications services tax and the local tax for the service address.</desc>
+<defs><marker id="tx-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#051a54"/></marker></defs>
+<g font-size="15" fill="#1f1f1f">
+<rect x="20" y="15" width="440" height="80" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="240" y="42" text-anchor="middle" font-weight="700">1. Does the charge transmit voice, data,</text>
+<text x="240" y="62" text-anchor="middle" font-weight="700">audio, video or other signals?</text>
+<text x="240" y="82" text-anchor="middle" font-size="13">(includes video, satellite and mobile service)</text>
+<rect x="20" y="165" width="440" height="100" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="240" y="192" text-anchor="middle" font-weight="700">2. Is it an item the law excludes?</text>
+<text x="240" y="214" text-anchor="middle" font-size="13">information services, Internet access, prepaid calling</text>
+<text x="240" y="232" text-anchor="middle" font-size="13">sale or recharge, coin telephones, equipment or wiring,</text>
+<text x="240" y="250" text-anchor="middle" font-size="13">advertising, late or returned-check charges</text>
+<rect x="20" y="335" width="440" height="70" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="240" y="362" text-anchor="middle" font-weight="700">3. Is it for resale or to an exempt</text>
+<text x="240" y="382" text-anchor="middle" font-weight="700">buyer, and properly documented?</text>
+<line x1="240" y1="95" x2="240" y2="160" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="252" y="132" font-weight="700">Yes</text>
+<line x1="240" y1="265" x2="240" y2="330" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="252" y="302" font-weight="700">No</text>
+<line x1="460" y1="55" x2="525" y2="55" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="470" y="45" font-weight="700">No</text>
+<line x1="460" y1="215" x2="525" y2="215" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="470" y="205" font-weight="700">Yes</text>
+<line x1="460" y1="370" x2="525" y2="370" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="470" y="360" font-weight="700">Yes</text>
+<line x1="240" y1="405" x2="240" y2="425" stroke="#051a54" stroke-width="3"/><line x1="240" y1="425" x2="520" y2="425" stroke="#051a54" stroke-width="3"/><line x1="520" y1="425" x2="525" y2="425" stroke="#051a54" stroke-width="3" marker-end="url(#tx-a)"/><text x="252" y="420" font-weight="700">No</text>
+<rect x="530" y="25" width="220" height="60" rx="8" fill="#e6e6e6" stroke="#4a4a4a"/><text x="640" y="51" text-anchor="middle">Not CST. Sales tax</text><text x="640" y="71" text-anchor="middle">may apply instead.</text>
+<rect x="530" y="185" width="220" height="60" rx="8" fill="#e6e6e6" stroke="#4a4a4a"/><text x="640" y="211" text-anchor="middle">Not CST.</text><text x="640" y="231" text-anchor="middle">Check sales tax.</text>
+<rect x="530" y="340" width="220" height="60" rx="8" fill="#e8f4f3" stroke="#00695f"/><text x="640" y="366" text-anchor="middle">Exempt. Keep the</text><text x="640" y="386" text-anchor="middle">documentation.</text>
+<rect x="530" y="410" width="220" height="50" rx="8" fill="#fde8eb" stroke="#a1001b"/><text x="640" y="432" text-anchor="middle" font-weight="700" fill="#a1001b">Taxable: Florida CST</text><text x="640" y="452" text-anchor="middle" font-weight="700" fill="#a1001b">+ local CST</text>
+</g></svg>

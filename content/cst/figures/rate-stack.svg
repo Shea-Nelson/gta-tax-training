@@ -1,0 +1,21 @@
+<svg class="svg-text" role="img" aria-labelledby="rs-t rs-d" viewBox="0 0 760 330" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="rs-t">The rate stack for three kinds of customers</title>
+<desc id="rs-d">Three horizontal bars drawn to scale. Bar 1, a business telephone line: 4.92 percent state tax, plus 0.15 percent gross receipts tax, plus 2.37 percent gross receipts tax, for 7.44 percent Florida communications services tax, plus the local rate for the service address, shown here as an example 5.22 percent. Bar 2, a residential landline: the 4.92 and 0.15 percent parts are exempt, so only 2.37 percent plus the local rate applies. Bar 3, direct-to-home satellite service: 9.07 percent state tax plus 2.37 percent gross receipts tax, for 11.44 percent, and no local tax.</desc>
+<g font-size="14" fill="#1f1f1f">
+<text x="10" y="30" font-weight="700" font-size="15">Business line (example local rate 5.22%)</text>
+<rect x="10" y="42" width="197" height="44" fill="#051a54"/><text x="108" y="69" text-anchor="middle" fill="#fff" font-weight="700">4.92% state</text>
+<rect x="207" y="42" width="8" height="44" fill="#7a4b00"/>
+<rect x="215" y="42" width="95" height="44" fill="#00695f"/><text x="262" y="69" text-anchor="middle" fill="#fff" font-weight="700">2.37%</text>
+<rect x="310" y="42" width="209" height="44" fill="#e8f4f3" stroke="#00695f"/><text x="414" y="69" text-anchor="middle" font-weight="700">local 5.22%</text>
+<line x1="211" y1="86" x2="211" y2="102" stroke="#7a4b00" stroke-width="2"/><text x="211" y="118" text-anchor="middle" fill="#7a4b00" font-weight="700">0.15% gross receipts</text>
+<text x="535" y="69">= 12.66%</text>
+<text x="10" y="160" font-weight="700" font-size="15">Residential landline (same address)</text>
+<rect x="10" y="172" width="205" height="44" fill="#fff" stroke="#4a4a4a" stroke-dasharray="6 4"/><text x="112" y="199" text-anchor="middle">exempt (4.92% + 0.15%)</text>
+<rect x="215" y="172" width="95" height="44" fill="#00695f"/><text x="262" y="199" text-anchor="middle" fill="#fff" font-weight="700">2.37%</text>
+<rect x="310" y="172" width="209" height="44" fill="#e8f4f3" stroke="#00695f"/><text x="414" y="199" text-anchor="middle" font-weight="700">local 5.22%</text>
+<text x="535" y="199">= 7.59%</text>
+<text x="10" y="258" font-weight="700" font-size="15">Direct-to-home satellite (anywhere in Florida)</text>
+<rect x="10" y="270" width="363" height="44" fill="#051a54"/><text x="191" y="297" text-anchor="middle" fill="#fff" font-weight="700">9.07% state</text>
+<rect x="373" y="270" width="95" height="44" fill="#00695f"/><text x="420" y="297" text-anchor="middle" fill="#fff" font-weight="700">2.37%</text>
+<text x="484" y="297">= 11.44%, no local tax</text>
+</g></svg>

@@ -1,0 +1,33 @@
+<svg class="svg-text" role="img" aria-labelledby="rf-t rf-d" viewBox="0 0 760 400" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="rf-t">How the DR-700016 schedules feed Page 1</title>
+<desc id="rf-d">A flow diagram of Form DR-700016. Schedule I lists taxable sales by jurisdiction. Its summary gives three totals: Column F Line 3, the tax at 5.07 percent, which goes to Page 1 Line 1; Column G Line 6, the tax at 2.37 percent, which goes to Line 2; and Column H Line 7, the local tax, which goes to Line 3. Schedule II, direct-to-home satellite service, Column C, goes to Line 4. Lines 1 to 4 add up to Line 5, total tax. Line 6 is the collection allowance, Line 7 is Line 5 minus Line 6, Lines 8 and 9 add penalty and interest when late. Schedule III Column G and Schedule IV Column U feed Line 10, adjustments. Schedule V Column H feeds Line 11, multistate credits. Line 12 is the amount due and cannot be negative.</desc>
+<defs><marker id="rf-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#051a54"/></marker></defs>
+<g font-size="14" fill="#1f1f1f">
+<rect x="10" y="10" width="300" height="150" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="34" font-weight="700" font-size="15">Schedule I and its summary</text>
+<text x="20" y="58">taxable sales by jurisdiction</text>
+<text x="20" y="84">Col. F Line 3: tax at 5.07%</text>
+<text x="20" y="108">Col. G Line 6: tax at 2.37%</text>
+<text x="20" y="132">Col. H Line 7: local tax</text>
+<rect x="10" y="175" width="300" height="50" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="205">Schedule II (satellite), Col. C</text>
+<rect x="10" y="240" width="300" height="70" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="265">Schedule III, Col. G (satellite</text><text x="20" y="285">adjustments) and Schedule IV,</text><text x="20" y="303">Col. U (other adjustments)</text>
+<rect x="10" y="325" width="300" height="50" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="355">Schedule V, Col. H (multistate)</text>
+<rect x="420" y="10" width="330" height="380" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="435" y="36" font-weight="700" font-size="15">Page 1</text>
+<text x="435" y="66">Line 1: state 4.92% + 0.15%</text>
+<text x="435" y="94">Line 2: gross receipts 2.37%</text>
+<text x="435" y="122">Line 3: local tax</text>
+<text x="435" y="150">Line 4: satellite</text>
+<text x="435" y="178" font-weight="700">Line 5: total (Lines 1 to 4)</text>
+<text x="435" y="206">Line 6: collection allowance</text>
+<text x="435" y="234">Line 7: Line 5 minus Line 6</text>
+<text x="435" y="262">Lines 8 and 9: penalty, interest</text>
+<text x="435" y="290">Line 10: adjustments</text>
+<text x="435" y="318">Line 11: multistate credits</text>
+<text x="435" y="350" font-weight="700">Line 12: amount due</text>
+<text x="435" y="370" font-size="13">(never negative)</text>
+<g stroke="#051a54" stroke-width="2.5"><line x1="310" y1="80" x2="425" y2="62" marker-end="url(#rf-a)"/><line x1="310" y1="104" x2="425" y2="90" marker-end="url(#rf-a)"/><line x1="310" y1="128" x2="425" y2="118" marker-end="url(#rf-a)"/><line x1="310" y1="200" x2="425" y2="146" marker-end="url(#rf-a)"/><line x1="310" y1="275" x2="425" y2="286" marker-end="url(#rf-a)"/><line x1="310" y1="350" x2="425" y2="314" marker-end="url(#rf-a)"/></g>
+</g></svg>

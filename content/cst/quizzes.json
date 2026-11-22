@@ -1,0 +1,784 @@
+{
+ "01-basics": [
+  {
+   "q": "Which of these is a communications service under Florida CST?",
+   "options": [
+    "Web hosting",
+    "A streaming video subscription",
+    "Selling a phone",
+    "A late payment fee"
+   ],
+   "answer": 1,
+   "why": "Video, including streaming, is a taxable communications service. Web hosting is an information service, and phones and late fees are excluded."
+  },
+  {
+   "q": "What are the three components of CST?",
+   "options": [
+    "State, county and city sales tax",
+    "State CST, gross receipts tax and local CST",
+    "Federal excise, state and local tax",
+    "Sales tax, surtax and use tax"
+   ],
+   "answer": 1,
+   "why": "CST has a state portion (s. 202.12), a gross receipts portion (s. 203.01) and a local portion (s. 202.19)."
+  },
+  {
+   "q": "How must the tax appear on the customer's bill?",
+   "options": [
+    "As one combined “taxes and fees” line",
+    "Separately, as Florida CST and local CST",
+    "It may be included in the price if the bill says so",
+    "Only on request"
+   ],
+   "answer": 1,
+   "why": "Dealers must separately state the Florida and local communications services taxes and may not absorb them."
+  },
+  {
+   "q": "A purchaser pays the tax to the dealer. Who is then liable if the dealer never remits it?",
+   "options": [
+    "The purchaser",
+    "The dealer, because paying the dealer relieves the purchaser",
+    "The local government",
+    "No one"
+   ],
+   "answer": 1,
+   "why": "The purchaser is liable until the tax is paid; payment to the dealer relieves the purchaser."
+  }
+ ],
+ "02-rates": [
+  {
+   "q": "What is the total Florida CST rate on most services, before local tax?",
+   "options": [
+    "5.07%",
+    "6%",
+    "7.44%",
+    "9.17%"
+   ],
+   "answer": 2,
+   "why": "4.92% + 0.15% + 2.37% = 7.44%."
+  },
+  {
+   "q": "What is the rate on direct-to-home satellite service?",
+   "options": [
+    "7.44% plus local",
+    "11.44% with no local tax",
+    "9.07% plus local",
+    "2.37% only"
+   ],
+   "answer": 1,
+   "why": "Satellite is taxed at 9.07% + 2.37% = 11.44%, and local tax does not apply."
+  },
+  {
+   "q": "A family's home landline is billed $40. Which parts of CST apply?",
+   "options": [
+    "All of them",
+    "Only the 2.37% gross receipts tax and the local tax",
+    "Only the local tax",
+    "None; residential service is exempt"
+   ],
+   "answer": 1,
+   "why": "The residential exemption removes only the 4.92% state tax and the 0.15% gross receipts tax."
+  },
+  {
+   "q": "Which service can get the residential partial exemption?",
+   "options": [
+    "A family's mobile plan",
+    "Cable TV at home",
+    "A home VoIP line",
+    "Satellite TV at home"
+   ],
+   "answer": 2,
+   "why": "Mobile, video and satellite service never get the exemption. A home VoIP line can."
+  }
+ ],
+ "03-local-tax-and-rounding": [
+  {
+   "q": "A jurisdiction's total local rate is made of:",
+   "options": [
+    "The state rate plus the county rate",
+    "Its adopted rate plus the county surtax conversion rate",
+    "The county surtax only",
+    "The 2.37% plus the adopted rate"
+   ],
+   "answer": 1,
+   "why": "The Department publishes the adopted rate plus the county surtax conversion rate as one total."
+  },
+  {
+   "q": "Tax computes to $2.534. What is charged?",
+   "options": [
+    "$2.53",
+    "$2.54",
+    "$2.50",
+    "$2.60"
+   ],
+   "answer": 0,
+   "why": "Carry to three decimals; round up only if the third decimal is 5 or more. 4 is less than 5."
+  },
+  {
+   "q": "Which must always be rounded separately?",
+   "options": [
+    "The 4.92% and the 0.15%",
+    "The local tax, apart from the Florida CST",
+    "Each customer's bills for the year",
+    "Nothing; rounding is optional"
+   ],
+   "answer": 1,
+   "why": "Local tax is always rounded separately; the Florida CST has three permitted rounding options."
+  },
+  {
+   "q": "Until when may a local CST rate in effect on January 1, 2023 not be increased?",
+   "options": [
+    "December 31, 2025",
+    "January 1, 2027",
+    "January 1, 2031",
+    "It can be increased any time"
+   ],
+   "answer": 2,
+   "why": "Section 202.19(2)(d) bars increases before January 1, 2031."
+  }
+ ],
+ "04-registration": [
+  {
+   "q": "A company with four store locations sells VoIP service. How many CST registrations does it need?",
+   "options": [
+    "Four",
+    "One per county",
+    "One, for the legal entity",
+    "None"
+   ],
+   "answer": 2,
+   "why": "One registration is required for each legal entity, regardless of the number of locations."
+  },
+  {
+   "q": "Which business does not need to register for CST?",
+   "options": [
+    "A cable TV provider",
+    "A web hosting company that sells only hosting",
+    "A satellite TV provider",
+    "A VoIP provider"
+   ],
+   "answer": 1,
+   "why": "Information services such as web hosting are not communications services."
+  },
+  {
+   "q": "What does a new dealer receive with its Certificate of Registration?",
+   "options": [
+    "A sales tax resale certificate",
+    "A CST Annual Resale Certificate (DR-700015)",
+    "A direct pay permit",
+    "Nothing else"
+   ],
+   "answer": 1,
+   "why": "New dealers receive DR-700014 and DR-700015."
+  },
+  {
+   "q": "A dealer changes from a sole proprietorship to a corporation. What is required?",
+   "options": [
+    "Update the name online",
+    "Nothing",
+    "A new registration",
+    "A letter to the Department"
+   ],
+   "answer": 2,
+   "why": "A change of legal entity or ownership requires a new registration."
+  }
+ ],
+ "05-taxable-services": [
+  {
+   "q": "Which is excluded from the definition of communications services?",
+   "options": [
+    "VoIP",
+    "Mobile service",
+    "Internet access",
+    "Pager service"
+   ],
+   "answer": 2,
+   "why": "Internet access, email and similar online services are excluded."
+  },
+  {
+   "q": "A hotel charges a guest for a pay-per-view movie. Is it subject to CST?",
+   "options": [
+    "Yes",
+    "No, it is entertainment",
+    "Only the local tax",
+    "Only if over $10"
+   ],
+   "answer": 0,
+   "why": "The Department's FAQ says hotel pay-per-view movies are subject to CST."
+  },
+  {
+   "q": "A law firm faxes documents for a client as part of its legal services. Is CST due on the fax?",
+   "options": [
+    "Yes, fax is always taxable",
+    "No, fax in the course of professional services is not taxable",
+    "Only local tax",
+    "Only the 2.37%"
+   ],
+   "answer": 1,
+   "why": "Fax is taxable except when provided in the course of professional or advertising services."
+  },
+  {
+   "q": "A condominium association includes cable in its monthly fee without stating a separate charge. Does it collect CST from owners?",
+   "options": [
+    "Yes",
+    "No",
+    "Only from renters",
+    "Only local tax"
+   ],
+   "answer": 1,
+   "why": "Per the Department's FAQ, it does not collect CST when the cable charge is not separately stated."
+  }
+ ],
+ "06-sales-price-bundling": [
+  {
+   "q": "Which charge is taxable even if separately stated on the bill?",
+   "options": [
+    "A separately stated 911 fee",
+    "Voice mail",
+    "Internet access",
+    "A late fee"
+   ],
+   "answer": 1,
+   "why": "Voice mail is one of the charges always included in the sales price."
+  },
+  {
+   "q": "A dealer lists its universal service fund fee as a separate line. May it exclude that amount from the sales price?",
+   "options": [
+    "Yes",
+    "No",
+    "Only for residential customers",
+    "Only for mobile service"
+   ],
+   "answer": 1,
+   "why": "Dealer expenses such as USF fees do not reduce the sales price."
+  },
+  {
+   "q": "A bundle of TV and Internet access is sold for one price with no breakdown. When can the Internet portion be left out of the tax?",
+   "options": [
+    "Never",
+    "Always",
+    "When the dealer can reasonably identify it from books and records kept in the regular course of business",
+    "When the customer asks"
+   ],
+   "answer": 2,
+   "why": "That is the books-and-records rule in s. 202.11(13)(b)8."
+  },
+  {
+   "q": "Which is not part of the CST sales price?",
+   "options": [
+    "Connection charges",
+    "Detailed billing",
+    "The sale or recharge of a prepaid calling arrangement",
+    "Directory assistance"
+   ],
+   "answer": 2,
+   "why": "Prepaid calling arrangement sales are excluded from the CST sales price."
+  }
+ ],
+ "07-sourcing": [
+  {
+   "q": "What is the service address for mobile service?",
+   "options": [
+    "Where the phone is used most this month",
+    "The customer's place of primary use",
+    "The billing address, wherever it is",
+    "The cell tower location"
+   ],
+   "answer": 1,
+   "why": "Mobile service is sourced to the place of primary use: the residential or primary business street address in the licensed service area."
+  },
+  {
+   "q": "Satellite TV is received at a Florida home but billed to an Ohio address. Where is it sourced?",
+   "options": [
+    "Ohio",
+    "The Florida location where it is received",
+    "Tallahassee",
+    "The provider's headquarters"
+   ],
+   "answer": 1,
+   "why": "Video and satellite service are sourced to where they are received in Florida."
+  },
+  {
+   "q": "A calling-card call's service address is:",
+   "options": [
+    "The caller's home",
+    "The central office for the area code and first three digits of the originating number",
+    "The card issuer's address",
+    "The called number"
+   ],
+   "answer": 1,
+   "why": "That is the rule in s. 202.11(14)(a)2."
+  },
+  {
+   "q": "A private line circuit has 3 termination points in Florida and 1 out of state, $1,000 a month, not billed by segment. What is the Florida taxable amount?",
+   "options": [
+    "$500",
+    "$750",
+    "$1,000",
+    "$250"
+   ],
+   "answer": 1,
+   "why": "$1,000 × 3/4 = $750."
+  }
+ ],
+ "08-address-database": [
+  {
+   "q": "How often is the Department's Address/Jurisdiction Database updated?",
+   "options": [
+    "Monthly",
+    "Every six months",
+    "Once a year",
+    "Only on request"
+   ],
+   "answer": 1,
+   "why": "It is updated every six months, with changes effective January 1 and July 1."
+  },
+  {
+   "q": "Which method does NOT earn the 0.75% collection allowance?",
+   "options": [
+    "The Department's database",
+    "A certified vendor database",
+    "ZIP+4 with a reasonable methodology",
+    "An uncertified in-house list"
+   ],
+   "answer": 3,
+   "why": "Methods other than the Department's database, a certified database or ZIP+4 earn 0.25%."
+  },
+  {
+   "q": "A dealer files on time but pays 20% of the tax late. What happens to the allowance?",
+   "options": [
+    "It is lost entirely",
+    "Only 20% of it is disallowed",
+    "Nothing",
+    "It doubles"
+   ],
+   "answer": 1,
+   "why": "Since October 1, 2015, a late payment disallows only the late percentage. A late return loses it entirely."
+  },
+  {
+   "q": "What is the penalty for failing to report local tax on Schedule I?",
+   "options": [
+    "$100",
+    "$5,000 per return",
+    "10% of tax",
+    "None"
+   ],
+   "answer": 1,
+   "why": "Section 202.28 imposes $5,000 per return."
+  }
+ ],
+ "09-exemptions": [
+  {
+   "q": "A county pays its phone bill directly and has given the dealer a customer application identifying it as a county. Is CST due?",
+   "options": [
+    "Yes",
+    "No, it is exempt",
+    "Only the 2.37%",
+    "Only local tax"
+   ],
+   "answer": 1,
+   "why": "Sales to the state and its political subdivisions are exempt when paid directly and documented."
+  },
+  {
+   "q": "What may a dealer keep to document a government P-Card purchase?",
+   "options": [
+    "Nothing",
+    "A copy of the card's face, or the tax-exempt number, account number and cardholder name",
+    "The government's DR-14 only",
+    "A signed letter from the employee"
+   ],
+   "answer": 1,
+   "why": "Rule 12A-19.042 allows either."
+  },
+  {
+   "q": "What does a 501(c)(3) religious institution give the dealer?",
+   "options": [
+    "Its IRS determination letter",
+    "A signed certificate stating the purchases are for a qualifying religious institution",
+    "Nothing",
+    "A sales tax DR-14 only"
+   ],
+   "answer": 1,
+   "why": "The rule requires a signed certificate; the IRS letter is not required."
+  },
+  {
+   "q": "If the dealer documented an exemption properly and the Department later finds tax due, who pays?",
+   "options": [
+    "The dealer",
+    "The customer",
+    "Nobody",
+    "The local government"
+   ],
+   "answer": 1,
+   "why": "The Department looks to the customer when the dealer met the documentation requirements."
+  }
+ ],
+ "10-resale": [
+  {
+   "q": "When does the CST Annual Resale Certificate expire?",
+   "options": [
+    "June 30",
+    "December 31",
+    "After five years",
+    "Never"
+   ],
+   "answer": 1,
+   "why": "It expires every December 31."
+  },
+  {
+   "q": "A Transaction Resale Authorization Number is valid for:",
+   "options": [
+    "The calendar year",
+    "That one transaction",
+    "Five years",
+    "All of the buyer's purchases"
+   ],
+   "answer": 1,
+   "why": "It covers the single transaction."
+  },
+  {
+   "q": "May a buyer use its sales and use tax resale certificate to buy communications services tax-free for resale?",
+   "options": [
+    "Yes",
+    "No, the CST certificate is separate",
+    "Only for mobile service",
+    "Only once"
+   ],
+   "answer": 1,
+   "why": "The CST Annual Resale Certificate is separate from the sales tax certificate."
+  },
+  {
+   "q": "A dealer sells for resale without proper documentation. Who owes the tax?",
+   "options": [
+    "The buyer only",
+    "The selling dealer",
+    "No one",
+    "The Department waives it"
+   ],
+   "answer": 1,
+   "why": "A sale for resale is excluded only in strict compliance; otherwise the seller is liable."
+  }
+ ],
+ "11-prepaid-calling": [
+  {
+   "q": "How is the sale of a prepaid phone card taxed in Florida?",
+   "options": [
+    "CST at 7.44% plus local",
+    "Sales tax at 6% plus any surtax",
+    "Not taxed",
+    "Gross receipts tax only"
+   ],
+   "answer": 1,
+   "why": "Prepaid calling arrangements are excluded from CST and taxed under s. 212.05."
+  },
+  {
+   "q": "A prepaid refill is bought online and nothing is shipped. Where is the sale sourced?",
+   "options": [
+    "The seller's headquarters",
+    "The customer's address or the location associated with the mobile number",
+    "Tallahassee",
+    "Nowhere"
+   ],
+   "answer": 1,
+   "why": "That is the rule in s. 212.05(1)(e)."
+  },
+  {
+   "q": "Is more tax due when the buyer uses the prepaid units to make calls?",
+   "options": [
+    "Yes, CST",
+    "Yes, sales tax again",
+    "No",
+    "Only local CST"
+   ],
+   "answer": 2,
+   "why": "No additional sales tax or CST is due on use of the units."
+  },
+  {
+   "q": "What is the status of TIP 12ADM-02 on prepaid communications services?",
+   "options": [
+    "Current",
+    "Retracted",
+    "Replaced by a rule",
+    "Expired in 2030"
+   ],
+   "answer": 1,
+   "why": "It was retracted on July 29, 2013."
+  }
+ ],
+ "12-use-tax-direct-pay": [
+  {
+   "q": "A consumer buys taxable service from a seller that does not collect Florida CST. What should the consumer file?",
+   "options": [
+    "DR-700016",
+    "DR-700019",
+    "DR-15",
+    "Nothing"
+   ],
+   "answer": 1,
+   "why": "Consumers report use tax on DR-700019; registered dealers use DR-700016."
+  },
+  {
+   "q": "When is a DR-700019 for the period ending June 30 late?",
+   "options": [
+    "After June 30",
+    "After July 20",
+    "After August 1",
+    "After December 31"
+   ],
+   "answer": 1,
+   "why": "It is due July 1 and late after July 20."
+  },
+  {
+   "q": "Which situation can qualify for a CST direct pay permit?",
+   "options": [
+    "Any large business",
+    "Most services bought originate outside Florida and terminate in Florida",
+    "Any government",
+    "Any reseller"
+   ],
+   "answer": 1,
+   "why": "The other basis is when taxability is known only on use."
+  },
+  {
+   "q": "How long does a direct pay permit last?",
+   "options": [
+    "One year",
+    "Five years",
+    "Until revoked",
+    "Ten years"
+   ],
+   "answer": 1,
+   "why": "Rule 12A-19.030 sets a five-year term with renewal on DR-700032."
+  }
+ ],
+ "13-filing-paying": [
+  {
+   "q": "When is a CST return late?",
+   "options": [
+    "After the 1st",
+    "After the 20th of the month after the period",
+    "After the 30th",
+    "After the quarter ends"
+   ],
+   "answer": 1,
+   "why": "Due on the 1st and late after the 20th, with weekend and holiday rollover."
+  },
+  {
+   "q": "Who must file and pay electronically?",
+   "options": [
+    "Everyone",
+    "Dealers that paid $5,000 or more in the prior state fiscal year",
+    "Only mobile providers",
+    "Only dealers with over 100 customers"
+   ],
+   "answer": 1,
+   "why": "The threshold is $5,000 paid during the prior July-to-June fiscal year."
+  },
+  {
+   "q": "By when must an electronic payment be initiated?",
+   "options": [
+    "Midnight on the 20th",
+    "5:00 p.m. ET on the business day before the 20th",
+    "Noon on the 20th",
+    "The 1st"
+   ],
+   "answer": 1,
+   "why": "A confirmation number must be received by 5:00 p.m. ET on the business day before the 20th."
+  },
+  {
+   "q": "A dealer had no taxable sales this month. Must it file?",
+   "options": [
+    "No",
+    "Yes, a return is required for each period",
+    "Only if requested",
+    "Only quarterly"
+   ],
+   "answer": 1,
+   "why": "A return must be filed for each reporting period, even if no tax is due."
+  }
+ ],
+ "14-dr700016": [
+  {
+   "q": "Where do residential landline sales go on Schedule I?",
+   "options": [
+    "Column B only",
+    "Column C only",
+    "Both B and C",
+    "Neither"
+   ],
+   "answer": 1,
+   "why": "Residential sales are exempt from the 5.07%, so they go in Column C (2.37% and local) but not Column B."
+  },
+  {
+   "q": "Page 1, Line 1 comes from:",
+   "options": [
+    "Schedule II, Column C",
+    "Summary of Schedule I, Column F, Line 3",
+    "Schedule IV, Column U",
+    "Line 5"
+   ],
+   "answer": 1,
+   "why": "Line 1 is the tax at 4.92% + 0.15% from the Schedule I summary."
+  },
+  {
+   "q": "Where is direct-to-home satellite tax reported?",
+   "options": [
+    "Schedule I",
+    "Schedule II",
+    "Schedule V",
+    "Line 3"
+   ],
+   "answer": 1,
+   "why": "Schedule II, with the total in Column C going to Line 4."
+  },
+  {
+   "q": "Can Line 12 be negative?",
+   "options": [
+    "Yes",
+    "No",
+    "Only with Schedule V credits",
+    "Only for satellite"
+   ],
+   "answer": 1,
+   "why": "The instructions say Line 12 cannot be a negative number."
+  }
+ ],
+ "15-rate-changes": [
+  {
+   "q": "A city adopts a new local CST rate in June. When is it effective (outside the freeze)?",
+   "options": [
+    "Immediately",
+    "July 1",
+    "Bills dated on or after the next January 1",
+    "After 90 days"
+   ],
+   "answer": 2,
+   "why": "Changes apply to bills dated on or after the January 1 after adoption."
+  },
+  {
+   "q": "By when must the city notify the Department?",
+   "options": [
+    "September 1",
+    "October 1",
+    "December 31",
+    "June 30"
+   ],
+   "answer": 0,
+   "why": "Notice is due by September 1 before the January 1 effective date."
+  },
+  {
+   "q": "How much notice must the Department give dealers?",
+   "options": [
+    "30 days",
+    "60 days",
+    "At least 90 days",
+    "One year"
+   ],
+   "answer": 2,
+   "why": "Section 202.21 requires at least 90 days."
+  },
+  {
+   "q": "Service was provided in December 2025 but billed on January 5, 2026. Which rate applies under the January 2026 TIP?",
+   "options": [
+    "The 2025 rate",
+    "The new rate, because the bill was issued on or after January 1, 2026",
+    "An average",
+    "The lower one"
+   ],
+   "answer": 1,
+   "why": "The rates apply to all bills issued on or after January 1, 2026, regardless of when service was rendered."
+  }
+ ],
+ "16-refunds-audits-penalties": [
+  {
+   "q": "How long does a customer have to request a refund of CST from the dealer?",
+   "options": [
+    "1 year",
+    "3 years after collection",
+    "5 years",
+    "90 days"
+   ],
+   "answer": 1,
+   "why": "The written request must be submitted within 3 years after the tax was collected."
+  },
+  {
+   "q": "A return is filed and paid 45 days late. What is the late penalty rate?",
+   "options": [
+    "10%",
+    "20%",
+    "30%",
+    "50%"
+   ],
+   "answer": 1,
+   "why": "10% for each 30 days or fraction: 45 days is two periods, so 20%."
+  },
+  {
+   "q": "What starts the 60-day pre-audit period?",
+   "options": [
+    "A phone call",
+    "A Notice of Intent to Audit Books and Records (DR-840)",
+    "The entrance interview",
+    "A DR-1215"
+   ],
+   "answer": 1,
+   "why": "The DR-840 starts the 60-day period, which the taxpayer may waive."
+  },
+  {
+   "q": "What is the usual audit lookback period?",
+   "options": [
+    "One year",
+    "Three years",
+    "Seven years",
+    "Unlimited"
+   ],
+   "answer": 1,
+   "why": "Typically three years, longer for non-filers or substantially incorrect returns."
+  }
+ ],
+ "17-capstone": [
+  {
+   "q": "In the capstone, why does the Orlando mobile plan revenue go in Column B?",
+   "options": [
+    "Mobile service is exempt",
+    "Mobile service never gets the residential exemption",
+    "It is sold for resale",
+    "It is prepaid"
+   ],
+   "answer": 1,
+   "why": "Mobile service is fully taxable, including the 5.07%."
+  },
+  {
+   "q": "Why are the prepaid refill cards left off the CST return?",
+   "options": [
+    "They are exempt from all tax",
+    "They are taxed under the sales tax law instead",
+    "They are below a threshold",
+    "They are resold"
+   ],
+   "answer": 1,
+   "why": "The sale of prepaid calling arrangements is taxed under s. 212.05, not CST."
+  },
+  {
+   "q": "Mangrove's Line 5 is $8,716.80. What is its collection allowance if on time?",
+   "options": [
+    "$21.79",
+    "$65.38",
+    "$87.17",
+    "$0"
+   ],
+   "answer": 1,
+   "why": "0.0075 × $8,716.80 = $65.376, rounded to $65.38."
+  },
+  {
+   "q": "Mangrove reported $552.00 of local tax to Orlando (5.52%) that belonged elsewhere. What is the decrease in Orlando's taxable sales on Schedule IV?",
+   "options": [
+    "$552.00",
+    "$10,000.00",
+    "$10,454.55",
+    "$5,520.00"
+   ],
+   "answer": 1,
+   "why": "$552.00 ÷ 0.0552 = $10,000.00, shown in parentheses."
+  }
+ ]
+}

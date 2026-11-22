@@ -1,0 +1,20 @@
+<svg class="svg-text" role="img" aria-labelledby="so-t so-d" viewBox="0 0 760 360" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="so-t">Finding the service address, and from it the local jurisdiction</title>
+<desc id="so-d">Four kinds of service, each with its own rule, all leading to one service address. Mobile communications service: the customer's place of primary use, which is the residential or primary business street address within the provider's licensed service area. Video and direct-to-home satellite service: the location in Florida where the service is received. Calls billed to a calling card or credit card: the central office location identified by the area code and the first three digits of the originating number. Other fixed services: the location of the equipment where the call originates or is received, or the street address the customer designates as the place of primary use when that location cannot be determined. The service address is then looked up in the Address/Jurisdiction Database or another qualifying method to find the county or municipality whose local tax applies.</desc>
+<defs><marker id="so-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#051a54"/></marker></defs>
+<g font-size="14" fill="#1f1f1f">
+<rect x="10" y="10" width="420" height="70" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="36" font-weight="700">Mobile service</text><text x="20" y="58">place of primary use: home or primary business</text><text x="20" y="75" font-size="13">street address in the licensed service area</text>
+<rect x="10" y="95" width="420" height="55" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="118" font-weight="700">Video and satellite service</text><text x="20" y="140">where the service is received in Florida</text>
+<rect x="10" y="165" width="420" height="70" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="190" font-weight="700">Calls billed to a calling card or credit card</text><text x="20" y="212">central office: area code plus first three digits</text><text x="20" y="229" font-size="13">of the originating telephone number</text>
+<rect x="10" y="250" width="420" height="90" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="20" y="275" font-weight="700">Other fixed service</text><text x="20" y="297">location of the equipment where the call</text><text x="20" y="315">originates or is received; if unknown, the</text><text x="20" y="333">customer's place of primary use</text>
+<g stroke="#051a54" stroke-width="3"><line x1="430" y1="45" x2="500" y2="160" marker-end="url(#so-a)"/><line x1="430" y1="122" x2="500" y2="170" marker-end="url(#so-a)"/><line x1="430" y1="200" x2="500" y2="182" marker-end="url(#so-a)"/><line x1="430" y1="295" x2="500" y2="195" marker-end="url(#so-a)"/></g>
+<rect x="505" y="140" width="245" height="70" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="627" y="170" text-anchor="middle" font-weight="700" font-size="15">Service address</text><text x="627" y="192" text-anchor="middle">one per charge</text>
+<line x1="627" y1="210" x2="627" y2="255" stroke="#051a54" stroke-width="3" marker-end="url(#so-a)"/>
+<rect x="505" y="260" width="245" height="80" rx="8" fill="#fde8eb" stroke="#a1001b"/>
+<text x="627" y="285" text-anchor="middle" font-weight="700">Jurisdiction and</text><text x="627" y="305" text-anchor="middle" font-weight="700">local rate</text><text x="627" y="327" text-anchor="middle" font-size="13">from the database lookup</text>
+</g></svg>

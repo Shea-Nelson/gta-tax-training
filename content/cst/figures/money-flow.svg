@@ -1,0 +1,34 @@
+<svg class="svg-text" role="img" aria-labelledby="mf-t mf-d" viewBox="0 0 760 330" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="mf-t">How a communications services tax dollar moves</title>
+<desc id="mf-d">A flow diagram. The customer pays a bill that separately shows the Florida communications services tax and the local communications services tax. The dealer, the business selling the service, collects both and holds them as a trustee. Each month the dealer files Form DR-700016 with the Florida Department of Revenue and pays the tax, keeping a collection allowance when the return and payment are on time. The Department sends the 2.37 and 0.15 percent gross receipts portions to be deposited as the State Constitution provides for gross receipts taxes, distributes the state portion under the law, and sends each local government the local tax reported for addresses in that jurisdiction through the Local Communications Services Tax Clearing Trust Fund.</desc>
+<defs><marker id="mf-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#051a54"/></marker></defs>
+<g font-size="15" fill="#1f1f1f">
+<rect x="10" y="40" width="190" height="120" rx="8" fill="#e6e6e6" stroke="#4a4a4a"/>
+<text x="105" y="70" text-anchor="middle" font-weight="700">Customer</text>
+<text x="105" y="95" text-anchor="middle">pays the bill, with</text>
+<text x="105" y="115" text-anchor="middle">Florida CST and</text>
+<text x="105" y="135" text-anchor="middle">local CST shown</text>
+<rect x="285" y="40" width="190" height="120" rx="8" fill="#e8f4f3" stroke="#00695f"/>
+<text x="380" y="70" text-anchor="middle" font-weight="700">Dealer</text>
+<text x="380" y="95" text-anchor="middle">collects the tax and</text>
+<text x="380" y="115" text-anchor="middle">holds it in trust</text>
+<text x="380" y="135" text-anchor="middle">for the state</text>
+<rect x="560" y="40" width="190" height="120" rx="8" fill="#e7ebf5" stroke="#051a54"/>
+<text x="655" y="70" text-anchor="middle" font-weight="700">Department of</text>
+<text x="655" y="90" text-anchor="middle" font-weight="700">Revenue</text>
+<text x="655" y="115" text-anchor="middle">receives DR-700016</text>
+<text x="655" y="135" text-anchor="middle">and payment</text>
+<line x1="200" y1="100" x2="280" y2="100" stroke="#051a54" stroke-width="3" marker-end="url(#mf-a)"/>
+<line x1="475" y1="100" x2="555" y2="100" stroke="#051a54" stroke-width="3" marker-end="url(#mf-a)"/>
+<text x="515" y="30" text-anchor="middle" font-size="13">monthly return,</text>
+<text x="515" y="186" text-anchor="middle" font-size="13">minus allowance</text>
+<text x="515" y="204" text-anchor="middle" font-size="13">if on time</text>
+<line x1="610" y1="160" x2="470" y2="240" stroke="#051a54" stroke-width="3" marker-end="url(#mf-a)"/>
+<line x1="700" y1="160" x2="700" y2="240" stroke="#051a54" stroke-width="3" marker-end="url(#mf-a)"/>
+<rect x="250" y="245" width="290" height="75" rx="8" fill="#fff" stroke="#4a4a4a"/>
+<text x="395" y="272" text-anchor="middle" font-weight="700">State</text>
+<text x="395" y="296" text-anchor="middle" font-size="14">state tax and gross receipts tax</text>
+<rect x="560" y="245" width="190" height="75" rx="8" fill="#fff" stroke="#4a4a4a"/>
+<text x="655" y="272" text-anchor="middle" font-weight="700">Local governments</text>
+<text x="655" y="296" text-anchor="middle" font-size="14">local tax, by jurisdiction</text>
+</g></svg>

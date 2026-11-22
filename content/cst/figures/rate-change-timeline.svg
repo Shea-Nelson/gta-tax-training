@@ -1,0 +1,14 @@
+<svg class="svg-text" role="img" aria-labelledby="rc-t rc-d" viewBox="0 0 760 280" width="760" xmlns="http://www.w3.org/2000/svg">
+<title id="rc-t">Timeline for a normal local rate change</title>
+<desc id="rc-d">A timeline for a local communications services tax rate change. A city or county adopts the change by ordinance or resolution. It must notify the Department on Form DR-700021 by September 1. The Department must notify affected dealers at least 90 days before the effective date. The new rate applies to bills dated on or after the next January 1, regardless of when the service was provided. Separately, rates in effect on January 1, 2023 may not be increased before January 1, 2031.</desc>
+<defs><marker id="rc-a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#051a54"/></marker></defs>
+<g font-size="14" fill="#1f1f1f">
+<line x1="30" y1="120" x2="730" y2="120" stroke="#051a54" stroke-width="4" marker-end="url(#rc-a)"/>
+<circle cx="80" cy="120" r="9" fill="#051a54"/><text x="80" y="90" text-anchor="middle" font-weight="700">Adoption</text><text x="80" y="152" text-anchor="middle">ordinance or</text><text x="80" y="170" text-anchor="middle">resolution</text>
+<circle cx="270" cy="120" r="9" fill="#051a54"/><text x="270" y="90" text-anchor="middle" font-weight="700">By September 1</text><text x="270" y="152" text-anchor="middle">local government files</text><text x="270" y="170" text-anchor="middle">DR-700021 with DOR</text>
+<circle cx="470" cy="120" r="9" fill="#051a54"/><text x="470" y="90" text-anchor="middle" font-weight="700">At least 90 days before</text><text x="470" y="152" text-anchor="middle">DOR notifies dealers</text><text x="470" y="170" text-anchor="middle">(rate table, TIP)</text>
+<circle cx="660" cy="120" r="11" fill="#a1001b"/><text x="660" y="90" text-anchor="middle" font-weight="700" fill="#a1001b">January 1</text><text x="660" y="152" text-anchor="middle">applies to bills</text><text x="660" y="170" text-anchor="middle">dated on or after</text>
+<rect x="30" y="205" width="700" height="55" rx="8" fill="#fde8eb" stroke="#a1001b"/>
+<text x="380" y="229" text-anchor="middle" font-weight="700">Freeze: a rate in effect on January 1, 2023</text>
+<text x="380" y="249" text-anchor="middle">may not be increased before January 1, 2031</text>
+</g></svg>

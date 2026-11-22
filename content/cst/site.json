@@ -1,0 +1,178 @@
+{
+ "tax": "cst",
+ "title": "Florida Communications Services Tax",
+ "short": "Communications Services Tax",
+ "pages": [
+  {
+   "slug": "index",
+   "title": "Florida Communications Services Tax training guide",
+   "summary": "Start here: what this guide covers, how it is organized, and how to use it."
+  },
+  {
+   "slug": "learning-path",
+   "title": "Learning path",
+   "tool": true,
+   "summary": "The recommended order through the modules, from beginner to master, with checkpoints."
+  },
+  {
+   "slug": "01-basics",
+   "module": 1,
+   "level": "Beginner",
+   "minutes": 20,
+   "title": "What communications services tax is",
+   "summary": "The three parts of the tax, who collects it, separately stating it on bills, and how the money flows to the state and local governments."
+  },
+  {
+   "slug": "02-rates",
+   "module": 2,
+   "level": "Beginner",
+   "minutes": 25,
+   "title": "The Florida CST rates and the residential exemption",
+   "summary": "The 4.92%, 0.15% and 2.37% pieces, the 7.44% total, the 11.44% satellite rate, and the residential household exemption."
+  },
+  {
+   "slug": "03-local-tax-and-rounding",
+   "module": 3,
+   "level": "Beginner",
+   "minutes": 30,
+   "title": "Local CST and computing the tax on a bill",
+   "summary": "Who levies local CST, how a jurisdiction's total rate is built, the rounding rule, and a calculator."
+  },
+  {
+   "slug": "04-registration",
+   "module": 4,
+   "level": "Beginner",
+   "minutes": 20,
+   "title": "Registering as a communications services dealer",
+   "summary": "Who must register, who need not, Form DR-1, what a new dealer receives, and keeping the account current."
+  },
+  {
+   "slug": "05-taxable-services",
+   "module": 5,
+   "level": "Intermediate",
+   "minutes": 30,
+   "title": "Which services are taxable",
+   "summary": "The definition of communications services, the list of taxable services, and the services and charges outside the tax."
+  },
+  {
+   "slug": "06-sales-price-bundling",
+   "module": 6,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Sales price, bundles and charges on the bill",
+   "summary": "What is in and out of the taxable sales price, always-taxable charges, and how bundled taxable and nontaxable services are treated."
+  },
+  {
+   "slug": "07-sourcing",
+   "module": 7,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Where a service is taxed: the service address",
+   "summary": "The service address rules for fixed, card-billed, video, satellite and mobile service, and the private line rules."
+  },
+  {
+   "slug": "08-address-database",
+   "module": 8,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "The Address/Jurisdiction Database and the collection allowance",
+   "summary": "Assigning addresses to jurisdictions, hold harmless protection, certified databases, change requests, and the 0.75% or 0.25% allowance."
+  },
+  {
+   "slug": "09-exemptions",
+   "module": 9,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Exempt sales and how to document them",
+   "summary": "Government, religious and educational institutions, homes for the aged, Internet access providers, and the records a dealer must keep."
+  },
+  {
+   "slug": "10-resale",
+   "module": 10,
+   "level": "Intermediate",
+   "minutes": 25,
+   "title": "Sales for resale",
+   "summary": "The Annual Resale Certificate for CST, Transaction and Vendor Resale Authorization Numbers, and what happens without proper documentation."
+  },
+  {
+   "slug": "11-prepaid-calling",
+   "module": 11,
+   "level": "Advanced",
+   "minutes": 15,
+   "title": "Prepaid calling arrangements and other services outside CST",
+   "summary": "Why prepaid calling is taxed under the sales tax law instead, and where the line falls for pay telephones, condominiums and parks."
+  },
+  {
+   "slug": "12-use-tax-direct-pay",
+   "module": 12,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Use tax and direct pay permits",
+   "summary": "When a purchaser owes CST directly, the DR-700019 consumer return, and self-accrual under a direct pay permit."
+  },
+  {
+   "slug": "13-filing-paying",
+   "module": 13,
+   "level": "Advanced",
+   "minutes": 30,
+   "title": "Filing and paying, including the new eFile system",
+   "summary": "Due dates, electronic filing rules, the June 2026 eFile system, Direct File, payment deadlines and the alternative filing period."
+  },
+  {
+   "slug": "14-dr700016",
+   "module": 14,
+   "level": "Advanced",
+   "minutes": 40,
+   "title": "The DR-700016 return, line by line",
+   "summary": "Page 1 Lines 1 to 12, Schedule I and its summary, Schedules II to V, and a fully worked return."
+  },
+  {
+   "slug": "15-rate-changes",
+   "module": 15,
+   "level": "Advanced",
+   "minutes": 20,
+   "title": "Local rate changes and effective dates",
+   "summary": "How and when local rates change, notice deadlines, the freeze through 2030, database update dates, and reading the rate table."
+  },
+  {
+   "slug": "16-refunds-audits-penalties",
+   "module": 16,
+   "level": "Master",
+   "minutes": 30,
+   "title": "Refunds, bad debts, audits and penalties",
+   "summary": "The customer refund procedure, dealer credits, bad debt, penalties, interest and what happens in a CST audit."
+  },
+  {
+   "slug": "17-capstone",
+   "module": 17,
+   "level": "Master",
+   "minutes": 45,
+   "title": "Capstone: a month of CST for a fictional provider",
+   "summary": "Classify a month of charges, compute every tax, complete Schedule I and Page 1, and correct a situs error."
+  },
+  {
+   "slug": "glossary",
+   "title": "Glossary",
+   "tool": true,
+   "summary": "Plain-language definitions of communications services tax terms, each linked to its source."
+  },
+  {
+   "slug": "forms",
+   "title": "Form finder",
+   "tool": true,
+   "summary": "Every communications services tax form, instruction and publication collected for this guide, with links to the official copy."
+  },
+  {
+   "slug": "quick-reference",
+   "title": "Quick reference",
+   "tool": true,
+   "summary": "Rates, deadlines, thresholds and form numbers on one printable page."
+  },
+  {
+   "slug": "sources",
+   "title": "Sources and method",
+   "tool": true,
+   "summary": "How the guide was researched, what was collected, known gaps, and every source cited."
+  }
+ ]
+}
